@@ -1,7 +1,6 @@
 title:            Emrah Yumuk Website
 description:      Kişisel Websitem
 disqus_shortname: 
-reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url: http://emrahyumuk.github.io

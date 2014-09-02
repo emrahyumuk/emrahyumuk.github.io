@@ -3,6 +3,8 @@ layout: page
 permalink: /ara/
 title: Site İçi Arama 
 tags: [arama, search, site içi arama]
+image:
+  feature: abstract-5.jpg
 ---
 
 <script>
