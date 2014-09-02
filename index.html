@@ -11,7 +11,7 @@ image:
 <article class="hentry">
   <header>
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/hakkimda/" title="Hakkımda {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Yorum</a></span>
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }}</a></time></span> - <span class="author vcard"><span class="fn"><a href="{{ site.url }}/hakkimda/" title="{{ site.owner.name }} hakkında">{{ site.owner.name }}</a></span></span>&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Yorumlar</a></span>
       {% if site.reading_time %}
       <span class="entry-reading-time pull-right">
         <i class="fa fa-clock-o"></i>
