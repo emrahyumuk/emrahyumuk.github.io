@@ -1,6 +1,6 @@
 title:            Emrah Yumuk Website
-description:      Kişisel Websitem
-disqus_shortname: 
+description:      Emrah Yumuk Website
+disqus_shortname: emrahyumuk
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url: http://emrahyumuk.github.io
@@ -50,8 +50,6 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
-
-disqus_shortname: emrahyumuk
 
 kramdown:
   auto_ids: true
