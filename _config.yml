@@ -13,9 +13,9 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter: http:/twitter.com/emrahyumuk       
+  facebook: http:/www.facebook.com/yumuk.emrah      
+  github: http:/github.com/emrahyumuk          
   stackexchange:  
   linkedin:       
   instagram:      
@@ -23,7 +23,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +emrahyumuk
 
 # Background image to be tiled on all pages
 background: 
@@ -44,7 +44,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Istanbul
 future:      true
 highlighter: pygments
 markdown:    kramdown
