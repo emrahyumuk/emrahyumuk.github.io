@@ -4,6 +4,7 @@ disqus_shortname:
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url: http://emrahyumuk.github.io
+date-format: "%d.%m.%Y"
 
 # Owner/author information
 owner:
