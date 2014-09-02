@@ -37,12 +37,12 @@ image:
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Geri</a>
+      <a href="{{ site.url }}" class="btn"><<</a>
     {% else %}
-      <a href="{{ site.url }}/sayfa-{{ paginator.previous_page }}" class="btn">Geri</a>
+      <a href="{{ site.url }}/sayfa-{{ paginator.previous_page }}" class="btn"><<</a>
     {% endif %}
   {% else %}
-    Geri
+    <<
   {% endif %}
   <ul class="inline-list">
     <li>
@@ -63,8 +63,8 @@ image:
     {% endfor %}
   </ul>
   {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">şşööüü</a>
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">>></a>
   {% else %}
-    şşiüğı
+    >>
   {% endif %}
 </div><!-- /.pagination -->
