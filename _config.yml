@@ -4,14 +4,13 @@ disqus_shortname:
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url: http://emrahyumuk.github.io
-date-format: "%d.%m.%Y"
 
 # Owner/author information
 owner:
   name:           Emrah Yumuk
   avatar:         avatar.jpg
   bio:            ""
-  email:          you@email.com
+  email:          emrahyumuk@hotmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: emrahyumuk       
   facebook: yumuk.emrah      
@@ -38,7 +37,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Ara
-    url: /search
+    url: /ara
   - title: External Link
     url: http://mademistakes.com
     external: true
