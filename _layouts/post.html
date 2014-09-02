@@ -6,7 +6,7 @@
 <head>
 {% include head.html %}
 </head>
-{% if page.image.feature page.image.feature=abstract-3.jpg; endif %}
+{% if page.image.feature %}
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
 
 {% include browser-upgrade.html %}
@@ -19,6 +19,16 @@
     <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
   </div><!-- /.entry-image -->
 </div><!-- /.entry-header -->
+{% else %}
+	<body id="post" class="feature">
+	{% include browser-upgrade.html %}
+	{% include navigation.html %}
+
+	<div class="entry-header">
+	  <div class="entry-image">
+		<img src="{{ site.url }}/images/abstract-3.jpg" alt="{{ page.title }}">
+	  </div><!-- /.entry-image -->
+	</div><!-- /.entry-header -->
 {% endif %}
 
 <div id="main" role="main">
