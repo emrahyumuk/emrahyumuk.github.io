@@ -13,9 +13,9 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: http:/twitter.com/emrahyumuk       
-  facebook: http:/www.facebook.com/yumuk.emrah      
-  github: http:/github.com/emrahyumuk          
+  twitter: emrahyumuk       
+  facebook: yumuk.emrah      
+  github: emrahyumuk          
   stackexchange:  
   linkedin:       
   instagram:      
