@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /search/
+permalink: /ara/
 title: Site İçi Arama 
 tags: [arama, search, site içi arama]
 ---
