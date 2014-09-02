@@ -17,4 +17,4 @@ tags: [arama, search, site içi arama]
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:searchbox-only></gcse:searchbox-only>
