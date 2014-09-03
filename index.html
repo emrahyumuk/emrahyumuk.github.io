@@ -27,7 +27,12 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {% if post.content contains site.excerpt_separator %}
+		{{ post.content | split: site.excerpt_separator | first }}
+		<p><a href="{{ post.url }}">...Devamını oku</a></p>
+	{% else %}
+		{{ post.content }}
+	{% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
