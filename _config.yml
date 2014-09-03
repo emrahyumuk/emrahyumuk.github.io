@@ -3,7 +3,7 @@ description:      Emrah Yumuk Website Blog Yazılar
 disqus_shortname: emrahyumuk
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url: http://emrahyumuk.github.io
+url: http://www.emrahyumuk.com
 
 # Owner/author information
 owner:
@@ -22,7 +22,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +emrahyumuk
+  # google_plus:    +emrahyumuk
 
 # Background image to be tiled on all pages
 background: 
