@@ -7,6 +7,9 @@ url: http://www.emrahyumuk.com
 
 excerpt_separator: "<!-- more -->"
 
+tag_page_dir: "etiket"
+tag_index_dir: "etiket-arsiv"
+
 # Owner/author information
 owner:
   name:           Emrah Yumuk

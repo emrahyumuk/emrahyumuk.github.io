@@ -15,3 +15,17 @@
 </script>
 {% endif %}
 {% if page.comments %}{% include disqus_comments.html %}{% endif %}
+
+<script>
+	function convertToSlug(text){
+		return text.toLowerCase()
+			.replace(/ı/g,'i')
+			.replace(/ç/g,'c')
+			.replace(/ğ/g,'g')
+			.replace(/ü/g,'u')
+			.replace(/ş/g,'s')
+			.replace(/ö/g,'o')
+			.replace(/ /g,'-')
+			.replace(/[^\w-]+/g,'');
+	}
+</script>
