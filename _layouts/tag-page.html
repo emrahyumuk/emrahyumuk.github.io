@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h2>{{page.tag}}<h2>
+<p><h2>{{page.tag}}<h2><p>
 <ul>{% for post in site.posts %}{% for tag in post.tags %}{% if tag == page.tag %}
   <li>
     <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%d/%m/%Y"}}</time>

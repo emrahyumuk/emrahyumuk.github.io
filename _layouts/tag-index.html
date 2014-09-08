@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h2>Etiket Arşiv</h2>
+<p><h2>Etiket Arşiv</h2></p>
 <ul>{% for tag in site.tags %} 
-  <li><a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a> <span>{{ tag[1].size }}</span></li>{% endfor %}
+  <li><a href="/{{site.tag_page_dir}}/{{ tag[0] }}">{{ tag[0] }}</a> <span>{{ tag[1].size }}</span></li>{% endfor %}
 </ul>

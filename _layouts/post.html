@@ -97,8 +97,9 @@
 {% include scripts.html %}
 
 <script>	
-	$(document).ready(function() {
-		var tags = $(".entry-tags a");
+	function preloadFunc()
+    {
+        var tags = $(".entry-tags a");
 		$.each(tags,function(i,val){
 			var a = $(val);
 			var name = a.attr("title");
@@ -107,7 +108,10 @@
 			href = href + slug;
 			a.attr("href", href);
 		});
-	});
+    }
+    window.onpaint = preloadFunc();
+	
+	
 </script>
 
 </body>
