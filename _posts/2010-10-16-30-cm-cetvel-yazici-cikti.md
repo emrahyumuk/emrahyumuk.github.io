@@ -17,7 +17,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cetvel.jpg
+- http://www.emrahyumuk.com/images/blog/cetvel.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:7223;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366293512;}
 ---

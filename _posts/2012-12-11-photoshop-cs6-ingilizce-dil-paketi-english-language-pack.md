@@ -15,7 +15,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:2398;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366291166;}
 yazi_resmi:
-- https://dl.dropbox.com/u/21850338/EmrahYumuk.com/Adobe-Photoshop-CS6.jpg
+- http://www.emrahyumuk.com/images/blog/Adobe-Photoshop-CS6.jpg
 ---
 
 Kurmuş olduğunuz **Photoshop CS6** Türkçe veya başka bir dil ise ise, ve İngilizceye çevirmek istiyorsanız işte yapmanız gerekenler:
@@ -30,4 +30,4 @@ Son olarak indirmiş olduğunuz rar dosyasının içinden çıkan **en_GB** klas
 
 Photoshop CS6&#8242;yı tekrar çalıştırın. İngilizce olduğunu göreceksiniz.
 
- [1]: https://dl.dropbox.com/u/21850338/EmrahYumuk.com/_download/PhotoshopCS6_EnglishLanguagePack.rar
+ [1]: http://www.emrahyumuk.com/images/blog/_download/PhotoshopCS6_EnglishLanguagePack.rar

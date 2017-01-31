@@ -7,7 +7,7 @@ categories:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sdlogo.png
+- http://www.emrahyumuk.com/images/blog/sdlogo.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:3:"794";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364837731";}
 ---
@@ -23,13 +23,13 @@ uzun zamandır plandığım website ve seyir defterimi yenileme planını nihaye
 bunlar da yeni logolarım:
 
 <div class="wp-caption alignnone" style="width: 210px">
-  <img class=" " title="emrahyumuk.com logo" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/emrahlogo.png" alt="" width="200" height="200" /> <p class="wp-caption-text">
+  <img class=" " title="emrahyumuk.com logo" src="http://www.emrahyumuk.com/images/blog/emrahlogo.png" alt="" width="200" height="200" /> <p class="wp-caption-text">
     EmrahYumuk.com Logo
   </p>
 </div>
 
 <div class="wp-caption alignnone" style="width: 210px">
-  <img class=" " title="seyir defterim logo" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sdlogo.png" alt="" width="200" height="200" /> <p class="wp-caption-text">
+  <img class=" " title="seyir defterim logo" src="http://www.emrahyumuk.com/images/blog/sdlogo.png" alt="" width="200" height="200" /> <p class="wp-caption-text">
     Seyir Defterim Logo
   </p>
 </div>

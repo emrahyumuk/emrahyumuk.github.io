@@ -28,7 +28,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"5168";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288710";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 ---
 
 Değişkenler bir programlama dilinde temel verileri saklamak ve bu verileri sonradan kullanmak için kullanılan bellek bölgeleridir.

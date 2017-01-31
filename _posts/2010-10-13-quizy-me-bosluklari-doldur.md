@@ -14,7 +14,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:730;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290706;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/quizyme.png
+- http://www.emrahyumuk.com/images/blog/quizyme.png
 ---
 
 twitter&#8217;a türk rakip diye haber başlıklarına konu olan **<span><a href="http://quizy.me">quizy.me</a></span>** neymiş bir bakalım.

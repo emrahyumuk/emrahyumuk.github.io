@@ -20,7 +20,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"6150";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364919820";}
 Hide SexyBookmarks:

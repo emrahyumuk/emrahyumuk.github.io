@@ -17,7 +17,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"2053";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364893524";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/avar.jpg
+- http://www.emrahyumuk.com/images/blog/avar.jpg
 ---
 
 Yıllar önce İzmir Kadınlar Hapishanesi&#8217; ndeki mahkûm kadınlara akşam dersleri verilmesi kararlaştırılmıştı. Bir gün milli eğitim müdürünün odasına zayıf, ufak-tefek bir genç kız girdi.
@@ -85,7 +85,7 @@ Dağ tepesindeki köylere bu masal kadının, öğrenci toplamak için gittiği 
 
 Hikmet Feridun Es , Hayat Dergisi, 1957
 
-<img class="alignnone" title="sıdıka avar" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/avar-b.jpg" alt="" width="285" height="320" />
+<img class="alignnone" title="sıdıka avar" src="http://www.emrahyumuk.com/images/blog/avar-b.jpg" alt="" width="285" height="320" />
 
 Sıdıka Avar hakkında daha ayrıntılı bilgiye şu sayfalardan ulaşabilirsiniz.  
 <a href="http://baysungur.blogcu.com/1142-avar-ne-olur-kizimi-goturme/6297616" target="_blank">http://baysungur.blogcu.com/1142-avar-ne-olur-kizimi-goturme/6297616</a>  

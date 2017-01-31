@@ -20,7 +20,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/biriyasakmidedi.png
+- http://www.emrahyumuk.com/images/blog/biriyasakmidedi.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1392";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364881359";}
 ---

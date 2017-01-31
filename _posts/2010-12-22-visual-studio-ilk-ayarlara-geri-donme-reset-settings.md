@@ -15,7 +15,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"2301";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364914326";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/visualstudio2010.png
+- http://www.emrahyumuk.com/images/blog/visualstudio2010.png
 ---
 
 Microsof Visual Studio&#8217;da ayarları değiştirmiş ve eski ayarlara geri dönemiyorsanız;

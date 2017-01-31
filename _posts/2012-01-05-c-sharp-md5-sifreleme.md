@@ -17,7 +17,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 Hide SexyBookmarks:
 - 0
 Hide OgTags:

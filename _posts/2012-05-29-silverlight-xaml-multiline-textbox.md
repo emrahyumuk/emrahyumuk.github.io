@@ -16,7 +16,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/silverlight-logo.jpg
+- http://www.emrahyumuk.com/images/blog/silverlight-logo.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"4722";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364918539";}
 ---
@@ -51,7 +51,7 @@ Listeleme için multiline textbox&#8217;ı kullanacağımız zaman TextWrapping 
 
 <code lang="html">&lt;TextBox Height="350" Width="200" HorizontalAlignment="Left" Margin="220,60,0,0" Name="textBox1" VerticalAlignment="Top" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" &lt;span style="color: #0000ff;">&lt;strong>HorizontalScrollBarVisibility="Auto"&lt;/strong>&lt;/span> /&gt;</code>
 
-<img class="alignnone" title="silverlight xaml multiline textbox" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/xaml-multiline-textbox.png" alt="silverlight xaml multiline textbox" width="317" height="404" />
+<img class="alignnone" title="silverlight xaml multiline textbox" src="http://www.emrahyumuk.com/images/blog/xaml-multiline-textbox.png" alt="silverlight xaml multiline textbox" width="317" height="404" />
 
 Bu şekilde girilen bir listeyi Code Behind &#8216;ta string array&#8217;e şu şekilde çeviriyoruz.
 

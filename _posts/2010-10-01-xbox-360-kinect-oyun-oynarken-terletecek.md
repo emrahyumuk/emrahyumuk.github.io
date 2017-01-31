@@ -15,7 +15,7 @@ sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1089";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364873262";}
 ---
 
-<img class="alignnone" title="xbox 360 kinect" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/kinectpackage.jpg" alt="" width="374" height="150" />
+<img class="alignnone" title="xbox 360 kinect" src="http://www.emrahyumuk.com/images/blog/kinectpackage.jpg" alt="" width="374" height="150" />
 
 Herhangi bir oyun konsoluna ihtiyaç duymadan hareketleri algılayan Xbox 360 Kinect yakında çıkıyor.
 

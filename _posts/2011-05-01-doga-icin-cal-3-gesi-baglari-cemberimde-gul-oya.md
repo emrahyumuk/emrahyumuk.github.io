@@ -24,7 +24,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:53329;s:11:"sayac_bugun";i:12;s:9:"son_okuma";i:1366294902;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/doga-icin-cal.jpg
+- http://www.emrahyumuk.com/images/blog/doga-icin-cal.jpg
 ---
 
 Daha önce Divane Aşık Gibi ve Uzun İnce Bir Yoldayım şarkılarını seslendiren Doğa İçin Çal projesi gönüllü müzisyenleri 3. videolarında 3 şarkı birden seslendiriyorlar: Gesi Bağları, Çemberimde Gül Oya ve Çayeli&#8217;nden Öteye.

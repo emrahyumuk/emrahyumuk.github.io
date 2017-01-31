@@ -19,7 +19,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1523";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364796924";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 ---
 
 if-else yapısında olduğu gibi switch-case de bir karar, kontrol yapısıdır. switch-case ile yaptıklarımızı if-else kullanarak da yapabiliriz. Fakat bazı durumlarda switch-case kullanmamız çok daha pratik olacaktır.

@@ -17,7 +17,7 @@ Hide SexyBookmarks:
 Hide OgTags:
 - 0
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:9930;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366293381;}
 ---

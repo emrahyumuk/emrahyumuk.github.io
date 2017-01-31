@@ -19,7 +19,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"4918";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364899013";}
 ---
@@ -134,4 +134,4 @@ tabloda gördüğümüz bütün işlemlerde sonuçlar tekrar aynı değişkene a
        comboBox1.Items.Add(yil);
 }</pre>
 
-<img class="alignnone" title="combobox yil sıralama" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/combobox.jpg" alt="combo box yıllar" width="363" height="513" />
+<img class="alignnone" title="combobox yil sıralama" src="http://www.emrahyumuk.com/images/blog/combobox.jpg" alt="combo box yıllar" width="363" height="513" />

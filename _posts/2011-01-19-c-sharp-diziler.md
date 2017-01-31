@@ -18,7 +18,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"2942";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366289300";}
 ---
@@ -34,7 +34,7 @@ sadece tek satırdan n tane sütundan oluşan ve n tane elemanı olan bir dizi.
 <span style="color: #c0c0c0;">.</span>
 
 Satır ve Sütunlardan oluşan matris:  
-<img class="alignnone" title="matris c# dizi" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/matris.png" alt="" width="311" height="109" />
+<img class="alignnone" title="matris c# dizi" src="http://www.emrahyumuk.com/images/blog/matris.png" alt="" width="311" height="109" />
 
 n tane sütun ve m tane satırdan oluşan ve m*n elemanlı çok boyutlu bir dizi.
 
@@ -98,7 +98,7 @@ for(int i=0; i &lt; Sayilar.Length; i++)
 .
 
 1 tane sayısal loto kuponunda 8 tane kolon vardır ve her kolonda 6 sayı mevcuttur. Bu kupondaki 8 kolonu da oynadığımızı düşünelim. Bu kolonları alt alta yazalım. Oluşan dizi 8 satırlı 6 sütunlu bir dizi olacaktır. Bu diziye 2 boyutlu dizi diyoruz.  
-<img class="alignnone" title="sayısal loto" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sayisal-loto.jpg" alt="" width="205" height="314" />
+<img class="alignnone" title="sayısal loto" src="http://www.emrahyumuk.com/images/blog/sayisal-loto.jpg" alt="" width="205" height="314" />
 
 <pre>int[,] SayisalLotoKuponu = new int [8, 6];</pre>
 

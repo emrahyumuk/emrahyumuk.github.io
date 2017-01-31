@@ -14,14 +14,14 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:69307;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366294990;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://www.emrahyumuk.com/images/blog/SQL_Server_k.jpg
 ---
 
 Sql server&#8217;da tablo kolonunda xml saklayabiliyoruz. Bu xml tipindeki kolonlarda verileri xquery ile sorgulayabiliyoruz.
 
 <!--more-->
 
-<img class="alignnone" src="https://dl.dropbox.com/u/21850338/EmrahYumuk.com/xmlTempTable.jpg" alt="xml xquery table" width="343" height="83" />
+<img class="alignnone" src="http://www.emrahyumuk.com/images/blog/xmlTempTable.jpg" alt="xml xquery table" width="343" height="83" />
 
 Mesela sql server&#8217;da **TempTable** isimli tablomuzun içinde **XmlFile** kolonunda aşağıdaki xml verisi tutuluyor olsun.
 

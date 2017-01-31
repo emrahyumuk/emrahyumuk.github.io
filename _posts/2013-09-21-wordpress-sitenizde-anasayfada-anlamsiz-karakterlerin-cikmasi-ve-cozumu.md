@@ -18,7 +18,7 @@ Bir süre önce websitemi başka bir hosta taşıdıktan sonra websitemin anasay
 
 <!--more-->
 
-<img class="alignnone" src="https://dl.dropboxusercontent.com/u/21850338/EmrahYumuk.com/htaccess-sorunu.png" alt="wordpress karışık karakterler" width="560" height="349" />
+<img class="alignnone" src="http://www.emrahyumuk.com/images/blog/htaccess-sorunu.png" alt="wordpress karışık karakterler" width="560" height="349" />
 
 &nbsp;
 
@@ -37,4 +37,4 @@ RewriteRule . /index.php [L]
 
 isterseniz .htaccess dosyasını [**buradan**][1] indirip sitenize koyabilirsiniz.
 
- [1]: https://dl.dropboxusercontent.com/u/21850338/EmrahYumuk.com/_download/htaccess.rar
+ [1]: http://www.emrahyumuk.com/images/blog/_download/htaccess.rar

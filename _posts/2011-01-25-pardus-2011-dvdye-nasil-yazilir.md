@@ -18,7 +18,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:4616;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293904;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
+- http://www.emrahyumuk.com/images/blog/pardus2011.jpg
 ---
 
 32 bit ve 64 bit olmak üzere iki farklı sürüm olarak çıkan Pardus 2011&#8242;de herhangi bir soruna karşı bütün işlemcilere uygun olan 32 bit sürümünü indirmenizi tavsiye ederim.
@@ -27,7 +27,7 @@ yazi_resmi:
 
 <!--more-->
 
-<img class="alignnone" title="Free iso burner" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/iso-burner.jpg" alt="" width="429" height="553" />
+<img class="alignnone" title="Free iso burner" src="http://www.emrahyumuk.com/images/blog/iso-burner.jpg" alt="" width="429" height="553" />
 
 1 nolu bölümde indirmiş olduğumuz **Pardus-2011-i686.iso** adlı dosyamızı &#8220;Open&#8221; butonuna tıklayıp açıyoruz.
 

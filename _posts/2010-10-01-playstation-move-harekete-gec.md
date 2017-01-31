@@ -20,7 +20,7 @@ sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:3:"840";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364873262";}
 ---
 
-<img class="alignnone" title="playstation move" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/psmove.jpg" alt="" width="400" height="166" />
+<img class="alignnone" title="playstation move" src="http://www.emrahyumuk.com/images/blog/psmove.jpg" alt="" width="400" height="166" />
 
 Sony&#8217;den Wii ve Kinect&#8217;e rakip PlayStation Move.
 

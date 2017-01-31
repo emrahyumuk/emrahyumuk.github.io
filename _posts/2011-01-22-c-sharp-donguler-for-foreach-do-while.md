@@ -22,7 +22,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:2873;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293381;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 ---
 
 Daha önce for döngüsünü **<a href="http://www.emrahyumuk.com/c-sharp-for-dongusu/" target="_blank">burada</a>** anlatmıştım. Şimdi is foreach, while, do-while döngülerini göreceğiz ve for döngüsü ile bu döngüleri karşılaştıracağız.

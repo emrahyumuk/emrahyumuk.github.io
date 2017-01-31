@@ -45,7 +45,7 @@ Hide SexyBookmarks:
 Hide OgTags:
 - 0
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/basibozuk.jpg
+- http://www.emrahyumuk.com/images/blog/basibozuk.jpg
 ---
 
 Epeydir severek dinlediğim gruplardan biri &#8220;Başıbozuk&#8221; . Özellikle &#8220;Açılmayan Kavanoz&#8221; şarkısını dinlettiğim herkes çok sevdi. &#8220;Ben Yaptım&#8221;,&#8221;Kimsecikler&#8221;,&#8221;Yak Işıkları&#8221; &#8230; açıkçası her şarkısını severek dinliyorum. Herkese tavsiye ederim.

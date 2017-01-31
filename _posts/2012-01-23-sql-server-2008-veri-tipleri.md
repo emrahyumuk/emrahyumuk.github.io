@@ -55,7 +55,7 @@ Hide OgTags:
 Hide SexyBookmarks:
 - 0
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://www.emrahyumuk.com/images/blog/SQL_Server_k.jpg
 ---
 
 Kod yazarken ve veritabanı oluştururken veri tiplerinin seçimi çok önemlidir. İhtiyacımızı karşılayan en uygun tipi seçmemiz hem performans hem de kullanılan alan açısından önemlidir.

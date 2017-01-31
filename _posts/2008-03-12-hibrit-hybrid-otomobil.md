@@ -17,7 +17,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"5931";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364870893";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/toyota_hybrid.jpg
+- http://www.emrahyumuk.com/images/blog/toyota_hybrid.jpg
 Hide SexyBookmarks:
 - 0
 Hide OgTags:

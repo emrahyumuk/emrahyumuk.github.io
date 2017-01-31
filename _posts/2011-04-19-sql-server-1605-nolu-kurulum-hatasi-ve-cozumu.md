@@ -14,7 +14,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://www.emrahyumuk.com/images/blog/SQL_Server_k.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:7426;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366292691;}
 ---
@@ -27,7 +27,7 @@ Sql Server 2005&#8242;ten 2008&#8242;e veya 2008&#8242;den 2008 R2&#8242;ye geç
 
 <!--more-->
 
-<img class="alignnone" title="sql server error 1605" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-error-1605.png" alt="sql server error 1605" width="540" height="149" />
+<img class="alignnone" title="sql server error 1605" src="http://www.emrahyumuk.com/images/blog/sql-error-1605.png" alt="sql server error 1605" width="540" height="149" />
 
 Bu sorunu şöyle çözebilirsiniz:
 
@@ -35,14 +35,14 @@ Hata mesajındaki Product Code kısmının ilk bölmünü (ilk 8 hanesini) terst
 
 **Başlat>Çalıştır**&#8216; a **regedit** yazıp enter&#8217;a basıyoruz.
 
-<img class="alignnone" title="sql server error 1605" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-error-1605-a.jpg" alt="sql server error 1605" width="573" height="334" />
+<img class="alignnone" title="sql server error 1605" src="http://www.emrahyumuk.com/images/blog/sql-error-1605-a.jpg" alt="sql server error 1605" width="573" height="334" />
 
 Üst kısımdaki araç çubuğundan Düzen>Bul&#8217; a tıklıyoruz.
 
-<img class="alignnone" title="sql server error 1605" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-error-1605-b.jpg" alt="sql server error 1605" width="407" height="194" />
+<img class="alignnone" title="sql server error 1605" src="http://www.emrahyumuk.com/images/blog/sql-error-1605-b.jpg" alt="sql server error 1605" width="407" height="194" />
 
 Arama kısmında tersine çevirdiğimiz kodu (**47185A08**) kopyalayıp yapıştırıyoruz ve **Sonrakini Bul** butonuna tıklıyoruz.
 
-<img class="alignnone" title="sql server error 1605" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-error-1605-c.jpg" alt="sql server error 1605" width="522" height="253" />
+<img class="alignnone" title="sql server error 1605" src="http://www.emrahyumuk.com/images/blog/sql-error-1605-c.jpg" alt="sql server error 1605" width="522" height="253" />
 
 Arama sonrası bulunan değerin üzerine sağ tıklayıp **Sil** diyoruz.

@@ -15,7 +15,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/ms-acik-Akademi.jpg
+- http://www.emrahyumuk.com/images/blog/ms-acik-Akademi.jpg
 Hide SexyBookmarks:
 - 0
 Hide OgTags:
@@ -30,7 +30,7 @@ Deneyimli veya deneyimsiz bütün yazılımcılara hitap eden Açık Akademi&#82
 
 <!--more-->
 
-<img src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/yol-haritasi.jpg" alt="microsoft açık akademi" width="425" height="77" />
+<img src="http://www.emrahyumuk.com/images/blog/yol-haritasi.jpg" alt="microsoft açık akademi" width="425" height="77" />
 
 **Açık Akademi**&#8216;ye kayıt olarak ve **Facebook** veya **Live ID** ile bağlanarak giriş yapabilirsiniz. İlk olarak size 25 sorudan oluşan bir **seviye tespit sınavı** yapılacak. Bu sınavdan** 85 üzeri** alırsanız 3.seviye, **75 ile 85** arasında puan alırsanız 2.seviye, daha az puan alıp sınavı geçemezseniz 1. seviyeden başlıyorsunuz. Size sunulan eğitimleri alıp eğitim sırasında ve sonrasında sorulan sorulara cevaplar vererek puan alıyorsunuz. Belirlenen eğitimleri başarıyla tamamladığınızda seviyeniz yükseliyor.
 

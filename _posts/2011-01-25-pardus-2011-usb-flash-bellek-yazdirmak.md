@@ -22,7 +22,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:10557;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366294204;}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
+- http://www.emrahyumuk.com/images/blog/pardus2011.jpg
 Hide SexyBookmarks:
 - 0
 Hide OgTags:
@@ -43,7 +43,7 @@ Usb belleği kuruluma hazırlamak için dd uygulamasını kullanacağız. Window
 
 Komut İstemi&#8217;ne sağ tıklayıp yönetici olarak çalıştıra tıklayınız. Karşınıza aşağıdaki pencere gelecek.
 
-<img class="alignnone" title="pardus 2011 usb bellek kurulum yazdırma" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/dd-usb-komut.jpg" alt="pardus 2011 bootable flash bellek" width="599" height="298" />
+<img class="alignnone" title="pardus 2011 usb bellek kurulum yazdırma" src="http://www.emrahyumuk.com/images/blog/dd-usb-komut.jpg" alt="pardus 2011 bootable flash bellek" width="599" height="298" />
 
 dd.exe dosyamız C:&#8217; de bulunduğu için komut satırımız **C:\>** şeklinde olması gerekiyor. bunun için komut satırına **cd/** yazıp enter&#8217;a tıklıyoruz.
 
@@ -72,11 +72,11 @@ Eğer herhangi bir hata yoksa aşağıdaki ekran karşımıza çıkacaktır. Bu 
 <span style="color: #ff6600;">Eğer bu ekran yerine hata alırsanız C:\Pardus.iso&#8217;yu tırnak işaretsiz olarak yazıp tekrar deneyin.</span>  
 <span style="color: #ff6600;"><strong>dd if=C:\Pardus.iso of=\\.\g: bs=4M</strong> </span>
 
-<img class="alignnone" title="pardus 2011 usb bellek yazdırma" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/dd-usb-komut2.jpg" alt="pardus linux flash bellek kurulum" width="589" height="143" />
+<img class="alignnone" title="pardus 2011 usb bellek yazdırma" src="http://www.emrahyumuk.com/images/blog/dd-usb-komut2.jpg" alt="pardus linux flash bellek kurulum" width="589" height="143" />
 
 altında records in ve records out yazılarını gördüğünüz anda usb belleğe yazma işlemi bitmiştir. pencereyi kapatabilirsiniz.
 
-<img class="alignnone" title="pardus 2011 flash bellek kurulum" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/dd-usb-komut3.jpg" alt="pardus bootable usb bellek" width="493" height="159" />
+<img class="alignnone" title="pardus 2011 flash bellek kurulum" src="http://www.emrahyumuk.com/images/blog/dd-usb-komut3.jpg" alt="pardus bootable usb bellek" width="493" height="159" />
 
 Kurulum işlemini geçmek için bilgisayarı yeniden başlatın, F12 tuşuna basın karşınıza başlangıç ekranı yani harddisk, cd-rom ve usb belleğinizin adının olduğu bir ekran gelecek. usb belleğinizi seçip kuruluma başlayabilirsiniz.
 

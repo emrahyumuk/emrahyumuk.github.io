@@ -17,7 +17,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1092";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364803378";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/gereko.jpg
+- http://www.emrahyumuk.com/images/blog/gereko.jpg
 ---
 
 Gereko.com, ihtiyaç sahiplerinin hizmet verenlerle buluştuğu bir websitesi. Neye ihtiyacınız varsa yazıyorsunuz, kurs, websitesi, parti, müzisyen&#8230; aklınıza gelebilecek her şey&#8230; Ve size teklifler sunuluyor, şu kadar fiyata şu şekilde yaparım diye. Ya da siz ihtiyaç sahiplerine teklif sunabiliyorsunuz.

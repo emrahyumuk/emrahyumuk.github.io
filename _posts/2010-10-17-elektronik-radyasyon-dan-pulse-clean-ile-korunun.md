@@ -17,7 +17,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulsecleanradyasyon.jpg
+- http://www.emrahyumuk.com/images/blog/pulsecleanradyasyon.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:13006;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366293092;}
 ---
@@ -55,13 +55,13 @@ Pulse Clean’in özünü oluşturan Turmalin minerali doğal haliyle negatif iy
 
 Pulse Clean birçok ödül almıştır. Bu ödüllerin başında Amerikan Buluşlar Kongresi En iyi Buluş Altın Madalyası gelmektedir. Pulse Clean’in üretilmesinde kullanılan bu çok özel teknik dünya çapında patentlenmiş ve onlarca bilimsel test ve akademik araştırmayla da kanıtlanmıştır.
 
-<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 1" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulseclean1.jpg" alt="" width="580" height="414" />
+<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 1" src="http://www.emrahyumuk.com/images/blog/pulseclean1.jpg" alt="" width="580" height="414" />
 
-<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 2" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulseclean2.jpg" alt="" width="563" height="352" />
+<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 2" src="http://www.emrahyumuk.com/images/blog/pulseclean2.jpg" alt="" width="563" height="352" />
 
-<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 3" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulseclean3.jpg" alt="" width="580" height="355" />
+<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 3" src="http://www.emrahyumuk.com/images/blog/pulseclean3.jpg" alt="" width="580" height="355" />
 
-<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 4" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulseclean4.jpg" alt="" width="580" height="334" />
+<img class="alignnone" style="border: 1px solid black;" title="pulse clean test 4" src="http://www.emrahyumuk.com/images/blog/pulseclean4.jpg" alt="" width="580" height="334" />
 
 Gördüğünüz gibi Pulse Clean normal şartlarda beyin faaliyetlerine yararlı bir grafik gösteriyor. Cep telefonu, bilgisayar vb. elektronik aletlerin yaydığı radyasyondan vücudun etkilenmesini engelliyor.
 
@@ -69,10 +69,10 @@ Cep telefonu gibi küçük elektronik aletlerde kullanabileceğimiz 1 adet Pulse
 
 *Havayla temas etmesi önemlidir. Bu yüzden cep telefonu, bilgisayar gibi aletlerin üzerine yapıştırılır ya da cep versiyonu gibi cepte veya kumaş çantada taşınır.
 
-<img class="alignnone" title="pulse clean paket fiyatlar" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulsecleanfiyat.jpg" alt="" width="518" height="337" />
+<img class="alignnone" title="pulse clean paket fiyatlar" src="http://www.emrahyumuk.com/images/blog/pulsecleanfiyat.jpg" alt="" width="518" height="337" />
 
 <span style="color: #ffffff;">.</span>
 
-<img class="alignnone" title="pulse clean radyasyon koruma" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulsecleanpaket.jpg" alt="" width="400" height="264" />
+<img class="alignnone" title="pulse clean radyasyon koruma" src="http://www.emrahyumuk.com/images/blog/pulsecleanpaket.jpg" alt="" width="400" height="264" />
 
 daha ayrıntılı bilgi için: <a href="http://www.pulseclean.com.tr/" target="_blank"><strong>www.pulseclean.com.tr</strong></a>

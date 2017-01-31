@@ -14,7 +14,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"3777";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364761627";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/youtube1.gif
+- http://www.emrahyumuk.com/images/blog/youtube1.gif
 Hide SexyBookmarks:
 - 0
 Hide OgTags:
@@ -30,19 +30,19 @@ Sadece Youtube değil, birçok site de bu yasaklamalardan nasibini aldı. Diğer
 İlk olarak <span style="color: #000080;"><strong><span style="background-color: #ffff99;">Başlat > Denetim Masası > Ağ Bağlantıları > Yerel Ağ Bağlantısı</span></strong></span> yolunu izliyoruz. Karşımıza aşağıdaki gibi bir bölüm çıkıyor..
 
 <p align="center">
-  <img class="aligncenter" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/opendns-1.gif" alt="opendns-1.gif" />
+  <img class="aligncenter" src="http://www.emrahyumuk.com/images/blog/opendns-1.gif" alt="opendns-1.gif" />
 </p>
 
 Şimdi özellikler butonuna tıklıyoruz .. Karşımıza aşağıdaki gibi bir bölüm çıkıyor..
 
 &nbsp;
 
-<img class="aligncenter" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/opendns-2.gif" alt="opendns-2.gif" />
+<img class="aligncenter" src="http://www.emrahyumuk.com/images/blog/opendns-2.gif" alt="opendns-2.gif" />
 
 Yukarıdaki pencerede **<span style="color: #000080;"><span style="background-color: #ffff99;">İnternet Erişim Kuralları(TCP/IP)</span></span>**‘yi seçiyoruz ve özellikler diyoruz. Karşımıza aşağıdaki gibi bir pencere çıkacak..
 
 <p align="center">
-  <img src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/opendns-3.gif" alt="opendns" />
+  <img src="http://www.emrahyumuk.com/images/blog/opendns-3.gif" alt="opendns" />
 </p>
 
 Son olarak yukarıdaki pencereden <span style="color: #000080;"><strong><span style="background-color: #ffff99;">Aşağıdaki DNS sunucu adreslerini kullan</span></strong></span>ı seçiyoruz ve boşluklara sırasıyla ;

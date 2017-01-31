@@ -13,7 +13,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://www.emrahyumuk.com/images/blog/SQL_Server_k.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:45453;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366295002;}
 ---
@@ -22,7 +22,7 @@ sayfa_sayac_bilgi:
 
 <!--more-->
 
-<img title="sql prevent saving changes" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-prevent-saving-changes/prevent-01.png" alt="sql prevent saving changes" width="431" height="348" />
+<img title="sql prevent saving changes" src="http://www.emrahyumuk.com/images/blog/sql-prevent-saving-changes/prevent-01.png" alt="sql prevent saving changes" width="431" height="348" />
 
 Bu hata mesajı aşağıdaki işlemleri yaptığımızda çıkar;  
 -kolonun özelliklerini değişirdiğimizde,  
@@ -32,10 +32,10 @@ Bu hata mesajı aşağıdaki işlemleri yaptığımızda çıkar;
 
 Şimdi ise çözümüne geçelim:
 
-<img class="alignnone" title="sql prevent saving changes" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-prevent-saving-changes/prevent-02.png" alt="sql prevent saving changes" width="470" height="142" />
+<img class="alignnone" title="sql prevent saving changes" src="http://www.emrahyumuk.com/images/blog/sql-prevent-saving-changes/prevent-02.png" alt="sql prevent saving changes" width="470" height="142" />
 
 En üstte araç çubuğundan **Tools>Options**&#8216;a giriyoruz.
 
-<img class="alignnone" title="sql prevent saving changes" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-prevent-saving-changes/prevent-03.png" alt="sql prevent saving changes" width="608" height="353" />
+<img class="alignnone" title="sql prevent saving changes" src="http://www.emrahyumuk.com/images/blog/sql-prevent-saving-changes/prevent-03.png" alt="sql prevent saving changes" width="608" height="353" />
 
 Karşımıza gelen ekranda soldan **Designer**&#8216;a tıklıyoruz ve &#8220;**Prevent saving changes that require table re-creation**&#8220;ın işaretini kaldırıyoruz.

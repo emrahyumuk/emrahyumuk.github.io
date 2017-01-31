@@ -12,7 +12,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/visualstudio2010.png
+- http://www.emrahyumuk.com/images/blog/visualstudio2010.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1125";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364914331";}
 ---

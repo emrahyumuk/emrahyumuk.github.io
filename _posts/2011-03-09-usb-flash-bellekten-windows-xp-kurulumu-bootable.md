@@ -18,7 +18,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/windowsxp-usb.jpg
+- http://www.emrahyumuk.com/images/blog/windowsxp-usb.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";i:110090;s:11:"sayac_bugun";i:12;s:9:"son_okuma";i:1366294287;}
 ---
@@ -31,17 +31,17 @@ Netbook&#8217;unuza veya cdrom&#8217;u olmayan eski bilgisayarlarınıza flash b
 
 Flash belleğimizi bilgisayara taktıktan sonra indirdiğimiz rar dosyası içindeki **WinSetupFromUSB** exe dosyasına tıklıyoruz.
 
-<img class="alignnone" title="Win setup windows xp bootable usb" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/winsetup.jpg" alt="" width="446" height="584" />
+<img class="alignnone" title="Win setup windows xp bootable usb" src="http://www.emrahyumuk.com/images/blog/winsetup.jpg" alt="" width="446" height="584" />
 
 Karşımıza gelen bu ekrandan ilk bölümde flash belleği seçiyoruz, ikinci bölümde **Windows 2000/XP/2003 Setup** kısmını seçip Windows XP dosyalarımızın yer aldığı klasörü gösteriyoruz. Son olarak **GO** butonuna tıklıyoruz ve dosyalar usb belleğimize kopyalanmaya başlıyor. Bu işlem uzun sürebilir, kopyalanana kadar bekleyiniz.
 
 Kopyalama işlemi bittikten sonra bilgisayarımızı yeniden başlatıyoruz ve BIOS ayarları ile  USB bellekten başlamasını sağlıyoruz.
 
-<img class="alignnone" title="winsetup usb windows xp bootable" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/winsetup2.jpg" alt="" width="498" height="277" />
+<img class="alignnone" title="winsetup usb windows xp bootable" src="http://www.emrahyumuk.com/images/blog/winsetup2.jpg" alt="" width="498" height="277" />
 
 Bilgisayarı USB bellekten başlattığımızda karşımıza bu ekran gelecek . **Windows XP/2000/2003 Setup**&#8216; ı seçiyoruz.
 
-<img class="alignnone" title="winsetup bootable usb windows xp" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/winsetup3.jpg" alt="" width="496" height="277" />
+<img class="alignnone" title="winsetup bootable usb windows xp" src="http://www.emrahyumuk.com/images/blog/winsetup3.jpg" alt="" width="496" height="277" />
 
 Karşımıza gelen bu ekranda ise ilk olarak **First part of Windows XP Professional Setup**&#8216;a giriyoruz.
 

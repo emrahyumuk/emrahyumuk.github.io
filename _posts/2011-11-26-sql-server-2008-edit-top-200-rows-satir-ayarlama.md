@@ -20,7 +20,7 @@ Hide OgTags:
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"2253";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364790055";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://www.emrahyumuk.com/images/blog/SQL_Server_k.jpg
 ---
 
 Sql Server&#8217;da tablodaki verileri görmek ve editlemek istediğimizde **&#8220;Edit Top 200 Rows**&#8220;u açarız, bazen tablodaki veriler 200&#8242;den daha fazla olabilir. Bu durumda 200 sınırını arttırmak için ne yapmalıyız?
@@ -35,23 +35,23 @@ Sql Server&#8217;da bir tablonun üzerine sağ tıklayıp &#8220;**Edit Top 200 
 
 &nbsp;
 
-<img class="alignnone" title="sql server 2008 edit top 200 rows - 01" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/01.jpg" alt="sql server 2008 edit top 200 rows değiştirme" width="325" height="463" />
+<img class="alignnone" title="sql server 2008 edit top 200 rows - 01" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/01.jpg" alt="sql server 2008 edit top 200 rows değiştirme" width="325" height="463" />
 
 Tablomuz edit modta açıldıktan sonra üstte toolbardan &#8220;**Show SQL Pane**&#8221; butonuna tıklıyoruz.
 
-<img class="alignnone" title="sql server edit top 200 rows 02" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/02.jpg" alt="sql server edit top 200 rows değiştirme" width="353" height="117" />
+<img class="alignnone" title="sql server edit top 200 rows 02" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/02.jpg" alt="sql server edit top 200 rows değiştirme" width="353" height="117" />
 
 &nbsp;
 
 Karşımıza tabloyu 200 satır olarak edit modta açan sql kodu gelecek.
 
-<img class="alignnone" title="sql server edit top 200 rows - 03" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/03.jpg" alt="sql server edit top 200 rows değiştirme" width="551" height="83" />
+<img class="alignnone" title="sql server edit top 200 rows - 03" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/03.jpg" alt="sql server edit top 200 rows değiştirme" width="551" height="83" />
 
 &nbsp;
 
 Bu kodda 200 yazan yeri mesela 1000 olarak değiştirip yüne üstteki toolbardan &#8220;**Execute SQL**&#8221; butonuna tıklıyoruz.
 
-<img class="alignnone" title="sql server edit top 200 rows - 04" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/04.jpg" alt="sql server edit top 200 rows değiştirme" width="355" height="124" />
+<img class="alignnone" title="sql server edit top 200 rows - 04" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/04.jpg" alt="sql server edit top 200 rows değiştirme" width="355" height="124" />
 
 &nbsp;
 
@@ -65,16 +65,16 @@ Bu seçenekte &#8220;**Edit Top 200 Rows**&#8220;taki varsayılan 200 olan satı
 
 Üst kısımda araç çubuğundan **Tools>Options**&#8216; a giriyoruz.
 
-<img class="alignnone" title="sql server edit top 200 rows " src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/05.jpg" alt="sql server edit top 200 rows değiştirme" width="508" height="238" />
+<img class="alignnone" title="sql server edit top 200 rows " src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/05.jpg" alt="sql server edit top 200 rows değiştirme" width="508" height="238" />
 
 &nbsp;
 
 Options penceresi karşımıza gelecek ve bu pencerede &#8220;**SQL Server Object Explorer**&#8220;&#8216;a tıklıyoruz.
 
-<img class="alignnone" title="sql server edit top 200 rows" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/06.jpg" alt="sql server edit top 200 rows değiştirme" width="602" height="346" />
+<img class="alignnone" title="sql server edit top 200 rows" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/06.jpg" alt="sql server edit top 200 rows değiştirme" width="602" height="346" />
 
 &nbsp;
 
 Sağ kısımda &#8220;**Value for Edit Top <n> Rows command**&#8221; satırındaki 200&#8242;ü 1000 olarak değiştirirsek artık sql serverda hangi tabloya sağ tıklarsak &#8220;**Edit Top 1000 Rows**&#8221; olarak göreceğiz.  Ayrıca gördüğünüz gibi buradan &#8220;Select Top 1000 Rows&#8221;un da satır sayısını değişitirebiliyoruz.
 
-<img class=" alignnone" title="sql server edit top 200 rows" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sql-server-edit-top-200-rows/07.jpg" alt="sql server edit top 200 rows değiştirme" width="356" height="478" />
+<img class=" alignnone" title="sql server edit top 200 rows" src="http://www.emrahyumuk.com/images/blog/sql-server-edit-top-200-rows/07.jpg" alt="sql server edit top 200 rows değiştirme" width="356" height="478" />

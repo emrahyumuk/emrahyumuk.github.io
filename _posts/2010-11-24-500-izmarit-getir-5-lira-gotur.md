@@ -13,7 +13,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"1617";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364921833";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/500izmaritgetir5liragotur-k.jpg
+- http://www.emrahyumuk.com/images/blog/500izmaritgetir5liragotur-k.jpg
 ---
 
 Çevre Ve Tüketici Haklarını Koruma Derneği&#8217;nin (ÇETKODER) büyük çevre kirliliğine yol açan sigara izmaritleri konusunda farkındalık yaratma amacıyla “**500 izmarit getir 5 lira götür**” sloganı ile başlattığı kampanya büyük ilgi görüyor
@@ -29,6 +29,6 @@ Göktaş, “Uygulama ilk olarak **Mersin, Adana, Hatay, Osmaniye** illerinde ba
 15 Kasım&#8217;da başlayan, Mersin, Adana, Hatay ve Osmaniye olmak üzere 4 ilde devam eden kampanya büyük mesafe katetti. 4 günde Mersin&#8217;de 1260 kg, Adana&#8217;da 680 kg, Osmaniye&#8217;de 310 kg, Hatay&#8217;da 180  
 kg olmak üzere toplam 2430 kg izmarit toplanırken bunlar için izmaritleri getiren 145 kişiye 725 lira para ödemesi yapıldığı aktarıldı.
 
-<img class="alignnone" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/500izmaritgetir5liragotur.jpg" alt="" width="416" height="285" />
+<img class="alignnone" src="http://www.emrahyumuk.com/images/blog/500izmaritgetir5liragotur.jpg" alt="" width="416" height="285" />
 
 <a href="https://groups.google.com/group/cetkoder" target="_blank">groups.google.com.tr/group/cetkoder</a>

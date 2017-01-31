@@ -7,7 +7,7 @@ categories:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/chrome.jpg
+- http://www.emrahyumuk.com/images/blog/chrome.jpg
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:3:"868";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364763206";}
 ---
@@ -26,7 +26,7 @@ Kısacası artık Google Chrome diyorum. Chrome&#8217; u **<a href="http://www.g
 
 Google Chrome eklentilerine **<a href="https://chrome.google.com/extensions/" target="_blank">buradan</a>** ulaşabilirsiniz.
 
-<img class="alignnone" title="google chrome" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/google-chrome.jpg" alt="chrome tarayıcı" width="440" height="333" />
+<img class="alignnone" title="google chrome" src="http://www.emrahyumuk.com/images/blog/google-chrome.jpg" alt="chrome tarayıcı" width="440" height="333" />
 
 **<span style="text-decoration: underline;">Kullandığım ve önerdiğim Google Chrome Eklentileri (Uzantıları):</span>**
 

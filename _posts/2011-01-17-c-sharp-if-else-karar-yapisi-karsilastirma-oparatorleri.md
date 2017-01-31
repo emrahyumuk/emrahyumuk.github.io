@@ -22,7 +22,7 @@ layout: post
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:4:"2464";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364915467";}
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://www.emrahyumuk.com/images/blog/csharp.png
 ---
 
 if-else karar yapısı ile belirlediğimiz bir koşulun doğru veya yanlış olması durumunda yapılması gerekenleri programa yaptırırız. Bunu yapmak için çeşitli karşılaştırma operatörleri kullanarak bir koşul oluşturur ve koşulun doğruluğuna göre yapılması gerekenleri belirleriz.

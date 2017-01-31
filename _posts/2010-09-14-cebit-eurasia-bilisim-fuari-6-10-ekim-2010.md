@@ -15,7 +15,7 @@ tags:
 author: emrahyumuk
 layout: post
 yazi_resmi:
-- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cebit.png
+- http://www.emrahyumuk.com/images/blog/cebit.png
 sayfa_sayac_bilgi:
 - a:3:{s:12:"sayac_toplam";s:3:"995";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364918267";}
 ---
@@ -43,4 +43,4 @@ Bir kişilik ve tek giriş içindir. 15 yaş altı çocuklar fuar alanını tek 
 
 **Salon Planı**
 
-<a href="http://www.cebitbilisim.com/img/salon_plani_10.jpg" target="_blank"><img class="alignnone" title="salon planı cebit 2010" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/fuaralan.png" alt="" width="500" height="373" /></a>
+<a href="http://www.cebitbilisim.com/img/salon_plani_10.jpg" target="_blank"><img class="alignnone" title="salon planı cebit 2010" src="http://www.emrahyumuk.com/images/blog/fuaralan.png" alt="" width="500" height="373" /></a>

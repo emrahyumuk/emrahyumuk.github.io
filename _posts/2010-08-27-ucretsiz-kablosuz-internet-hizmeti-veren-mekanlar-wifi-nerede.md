@@ -17,7 +17,7 @@ sayfa_sayac_bilgi:
 ---
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="wifi ücretsiz internet nerede" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/wifinerede.png" alt="" width="400" height="55" />
+  <img class="aligncenter" title="wifi ücretsiz internet nerede" src="http://www.emrahyumuk.com/images/blog/wifinerede.png" alt="" width="400" height="55" />
 </p>
 
 Ücretsiz Kablosuz İnternet Hizmeti Veren Mekan arıyorsunuz. Yanyana 2 mekandan internet hizmeti verene seçmek istiyorsunuz. Kahvenizi ücretsiz internet/ wifi hizmeti veren yerde içmek istiyorsunuz. işte size **<a href="http://www.wifinerede.com" target="_blank">wifinerede.com</a>**

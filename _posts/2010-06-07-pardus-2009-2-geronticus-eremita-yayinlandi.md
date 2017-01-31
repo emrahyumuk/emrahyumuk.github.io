@@ -18,7 +18,7 @@ sayfa_sayac_bilgi:
 ---
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2009.jpg" alt="pardus 2009.2 Geronticus eremita" width="400" height="124" />
+  <img class="aligncenter" src="http://www.emrahyumuk.com/images/blog/pardus2009.jpg" alt="pardus 2009.2 Geronticus eremita" width="400" height="124" />
 </p>
 
 TÜBİTAK UEKAE bünyesinde geliştirilen ulusal işletim sistemi Pardus’un “**Geronticus eremita**” yani “**Kelaynak**” ismini verdiği yeni **Pardus 2009.2 **sürümü sunuculardaki yerini aldı.
