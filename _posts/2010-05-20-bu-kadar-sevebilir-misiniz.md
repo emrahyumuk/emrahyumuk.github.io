@@ -1,19 +1,21 @@
 ---
 title: Bu Kadar Sevebilir Misiniz?
+date: 2010-05-20 00:00:00 +03:00
+permalink: "/bu-kadar-sevebilir-misiniz/"
+categories:
+- Edebiyat
+tags:
+- bu kadar sevebilir misiniz
+- Edebiyat
+- hikaye
+- öykü
+- yazı
 author: emrahyumuk
 layout: post
-permalink: /bu-kadar-sevebilir-misiniz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"776";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836235";}'
-categories:
-  - Edebiyat
-tags:
-  - bu kadar sevebilir misiniz
-  - Edebiyat
-  - hikaye
-  - öykü
-  - yazı
+- a:3:{s:12:"sayac_toplam";s:3:"776";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836235";}
 ---
+
 Bir otobüs durağında karşılaşmışlardı ilk kez&#8230;. Biri tıpta okuyordu, öbürü mimarlıkta. O ilk karşılaşmadan sonra, bir kere, bir kere, bir kere daha karşılaşabilmek için, hep aynı saatte, aynı duraktan, aynı otobüse bindiler. Gençtiler, çok genç&#8230; Birbirileriyle konuşacak cesareti bulmaları biraz zaman aldı ama sonunda başardılar. İkisi de her sabah otobüse bindikleri semtte oturmuyorlardı aslında. Delikanlı arkadaşında kaldığı için o duraktan binmişti otobüse, kız ise ablasında&#8230;. Sırf birbirilerini görebilmek için, her sabah erkenden evlerinden çıkıp, şehrin öbür ucundaki o durağa, onların durağına geldiklerini, gülerek itiraf ettiler bir süre sonra&#8230;
 
 <!--more-->

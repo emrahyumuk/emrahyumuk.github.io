@@ -1,50 +1,52 @@
 ---
 title: Ağustos 2008 Konser Takvimi
+date: 2008-08-01 00:00:00 +03:00
+permalink: "/agustos-2008-konser-takvimi/"
+categories:
+- Müzik
+tags:
+- 2008
+- ağustos
+- babazula
+- badem
+- Bülent Ortaçgil
+- buz
+- deli
+- dinar bandosu
+- direc-t
+- Emre Aydın
+- etkinlik
+- Ezginin Günlüğü
+- feridun düzağaç
+- gevende
+- gripin
+- grup
+- gündoğarken
+- hayko cepkin
+- ihtiyaç molası
+- ilhan irem
+- konser
+- kramp
+- kurban
+- mfö
+- Moğollar
+- mor ve ötesi
+- Müzik
+- ogün sanlısoy
+- pentagram
+- pinhani
+- rock
+- sakin
+- takvim
+- tuna kiremitçi
+- zakkum
+- zardanadam
 author: emrahyumuk
 layout: post
-permalink: /agustos-2008-konser-takvimi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"5437";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364907346";}'
-categories:
-  - Müzik
-tags:
-  - 2008
-  - ağustos
-  - babazula
-  - badem
-  - Bülent Ortaçgil
-  - buz
-  - deli
-  - dinar bandosu
-  - direc-t
-  - Emre Aydın
-  - etkinlik
-  - Ezginin Günlüğü
-  - feridun düzağaç
-  - gevende
-  - gripin
-  - grup
-  - gündoğarken
-  - hayko cepkin
-  - ihtiyaç molası
-  - ilhan irem
-  - konser
-  - kramp
-  - kurban
-  - mfö
-  - Moğollar
-  - mor ve ötesi
-  - Müzik
-  - ogün sanlısoy
-  - pentagram
-  - pinhani
-  - rock
-  - sakin
-  - takvim
-  - tuna kiremitçi
-  - zakkum
-  - zardanadam
+- a:3:{s:12:"sayac_toplam";s:4:"5437";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364907346";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;"  title="ağustos 2008 konser takvimi" src="http://img98.imageshack.us/img98/4561/agustos2008ur2.jpg" alt="" width="162" height="159" />
 
 1 aylık aradan sonra sonra bu ayın konser takvimi de hazırladım. Temmuz ayını sınavlar ve sıcak gibi sebeplerden dolayı es geçsek de Ağustos konser takvimiyle devam ediyoruz.

@@ -1,21 +1,23 @@
 ---
 title: Bir Başka İstanbul
+date: 2008-12-12 00:00:00 +02:00
+permalink: "/bir-baska-istanbul/"
+categories:
+- Diğer
+tags:
+- fotoğraf
+- istanbul
+- mercan dede
+- veysel gençten
+- video
 author: emrahyumuk
 layout: post
-permalink: /bir-baska-istanbul/
 yazi_resmi:
-  - http://img88.imageshack.us/img88/1323/istanbulle4.jpg
+- http://img88.imageshack.us/img88/1323/istanbulle4.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1345";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364833806";}'
-categories:
-  - Diğer
-tags:
-  - fotoğraf
-  - istanbul
-  - mercan dede
-  - veysel gençten
-  - video
+- a:3:{s:12:"sayac_toplam";s:4:"1345";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364833806";}
 ---
+
 <p style="text-align: left;">
   <span style="color: #ffffff;">.</span>
 </p>

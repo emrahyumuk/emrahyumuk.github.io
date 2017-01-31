@@ -1,21 +1,23 @@
 ---
 title: Güzel bir IQ testi
+date: 2008-04-27 00:00:00 +03:00
+permalink: "/guzel-bir-iq-testi/"
+categories:
+- Diğer
+tags:
+- cevap
+- değerlendirme
+- einstein
+- iq
+- soru
+- test
+- zeka testi
 author: emrahyumuk
 layout: post
-permalink: /guzel-bir-iq-testi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:6486;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293498;}'
-categories:
-  - Diğer
-tags:
-  - cevap
-  - değerlendirme
-  - einstein
-  - iq
-  - soru
-  - test
-  - zeka testi
+- a:3:{s:12:"sayac_toplam";i:6486;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293498;}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/iq.jpg" alt="iq testi" align="left" border="1" hspace="5" vspace="5" />Her ne kadar iq testi, türkçe testi, matematik testi &#8230; deyince tüylerim diken diken olsa da bu IQ testinin sorularını çok beğendim.
 
 Aşağıdaki soruları tam 1 dakika içinde yanıtlamaya çalışın. Bir kağıt kalem alın ve cevaplarınızı not edin. Her soruya bir defa bakmaya çalışın oldukça ilginç ve güzel bir zeka testi…

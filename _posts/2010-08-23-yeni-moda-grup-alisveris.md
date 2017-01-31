@@ -1,21 +1,23 @@
 ---
 title: 'Yeni Moda: Grup Alışveriş Siteleri'
+date: 2010-08-23 00:00:00 +03:00
+permalink: "/yeni-moda-grup-alisveris/"
+categories:
+- İnternet
+tags:
+- alışveriş
+- fırsat
+- grup alışveriş
+- günün fırsatı
+- İnternet
 author: emrahyumuk
 layout: post
-permalink: /yeni-moda-grup-alisveris/
 yazi_resmi:
-  - http://a.imageshack.us/img441/9383/grupalisveris.png
+- http://a.imageshack.us/img441/9383/grupalisveris.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1678";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364913656";}'
-categories:
-  - İnternet
-tags:
-  - alışveriş
-  - fırsat
-  - grup alışveriş
-  - günün fırsatı
-  - İnternet
+- a:3:{s:12:"sayac_toplam";s:4:"1678";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364913656";}
 ---
+
 Bazen yapmak isteyip de çok pahalı olduğundan yapamadığımız şeyler vardır ya bunların grup indirimiyle sunulduğunu varsayın. mesela lüks bir lokantada 150 TL değerinde yemek. ve bu fırsat sizi 50 TL&#8217;ye sunuluyor.  Siz de bu fırsatı 50 TL&#8217;ye satın alıyorsunuz. Tabi bu yemek olabilir, tatil olabilir, sinema veya konser bileti olabilir, her şey olabilir. Bu tarz grup alışveriş siteleri giderek çoğalmaya başladı. Bu siteler istereniz her gün mail adresinize bulunduğunuz ildeki fırsatları gönderebiliyor. Siz de isterseniz satın alabiliyorsunuz.
 
 işte grup alışveriş siteleri:

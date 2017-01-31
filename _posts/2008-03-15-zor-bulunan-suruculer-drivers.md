@@ -1,28 +1,30 @@
 ---
 title: Zor bulunan sürücüler (drivers)
+date: 2008-03-15 00:00:00 +02:00
+permalink: "/zor-bulunan-suruculer-drivers/"
+categories:
+- Diğer
+tags:
+- drivers
+- ethernet
+- msi
+- orite
+- realtek
+- sürücüler
+- webcam
+- windows
 author: emrahyumuk
 layout: post
-permalink: /zor-bulunan-suruculer-drivers/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1594";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364825454";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1594";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364825454";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/driver.gif
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/driver.gif
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - Diğer
-tags:
-  - drivers
-  - ethernet
-  - msi
-  - orite
-  - realtek
-  - sürücüler
-  - webcam
-  - windows
+- 0
 ---
+
 bazen bir sürücüyü ararken neler çekiyor insan. google a yazıyorsun bir sürü gereksiz site çıkıyor. özellikle program indirme siteleri sürücü bulunmadığı halde hep en önlerde. ve tabi aradığınız sürücü bir de eskiyse arama işleme işkenceye dönüşüyor.
 
 Bu bölümde benim daha önce arayıp da buluna kadar neler çektiğim sürücülere yer vereceğim. amacım aynı işkenceyi çekmemeniz ama google sizi bu siteye nasıl getirir bilemem. o kadar gereksiz site varken gerekli olana pek rastlanmıyor özellikle sürücü konusunda.

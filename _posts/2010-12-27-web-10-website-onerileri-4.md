@@ -1,21 +1,23 @@
 ---
 title: WEB 10 – website önerileri (4)
+date: 2010-12-27 00:00:00 +02:00
+permalink: "/web-10-website-onerileri-4/"
+categories:
+- İnternet
+tags:
+- web
+- web 10
+- web10
+- website
+- website önerileri
 author: emrahyumuk
 layout: post
-permalink: /web-10-website-onerileri-4/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"8105";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364901042";}'
-categories:
-  - İnternet
-tags:
-  - web
-  - web 10
-  - web10
-  - website
-  - website önerileri
+- a:3:{s:12:"sayac_toplam";s:4:"8105";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364901042";}
 ---
+
 Web 10&#8242;da dördüncüye geldik. yine ilginizi çekebileceğini düşündüğüm ve farklı konularda yararlanabileceğiniz websitelerini sunuyorum.
 
 1. **<a href="http://revir.com/" target="_blank">Revir.com</a>** &#8211; Türkiye&#8217;nin Sağlık Sitesi. Sağlık konusunda her soruyu sorabileceğiniz ve doktorlardan cevap alabileceğiniz başarılı bir websitesi.

@@ -1,18 +1,20 @@
 ---
-title: '&#8220;Hayatı Ertelemek&#8221; &#8211; Meryem Tortuk'
+title: "&#8220;Hayatı Ertelemek&#8221; &#8211; Meryem Tortuk"
+date: 2010-05-20 00:00:00 +03:00
+permalink: "/hayati-ertelemek-meryem-tortuk/"
+categories:
+- Edebiyat
+tags:
+- deneme
+- hayatı ertelemek
+- meryem tortuk
+- yazı
 author: emrahyumuk
 layout: post
-permalink: /hayati-ertelemek-meryem-tortuk/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1321";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364907131";}'
-categories:
-  - Edebiyat
-tags:
-  - deneme
-  - hayatı ertelemek
-  - meryem tortuk
-  - yazı
+- a:3:{s:12:"sayac_toplam";s:4:"1321";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364907131";}
 ---
+
 Ertelenmiş, yaşanmamış, kalbimizin bir köşesinde öylece duran binlerce güzelliğin hiç dokunulmadan üzerine basılıp geçildiğini görüyorum hergün. Hergün ve her saat bu ertelenmiş veya hiç görülmemiş duyguların boşluğunda sarsılan ruhların gözlerine bakıyorum.  
 Çocuklara ertelemeyi öğreten anneler görüyorum, babalar… Anlamları havada asılı, yarım kalmış cümleler topluyorum konuşan insanlar arasından. Birbirinin yüreğine ulaşamayan vasıfsız kelimeler…
 

@@ -1,15 +1,17 @@
 ---
 title: Seyir Defterim ve Websitem Yenilendi !
+date: 2010-09-01 00:00:00 +03:00
+permalink: "/seyir-defterim-ve-websitem-yenilendi/"
+categories:
+- İnternet
 author: emrahyumuk
 layout: post
-permalink: /seyir-defterim-ve-websitem-yenilendi/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sdlogo.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sdlogo.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"794";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364837731";}'
-categories:
-  - İnternet
+- a:3:{s:12:"sayac_toplam";s:3:"794";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364837731";}
 ---
+
 uzun zamandır plandığım website ve seyir defterimi yenileme planını nihayet gerçekleştirdim. Artık yepyeni bir tasarımla karşınızdayım.
 
 <a href="http://www.emrahyumuk.com" target="_blank"><strong>emrahyumuk.com</strong></a> anasayfamda daha çok bana ulaşabileceğiniz facebook, twitter gibi iletişim araçları bulunuyor. Hakkımda bilgi alabileceğiniz sade bir tasarım, CV havasında bir bilgi kartı&#8230;Eski websiteme, sitedeki elektrik-elektronik ve bilgisayar dersleri, programlar vs. <a href="http://www.emrahyumuk.com/eski/index.html" target="_blank">şurdan</a> ulaşabilirsiniz.

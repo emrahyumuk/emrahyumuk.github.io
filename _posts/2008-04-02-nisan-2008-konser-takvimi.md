@@ -1,47 +1,49 @@
 ---
 title: Nisan 2008 Konser Takvimi
+date: 2008-04-02 00:00:00 +03:00
+permalink: "/nisan-2008-konser-takvimi/"
+categories:
+- Müzik
+tags:
+- Akın Eldes
+- asfalt dünya
+- Bülent Ortaçgil
+- Bulutsuzluk Özlemi
+- buz
+- cem köksal
+- cem özkan
+- çilekeş
+- dinar bandosu
+- duman
+- etkinlik takvimi
+- Ezginin Günlüğü
+- feridun düzağaç
+- gevende
+- gitar
+- gripin
+- hasan cihat örter
+- ihtiyaç molası
+- joe lynn turner
+- konser
+- konser takvimi
+- kramp
+- Moğollar
+- murat çelik
+- murat yılmazyıldırım
+- Müzik
+- nisan 2008
+- Objektif
+- ogün sanlısoy
+- pinhani
+- redd
+- Tibet Ağırtan
+- vega
 author: emrahyumuk
 layout: post
-permalink: /nisan-2008-konser-takvimi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"6788";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919578";}'
-categories:
-  - Müzik
-tags:
-  - Akın Eldes
-  - asfalt dünya
-  - Bülent Ortaçgil
-  - Bulutsuzluk Özlemi
-  - buz
-  - cem köksal
-  - cem özkan
-  - çilekeş
-  - dinar bandosu
-  - duman
-  - etkinlik takvimi
-  - Ezginin Günlüğü
-  - feridun düzağaç
-  - gevende
-  - gitar
-  - gripin
-  - hasan cihat örter
-  - ihtiyaç molası
-  - joe lynn turner
-  - konser
-  - konser takvimi
-  - kramp
-  - Moğollar
-  - murat çelik
-  - murat yılmazyıldırım
-  - Müzik
-  - nisan 2008
-  - Objektif
-  - ogün sanlısoy
-  - pinhani
-  - redd
-  - Tibet Ağırtan
-  - vega
+- a:3:{s:12:"sayac_toplam";s:4:"6788";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919578";}
 ---
+
 <img class="alignleft" style="border: 0pt none; margin: 5px; float: left;" src="http://img528.imageshack.us/img528/8559/konserqj0.jpg" border="1" alt="konser.jpg" hspace="5" vspace="5" width="129" height="129" align="left" />
 
 Nisan ayında kim nerede konser veriyor? Hepsi Burada&#8230; Buraya bakmadan aylık planlarınızı yapmayın. Şehrinize bu ay kimler geliyor öğrenin.

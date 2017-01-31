@@ -1,33 +1,35 @@
 ---
-title: '2008 Blog Ödülleri &#8211; Kazananlar Açıklandı'
+title: 2008 Blog Ödülleri &#8211; Kazananlar Açıklandı
+date: 2008-05-11 00:00:00 +03:00
+permalink: "/2008-blog-odulleri-kazananlar-aciklandi/"
+categories:
+- İnternet
+tags:
+- 2008
+- blog ödülleri
+- bloglar
+- Eğlence
+- Haber Gündem
+- Hobi
+- İnternet
+- İş Dünyası
+- kategori
+- Kişisel
+- Komünite
+- Kültür Sanat
+- oy
+- oylama
+- Pazarlama
+- reklam
+- Spor
+- Teknoloji
+- Topluluk
 author: emrahyumuk
 layout: post
-permalink: /2008-blog-odulleri-kazananlar-aciklandi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3736";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836519";}'
-categories:
-  - İnternet
-tags:
-  - 2008
-  - blog ödülleri
-  - bloglar
-  - Eğlence
-  - Haber Gündem
-  - Hobi
-  - İnternet
-  - İş Dünyası
-  - kategori
-  - Kişisel
-  - Komünite
-  - Kültür Sanat
-  - oy
-  - oylama
-  - Pazarlama
-  - reklam
-  - Spor
-  - Teknoloji
-  - Topluluk
+- a:3:{s:12:"sayac_toplam";s:4:"3736";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836519";}
 ---
+
 <img class="alignleft alignnone size-full wp-image-66" style="margin: 5px; float: left;" src="http://www.emrahyumuk.com/blog/wp-content/uploads/blogodullerilogo.jpg" alt="blog ödülleri" width="177" height="102" />2008 Blog Ödüllleri kazananları 10 Mayıs Cumartesi günü yapılan Blog Konferansında açıklandı. 10 kategoride ilk üç belirlendi.
 
 kazananlar şöyle;

@@ -1,18 +1,20 @@
 ---
-title: .bin ve .cue uzantılı dosyalar
+title: ".bin ve .cue uzantılı dosyalar"
+date: 2008-08-02 00:00:00 +03:00
+permalink: "/bin-ve-cue-uzantili-dosyalar/"
+categories:
+- Bilgisayar
+tags:
+- bin
+- cue
+- iso
+- nero
 author: emrahyumuk
 layout: post
-permalink: /bin-ve-cue-uzantili-dosyalar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1899";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364802984";}'
-categories:
-  - Bilgisayar
-tags:
-  - bin
-  - cue
-  - iso
-  - nero
+- a:3:{s:12:"sayac_toplam";s:4:"1899";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364802984";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;" title=".bin .cue uzantılı dosyalar" src="http://img143.imageshack.us/img143/4898/cdbinuc6.png" alt="" width="150" height="150" />Bir dosya indirdik ve **.bin** uzantılı. eğer bu dosyanın yanında **.cue** uzantılı bir dosya varsa Nero ile cd&#8217;ye yazabiliriz. eğer cue uzantılı dosya yoksa bu dosyayı bizim oluşturmamız gerekiyor. Nasıl mı?
 
 <!--more-->

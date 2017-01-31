@@ -1,18 +1,20 @@
 ---
-title: 'Unutmak Yok &#8211; Pablo Neruda'
+title: Unutmak Yok &#8211; Pablo Neruda
+date: 2008-10-31 00:00:00 +02:00
+permalink: "/unutmak-yok-pablo-neruda/"
+categories:
+- Edebiyat
+tags:
+- Edebiyat
+- pablo neruda
+- şair
+- şiir
 author: emrahyumuk
 layout: post
-permalink: /unutmak-yok-pablo-neruda/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1366";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903061";}'
-categories:
-  - Edebiyat
-tags:
-  - Edebiyat
-  - pablo neruda
-  - şair
-  - şiir
+- a:3:{s:12:"sayac_toplam";s:4:"1366";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903061";}
 ---
+
 Bunca zamandır nerede olduğumu soracak olursan
 
 &#8220;Oldu bir şeyler&#8221; demeliyim

@@ -1,16 +1,18 @@
 ---
-title: 'Bir Düş, Bir Mutluluk Fotoğrafı&#8230;'
+title: Bir Düş, Bir Mutluluk Fotoğrafı&#8230;
+date: 2008-11-08 00:00:00 +02:00
+permalink: "/bir-dus-bir-mutluluk-fotografi/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /bir-dus-bir-mutluluk-fotografi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1091";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1363845108";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1091";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1363845108";}
 ---
+
 Maçın başlamasına çok az bir süre kalmıştı… Tatlı mı tatlı küçük kız Beşiktaş formasıyla annesine sesleniyordu:  
 -Anneciğim hadi gel maç başlayacak.  
 Yanında abisi Galatasaray formasını giymiş:  

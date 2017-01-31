@@ -1,17 +1,19 @@
 ---
-title: 'Karanlığın İçine Bir Tutam Aydınlık&#8230;'
+title: Karanlığın İçine Bir Tutam Aydınlık&#8230;
+date: 2009-03-23 00:00:00 +02:00
+permalink: "/karankigin-icine-bir-tutam-aydinlik/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /karankigin-icine-bir-tutam-aydinlik/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1005";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364922207";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1005";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364922207";}
 ---
+
 Kapana sıkışmış bir fare gibi nefes almak bile zor geliyor artık. Acıyor kapana sıkışan yerleri insanın. Ve özgürlük de her şey gibi tüketilirken en çok da gelecek yoruyor insanı. Umudu olduğu halde korkuyor, korktuğu halde yine de cesur, cesur olduğu halde sığınacak bir liman arıyor kendine. Anlamsızlık bir kafadan diğerine ulaşırken oyun oluveriyor. Oturup kendilerine baksalar gülecekleri halde, hala ciddi ciddi yaşıyorlar. Ve yaşamak da anlamsızlaşıyor, işte yolun sonu. Egolarını tatmin etmiş bir hayvanın yapabileceği en güzel şey eceliyle ölmektir. Eğer elimi senin için kana bularsam biliyorum kahraman olacaksın. Kahramanlık ise eskisi gibi imkansızı gerçekleştirene değil, gerçekleri imkansızlaştırana verilen bir ünvan.
 
 Soruyor ya kendine bazen &#8220;Nereye böyle?&#8221;. Cevabı koskoca bir boşluk ve o boşluktan aşağıya salıveriyor kendini. Sen hiç gözlerimin en içine bakabildin mi ki beni tanıdığını zannediyorsun. Biliyorum baktığını ve iki adet boşluk gördüğünü iddia edeceksin. Anlamsız iki adet boşluk&#8230; Ve sana elveda derken bir gün çok şaşıracağını söylemek isteyeceğim ama söylemeyeceğim. Ve o gün geldiğinde beni tanımadığının hala farkına varmayacaksın. Ama şaşkınlığın, kanıtı olacak yanıldığının.

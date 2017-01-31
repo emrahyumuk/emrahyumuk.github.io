@@ -1,34 +1,36 @@
 ---
-title: 'C# Veri Tipleri &#8211; Değişken Tanımlama'
+title: C# Veri Tipleri &#8211; Değişken Tanımlama
+date: 2010-12-29 00:00:00 +02:00
+permalink: "/c-sharp-veri-tipleri-degisken-tanimlama/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- C#
+- c#.net
+- const
+- DateTime
+- decimal
+- değişken tanımlama
+- double
+- float
+- int
+- long
+- microsoft
+- programlama
+- sabit
+- veri tipleri
+- veri türleri
+- Visual Studio
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-veri-tipleri-degisken-tanimlama/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"5168";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288710";}'
+- a:3:{s:12:"sayac_toplam";s:4:"5168";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288710";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c#.net'
-  - const
-  - DateTime
-  - decimal
-  - değişken tanımlama
-  - double
-  - float
-  - int
-  - long
-  - microsoft
-  - programlama
-  - sabit
-  - veri tipleri
-  - veri türleri
-  - Visual Studio
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 ---
+
 Değişkenler bir programlama dilinde temel verileri saklamak ve bu verileri sonradan kullanmak için kullanılan bellek bölgeleridir.
 
 C#&#8217;ta değişken şu şekildeki tanımlanır:

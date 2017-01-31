@@ -1,61 +1,63 @@
 ---
 title: Sql Server 2008 Veri Tipleri
+date: 2012-01-23 00:00:00 +02:00
+permalink: "/sql-server-2008-veri-tipleri/"
+categories:
+- Programlama
+tags:
+- bigint
+- binary
+- bit
+- char
+- cursor
+- data types
+- date
+- DateTime
+- datetime2
+- datetimeoffset
+- decimal
+- float
+- hierarchyid
+- image
+- int
+- microsoft sql server
+- money
+- mssql
+- nchar
+- ntext
+- numeric
+- nvarchar
+- real
+- smalldatetime
+- smallint
+- smallmoney
+- sql server
+- sql server 2008
+- Sql Server 2008'de olup da Sql Server 2005'te yer almayan veri tipleri
+- sql_variant
+- table
+- text
+- time
+- timestamp
+- tinyint
+- uniqueidentifier
+- varbinary
+- varchar
+- veri tipleri
+- veritabanı
+- xml
 author: emrahyumuk
 layout: post
-permalink: /sql-server-2008-veri-tipleri/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:26377;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366295002;}'
+- a:3:{s:12:"sayac_toplam";i:26377;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366295002;}
 Hide OgTags:
-  - 0
+- 0
 Hide SexyBookmarks:
-  - 0
+- 0
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
-categories:
-  - Programlama
-tags:
-  - bigint
-  - binary
-  - bit
-  - char
-  - cursor
-  - data types
-  - date
-  - DateTime
-  - datetime2
-  - datetimeoffset
-  - decimal
-  - float
-  - hierarchyid
-  - image
-  - int
-  - microsoft sql server
-  - money
-  - mssql
-  - nchar
-  - ntext
-  - numeric
-  - nvarchar
-  - real
-  - smalldatetime
-  - smallint
-  - smallmoney
-  - sql server
-  - sql server 2008
-  - "Sql Server 2008'de olup da Sql Server 2005'te yer almayan veri tipleri"
-  - sql_variant
-  - table
-  - text
-  - time
-  - timestamp
-  - tinyint
-  - uniqueidentifier
-  - varbinary
-  - varchar
-  - veri tipleri
-  - veritabanı
-  - xml
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
 ---
+
 Kod yazarken ve veritabanı oluştururken veri tiplerinin seçimi çok önemlidir. İhtiyacımızı karşılayan en uygun tipi seçmemiz hem performans hem de kullanılan alan açısından önemlidir.
 
 Daha önce C# için kullanabileceğimiz veri tiplerini **[burada][1]** açıklamıştım. Şimdi de Sql Server 2008 de yer alan veri tiplerini ayrıntılı olarak inceleyeceğiz.

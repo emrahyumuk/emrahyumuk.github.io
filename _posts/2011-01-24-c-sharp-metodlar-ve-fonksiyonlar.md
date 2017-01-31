@@ -1,32 +1,34 @@
 ---
-title: 'C#&#8217;ta Metotlar ve Fonksiyonlar'
+title: C#&#8217;ta Metotlar ve Fonksiyonlar
+date: 2011-01-24 00:00:00 +02:00
+permalink: "/c-sharp-metodlar-ve-fonksiyonlar/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- C#
+- c# fonksiyonlar
+- c# metodlar
+- c# metotlar
+- c#.net
+- fonksiyonlar
+- metodlar
+- metotlar
+- programlama
+- visual c#
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-metodlar-ve-fonksiyonlar/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"6150";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364919820";}'
+- a:3:{s:12:"sayac_toplam";s:4:"6150";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364919820";}
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c# fonksiyonlar'
-  - 'c# metodlar'
-  - 'c# metotlar'
-  - 'c#.net'
-  - fonksiyonlar
-  - metodlar
-  - metotlar
-  - programlama
-  - 'visual c#'
+- 0
 ---
+
 Bazen yazdığımız programda belirli durumlarda aynı işlemi yaptırmak gerekir. Mesela bir butona tıklandığı zaman sadece toplama işlemi yapılacak, başka bir butona tıklandığında toplama işlemi yapılıp bir de bu toplama işleminin sonucu tek mi çift mi ona bakılacak olsun. Bu durumda iki kez toplama işleminin kodlarını yazmamız gerekir. Eğer bir de döngülerle aynı işlemleri tekrarlamak gerektiğinde programımız  daha da uzar ve programın performansı da düşer. Böyle durumlarda metot  (fonksiyon) kullanarak yapacağımız işlemleri oluşturduğumuz metotların içine yazarız ve tekrar kullanacağımız zaman bu metodu çağırırız. (C#&#8217;ta metot ve fonksiyonlar aynı anlamda kullanılır. Burada metot olarak isimlendireceğiz. )  
 <!--more-->
 

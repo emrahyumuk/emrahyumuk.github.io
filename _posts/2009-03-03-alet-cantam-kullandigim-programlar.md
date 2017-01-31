@@ -1,19 +1,21 @@
 ---
-title: 'Alet Çantam &#8211; Kullandığım Programlar'
+title: Alet Çantam &#8211; Kullandığım Programlar
+date: 2009-03-03 00:00:00 +02:00
+permalink: "/alet-cantam-kullandigim-programlar/"
+categories:
+- Program
+tags:
+- programlar
+- windows
+- yazılım
 author: emrahyumuk
 layout: post
-permalink: /alet-cantam-kullandigim-programlar/
 yazi_resmi:
-  - http://img186.imageshack.us/img186/5107/programlar.jpg
+- http://img186.imageshack.us/img186/5107/programlar.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1921";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364916263";}'
-categories:
-  - Program
-tags:
-  - programlar
-  - windows
-  - yazılım
+- a:3:{s:12:"sayac_toplam";s:4:"1921";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364916263";}
 ---
+
 işte size kullandığım programların listesi&#8230; bu listeden merak ettiğiniz programları deneyebilirsiniz. bana yeni programlar da önerebilirsiniz. Alet Çantamda şu an bunlar var. ama sürekli güncellenecek, yeni programlar kullanmaya başladığımda ya da değiştirdiğimde buraya ekleyeceğim&#8230;
 
 <!--more-->

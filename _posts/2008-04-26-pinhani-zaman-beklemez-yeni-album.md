@@ -1,23 +1,25 @@
 ---
-title: 'Pinhani &#8211; Zaman Beklemez (Yeni Albüm)'
+title: Pinhani &#8211; Zaman Beklemez (Yeni Albüm)
+date: 2008-04-26 00:00:00 +03:00
+permalink: "/pinhani-zaman-beklemez-yeni-album/"
+categories:
+- Müzik
+tags:
+- Akın Eldes
+- cem aksel
+- demirhan baylan
+- erkan oğur
+- Müzik
+- pinhani
+- şarkı
+- yeni albüm
+- zaman beklemez
 author: emrahyumuk
 layout: post
-permalink: /pinhani-zaman-beklemez-yeni-album/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:15022;s:11:"sayac_bugun";i:9;s:9:"son_okuma";i:1366293490;}'
-categories:
-  - Müzik
-tags:
-  - Akın Eldes
-  - cem aksel
-  - demirhan baylan
-  - erkan oğur
-  - Müzik
-  - pinhani
-  - şarkı
-  - yeni albüm
-  - zaman beklemez
+- a:3:{s:12:"sayac_toplam";i:15022;s:11:"sayac_bugun";i:9;s:9:"son_okuma";i:1366293490;}
 ---
+
 <p class="MsoNormal">
   <img class="alignleft" style="border: 0pt none; margin: 5px; float: left;" src="http://img528.imageshack.us/img528/4028/pinhanizamanbeklemezxy6.jpg" border="7" alt="pinhani_zaman_beklemez" hspace="5" vspace="5" width="175" height="173" align="left" />Pinhani&#8217; nin ikinci albümü <strong>&#8220;Zaman Beklemez&#8221;</strong> raflardaki yerini aldı.
 </p>

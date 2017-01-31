@@ -1,22 +1,24 @@
 ---
-title: 'Herkes Gider mi? &#8211; Cem Adrian'
+title: Herkes Gider mi? &#8211; Cem Adrian
+date: 2010-12-23 00:00:00 +02:00
+permalink: "/herkes-gider-mi-cem-adrian/"
+categories:
+- Müzik
+tags:
+- aylin aslım
+- cem adrian
+- herkes gider mi
+- kayıp çocuk masalları
+- şarkı sözleri
+- yeni albüm
 author: emrahyumuk
 layout: post
-permalink: /herkes-gider-mi-cem-adrian/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cem-adrian.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cem-adrian.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1592";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364747934";}'
-categories:
-  - Müzik
-tags:
-  - aylin aslım
-  - cem adrian
-  - herkes gider mi
-  - kayıp çocuk masalları
-  - şarkı sözleri
-  - yeni albüm
+- a:3:{s:12:"sayac_toplam";s:4:"1592";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364747934";}
 ---
+
 Cem Adrian&#8217;ın yeni albümü &#8220;Kayıp Çocuk Masalları&#8221; çıktı. Albümdeki bütün şarkılar gerçekten çok güzel. Özellikle Aylin Aslım&#8217;la düet yaptığı &#8220;Herkes Gider Mi?&#8221; ve Murat Yılmazyıldırım&#8217;la düet yaptığı &#8220;Ağladıkça&#8221; şarkılarını çok beğendim. &#8220;Herkes Gider Mi?&#8221; şarkısının sözleri harika&#8230;
 
 <!--more-->

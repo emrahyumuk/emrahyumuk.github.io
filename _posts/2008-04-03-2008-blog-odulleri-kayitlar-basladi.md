@@ -1,21 +1,23 @@
 ---
-title: '2008 Blog Ödülleri &#8211; Kayıtlar Başladı'
+title: 2008 Blog Ödülleri &#8211; Kayıtlar Başladı
+date: 2008-04-03 00:00:00 +03:00
+permalink: "/2008-blog-odulleri-kayitlar-basladi/"
+categories:
+- İnternet
+tags:
+- blog
+- blog ödülleri
+- bloglama
+- kategoriler
+- kayıt
+- kurallar
+- yarışma
 author: emrahyumuk
 layout: post
-permalink: /2008-blog-odulleri-kayitlar-basladi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"995";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364884885";}'
-categories:
-  - İnternet
-tags:
-  - blog
-  - blog ödülleri
-  - bloglama
-  - kategoriler
-  - kayıt
-  - kurallar
-  - yarışma
+- a:3:{s:12:"sayac_toplam";s:3:"995";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364884885";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/blogodullerilogo.jpg" alt="blogodullerilogo.jpg" align="left" border="1" hspace="5" vspace="5" />10 ayrı kategoride verilecek olan blog ödüllerinin kayıtları başladı. Kayıtlar 21 Nisan&#8217;a kadar sürecek ve ondan sonra oylama başlayacak. İnternet kullanıcıları 21 Nisan &#8211; 5 Mayıs tarihleri arasında en çok beğendikleri bloglara oy vererek kazananları belirleyecek.
 
 Mayıs ayında düzenlenecek özel gecede kazananlar açıklacak ve ödüller sahiplerini bulacak. Dereceye girenler haricinde oy veren ilk 20 kullanıcı da bu geceye davet edilecek.

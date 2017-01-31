@@ -1,19 +1,21 @@
 ---
 title: Sony Ericsson PSPhone
+date: 2008-03-10 00:00:00 +02:00
+permalink: "/sony-ericsson-psphone/"
+categories:
+- Teknoloji
+tags:
+- psp
+- psphone
+- sony ericsson
+- Teknoloji
+- telefon
 author: emrahyumuk
 layout: post
-permalink: /sony-ericsson-psphone/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1159";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364882348";}'
-categories:
-  - Teknoloji
-tags:
-  - psp
-  - psphone
-  - sony ericsson
-  - Teknoloji
-  - telefon
+- a:3:{s:12:"sayac_toplam";s:4:"1159";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364882348";}
 ---
+
 <img src="http://img518.imageshack.us/img518/4151/psphoneff1.jpg" alt="psphone" align="left" border="7" height="155" hspace="5" vspace="5" width="170" />
 
 Hem oyun konsolu hem de telefon olarak kullanılabilen Sony Ericsson PSPhone adı verilen ürün, Geniş ekranı ve N95′de bulunan benzer mekanizmasıyla dikkat çekiyor.

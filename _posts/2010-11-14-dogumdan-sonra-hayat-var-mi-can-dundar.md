@@ -1,13 +1,15 @@
 ---
-title: 'Doğumdan Sonra Hayat Var Mı? &#8211; Can Dündar'
+title: Doğumdan Sonra Hayat Var Mı? &#8211; Can Dündar
+date: 2010-11-14 00:00:00 +02:00
+permalink: "/dogumdan-sonra-hayat-var-mi-can-dundar/"
+categories:
+- Edebiyat
 author: emrahyumuk
 layout: post
-permalink: /dogumdan-sonra-hayat-var-mi-can-dundar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1101";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919871";}'
-categories:
-  - Edebiyat
+- a:3:{s:12:"sayac_toplam";s:4:"1101";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919871";}
 ---
+
 <p style="padding-left: 180px;">
   - Bir internet öyküsünden uyarlama -
 </p>

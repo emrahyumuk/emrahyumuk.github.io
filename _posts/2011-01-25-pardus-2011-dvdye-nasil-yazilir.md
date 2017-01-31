@@ -1,24 +1,26 @@
 ---
 title: Pardus 2011 DVD’ye Nasıl Yazılır?
+date: 2011-01-25 00:00:00 +02:00
+permalink: "/pardus-2011-dvdye-nasil-yazilir/"
+categories:
+- Linux
+tags:
+- dvd yazdırmak
+- iso burner
+- iso yazdırma
+- linux
+- pardus
+- pardus 2011
+- pardus 2011 dvd
+- pardus 2011 dvd yazım
 author: emrahyumuk
 layout: post
-permalink: /pardus-2011-dvdye-nasil-yazilir/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:4616;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293904;}'
+- a:3:{s:12:"sayac_toplam";i:4616;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293904;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
-categories:
-  - Linux
-tags:
-  - dvd yazdırmak
-  - iso burner
-  - iso yazdırma
-  - linux
-  - pardus
-  - pardus 2011
-  - pardus 2011 dvd
-  - pardus 2011 dvd yazım
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
 ---
+
 32 bit ve 64 bit olmak üzere iki farklı sürüm olarak çıkan Pardus 2011&#8242;de herhangi bir soruna karşı bütün işlemcilere uygun olan 32 bit sürümünü indirmenizi tavsiye ederim.
 
 İlk olarak **[buradan][1]** Pardus 2011 iso dosyasını indiriyoruz. 1,07 GB boyutundaki iso uzantılı dosyayı indirdikten sonra  **[buradan][2]** kurulum gerektirmeyen Free ISO Burner programını indiriyoruz. Boş bir DVD&#8217;yi Cd-rom&#8217;a taktıktan sonra ISO Burner programını açıyoruz.

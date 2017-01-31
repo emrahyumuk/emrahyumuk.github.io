@@ -1,20 +1,22 @@
 ---
-title: 'İnternet Yasakları Türkiye&#8217;ye Zarar Veriyor'
+title: İnternet Yasakları Türkiye&#8217;ye Zarar Veriyor
+date: 2008-03-25 00:00:00 +02:00
+permalink: "/internet-yasaklari-turkiyeye-zarar-veriyor/"
+categories:
+- İnternet
+tags:
+- atatürk
+- İnternet
+- türkiye
+- video
+- yasak
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /internet-yasaklari-turkiyeye-zarar-veriyor/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1322";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364894888";}'
-categories:
-  - İnternet
-tags:
-  - atatürk
-  - İnternet
-  - türkiye
-  - video
-  - yasak
-  - youtube
+- a:3:{s:12:"sayac_toplam";s:4:"1322";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364894888";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/youtube_yasak.gif" alt="youtube" align="left" border="1" hspace="5" vspace="5" />Türkiye Bilişim Derneği (TBD), İnternet Teknoloji Derneği (INETD), Tüm İnternet Derneği (TID), Linux Kullanıcıları Derneği (LKD), Tüm İnternet Evleri Derneği (TIEV), Bilişim Sektörü Derneği (TUBIDER) ve Türk Kütüphaneciler Derneği (TKD), internet yasaklarının Türkiye’ye zarar verdiğini bildiren bir açıklama yaptı.
 
 Açıklamada şunlardan bahsediliyor;

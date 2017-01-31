@@ -1,21 +1,23 @@
 ---
 title: İnternetten Mühendis Olabilirsiniz !
+date: 2008-10-08 00:00:00 +03:00
+permalink: "/internetten-muhendis-olabilirsiniz/"
+categories:
+- Bilgisayar
+- İnternet
+tags:
+- Bilgisayar
+- endüstri
+- insan kaynakları
+- mühendislik
+- sakarya üniversitesi
+- uzaktan eğitim
 author: emrahyumuk
 layout: post
-permalink: /internetten-muhendis-olabilirsiniz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1736";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364850117";}'
-categories:
-  - Bilgisayar
-  - İnternet
-tags:
-  - Bilgisayar
-  - endüstri
-  - insan kaynakları
-  - mühendislik
-  - sakarya üniversitesi
-  - uzaktan eğitim
+- a:3:{s:12:"sayac_toplam";s:4:"1736";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364850117";}
 ---
+
 <p style="text-align: center;">
   <a href="http://www.emrahyumuk.com/blog/internetten-muhendis-olabilirsiniz/"><img class="aligncenter" src="http://img222.imageshack.us/img222/1492/sauuzaktanegitimrc1.jpg" alt="" width="389" height="95" /></a>
 </p>

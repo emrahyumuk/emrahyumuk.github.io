@@ -1,25 +1,27 @@
 ---
 title: Kopyala-Yapıştır-Sahiplen
+date: 2008-05-01 00:00:00 +03:00
+permalink: "/kopyala-yapistir-sahiplen/"
+categories:
+- İnternet
+- Yazılarım
+tags:
+- alıntı
+- çalıntı
+- cnnturk
+- google
+- haber
+- İnternet
+- kaynak
+- kopyala yapıştır
+- pinhani
+- zaman beklemez
 author: emrahyumuk
 layout: post
-permalink: /kopyala-yapistir-sahiplen/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1520";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364806554";}'
-categories:
-  - İnternet
-  - Yazılarım
-tags:
-  - alıntı
-  - çalıntı
-  - cnnturk
-  - google
-  - haber
-  - İnternet
-  - kaynak
-  - kopyala yapıştır
-  - pinhani
-  - zaman beklemez
+- a:3:{s:12:"sayac_toplam";s:4:"1520";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364806554";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/kopyala-yapistir.jpg" border="1" alt="kopyala-yapistir" hspace="5" vspace="5" align="left" />google&#8217;dan bir haber arasınız ve karşınıza çıkan sayfalardaki haberlerin çoğu birbirinin birebir aynısıdır. yazıyı o kadar sahiplenmişler, benimsemişlerdir ki hiçbiri kaynak göstermemiştir. birkaç kaynak gösteren çıkar karşınıza. ama onlar da kaynak göstermeyen bir başka websitesini kaynak olarak göstermiştir. bu olabilir, gayet normal. en azından adam emeğe saygı deyip nerden alıntı yaptığını belirtmiştir.
 
 <!--more-->

@@ -1,18 +1,20 @@
 ---
 title: Tam “bitti…” derken
+date: 2009-02-20 00:00:00 +02:00
+permalink: "/tam-bitti-derken/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- mektup
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /tam-bitti-derken/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"996";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1363991017";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - mektup
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:3:"996";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1363991017";}
 ---
+
 Bazen her şey nasıl da bitiyor oysa hiç bitmeyecek gibi dururken. Zamansa kendi halinde gibi görünen acımasız bir dost gibi. Yaralarımıza merhem olacakmış güya. Düşünsene seni kaç kişi bekledi bunca zamandır. Sen bittiği için sevindiğini zannederken aslında ne kadar üzülüyordun. Ve uzun zaman sonra göründüğünde bir anda mutlu olan birileri vardı elbet bittiğine çok sevinen.
 
 İlk paragraftan bir şey anlamadığını biliyorum. Suya yazılan bir yazı gibi işte birazdan aklından silinip gidecek zaten. Bunu okuyor olman dahi beni ne kadar şaşırtıyor bir bilsen. Oysa hiç gelmeyeceksin zannetmiştim bu sayfaya. Ama artık gülümseyebilirsin acılarına veya acılarıma. Belki de acıya gülmek anlatmaya çalıştığım biraz da.

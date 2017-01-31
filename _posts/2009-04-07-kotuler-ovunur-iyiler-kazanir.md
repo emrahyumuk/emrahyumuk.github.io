@@ -1,17 +1,19 @@
 ---
 title: Kötüler Övünür, İyiler Kazanır
+date: 2009-04-07 00:00:00 +03:00
+permalink: "/kotuler-ovunur-iyiler-kazanir/"
+categories:
+- Edebiyat
+tags:
+- deneme
+- mahmut hasgül
+- yazı
 author: emrahyumuk
 layout: post
-permalink: /kotuler-ovunur-iyiler-kazanir/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1430";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364908493";}'
-categories:
-  - Edebiyat
-tags:
-  - deneme
-  - mahmut hasgül
-  - yazı
+- a:3:{s:12:"sayac_toplam";s:4:"1430";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364908493";}
 ---
+
 Eğer dünya hâlâ yaşanılabilirse; hâlâ lezzet aldığımız birçok güzellik varlığını devam ettiriyorsa bunca tahribata rağmen. Bunun mimarları bizleriz. Bizler: Yalnızca güzelliği düşünen insanlar, toplumsal bilinçle kederlenen, bu bilinçle neşelenen insanlar.
 
 Milli ve manevi kaygılarla uykularını unutabilecek kadar hissiyat sahibi olan insanlar, iyi yoldasınız. Asla “Sen mi kurtaracaksın kardeşim.” Diyenlere itibar etmeyiniz. Zira evet biz kurtarıyoruz bu ülkeyi. Bizim ülkemizde –çok şükür ki- hâlâ günlük 200-300 şehit vermiyorsak, camilerimiz bombalanmıyor, bebeklerimiz bir roket atarla kan uykularında kana bulanmıyorlarsa, sokaklarımızdan makineli tüfek sesleri gelmiyorsa bu iyi insanların sayesindedir. Hırsızlar, yolsuzlar, beşik ulemaları, vatanı satanlar, vatanı bölenler, yetim hakkı yiyenler; örgütler, örgüt sempatizanı cahiller, örgütleri kiralık katil olarak kullanan Fransa, Almanya, ABD gibi –artık ihaneti ispatlanmış- aleni düşmanlar, bunca gemimizi kemiren farelere rağmen ayaktaysak; biz her gün yeni bir zafer kazanıyoruz demektir.

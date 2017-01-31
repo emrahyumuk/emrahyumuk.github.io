@@ -1,24 +1,26 @@
 ---
-title: 'Rapidshare&#8217;de dosya aramak çok kolay&#8230;'
+title: Rapidshare&#8217;de dosya aramak çok kolay&#8230;
+date: 2009-03-23 00:00:00 +02:00
+permalink: "/rapidshare-de-dosya-aramak-cok-kolay/"
+categories:
+- İnternet
+tags:
+- arama motoru
+- download
+- link
+- megashare
+- netload
+- paylaşım
+- rapidshare
+- upload
 author: emrahyumuk
 layout: post
-permalink: /rapidshare-de-dosya-aramak-cok-kolay/
 yazi_resmi:
-  - http://img91.imageshack.us/img91/4671/rapidshare.jpg
+- http://img91.imageshack.us/img91/4671/rapidshare.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"9351";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364912305";}'
-categories:
-  - İnternet
-tags:
-  - arama motoru
-  - download
-  - link
-  - megashare
-  - netload
-  - paylaşım
-  - rapidshare
-  - upload
+- a:3:{s:12:"sayac_toplam";s:4:"9351";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364912305";}
 ---
+
 Rapidshare linklerini bulacağınız pek çok site mevcut. bu sitelerden bazıları direkt linkleri ulaşmanızı sağlarken bazıları linklerin bulunduğu websitelerini buluyor.Forumlara üye olmadan linklere ulaşmanız mümkün.
 
 işte rapidshare&#8217;de her türlü içeriğe ulaşabileceğiniz websiteleri :

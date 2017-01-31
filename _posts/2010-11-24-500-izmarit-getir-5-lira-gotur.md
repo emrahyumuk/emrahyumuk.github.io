@@ -1,19 +1,21 @@
 ---
 title: 500 izmarit getir 5 lira götür
+date: 2010-11-24 00:00:00 +02:00
+permalink: "/500-izmarit-getir-5-lira-gotur/"
+categories:
+- Diğer
+tags:
+- çetkoder
+- çevre ve tüketici hakları koruma derneği
+- kampanya
 author: emrahyumuk
 layout: post
-permalink: /500-izmarit-getir-5-lira-gotur/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1617";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364921833";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1617";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364921833";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/500izmaritgetir5liragotur-k.jpg
-categories:
-  - Diğer
-tags:
-  - çetkoder
-  - çevre ve tüketici hakları koruma derneği
-  - kampanya
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/500izmaritgetir5liragotur-k.jpg
 ---
+
 Çevre Ve Tüketici Haklarını Koruma Derneği&#8217;nin (ÇETKODER) büyük çevre kirliliğine yol açan sigara izmaritleri konusunda farkındalık yaratma amacıyla “**500 izmarit getir 5 lira götür**” sloganı ile başlattığı kampanya büyük ilgi görüyor
 
 Genel Merkezi Mersin’de bulunan yurt genelinde örgütlü bulunan Çevre Ve Tüketici Haklarını Koruma Derneği (ÇETKODER) Genel Merkezi, Genel Başkanları Mustafa Göktaş öncülüğünde yeni bir kampanya ve girişim başlattı.

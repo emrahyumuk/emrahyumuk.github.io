@@ -1,23 +1,25 @@
 ---
 title: 'Film Arşiv Programı : GrieeX'
+date: 2009-03-02 00:00:00 +02:00
+permalink: "/film-arsiv-programi-grieex/"
+categories:
+- Program
+tags:
+- arşiv
+- film
+- grieex
+- katalog
+- Sinema
+- türk yapımı
+- türkçe
 author: emrahyumuk
 layout: post
-permalink: /film-arsiv-programi-grieex/
 yazi_resmi:
-  - http://img522.imageshack.us/img522/8910/grieex.jpg
+- http://img522.imageshack.us/img522/8910/grieex.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:4436;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366294221;}'
-categories:
-  - Program
-tags:
-  - arşiv
-  - film
-  - grieex
-  - katalog
-  - Sinema
-  - türk yapımı
-  - türkçe
+- a:3:{s:12:"sayac_toplam";i:4436;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366294221;}
 ---
+
 daha önce film arşiv programı olarak size [**divxturk**][1] programını tanıtmıştım. onu biraz kullanmıştım fakat yeni sürümlerinin çıkmamasından dolayı bazı sorunlar çıktı. şu an sorunsuz kullandığım film arşiv programı **GrieeX**. Eğer divxturk programına filmlerinizi yüklediyseniz Grieex size divxturk verilerini alabilme imkanı da tanıyor.
 
 **Grieex** programı Durmuş Altın tarafından yapılmış Türk yapımı bir program. hemen hemen aradığınız her şeye cevap veriyor. kullanımı kolay, sade ve anlaşılır. zaten tamamen türkçe bir program.

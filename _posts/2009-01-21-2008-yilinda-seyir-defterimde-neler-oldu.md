@@ -1,20 +1,22 @@
 ---
 title: 2008 Yılında Seyir Defterimde Neler Oldu?
+date: 2009-01-21 00:00:00 +02:00
+permalink: "/2008-yilinda-seyir-defterimde-neler-oldu/"
+categories:
+- Yazılarım
+tags:
+- 2008
+- 2009
+- blog
+- seyir defterim
+- yazı
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /2008-yilinda-seyir-defterimde-neler-oldu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1107";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364744803";}'
-categories:
-  - Yazılarım
-tags:
-  - 2008
-  - 2009
-  - blog
-  - seyir defterim
-  - yazı
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1107";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364744803";}
 ---
+
 2008 Ocak ayının başlarında açtığım seyir defterime düzenlemeydi, tasarımdı, öğrenmeydi, araştırmaydı derken ilk yazım 31 Ocak 2008 tarihinde geldi.
 
 ve işte blog serüvenim&#8230;

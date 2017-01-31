@@ -1,16 +1,18 @@
 ---
 title: Ve Bekleyecek Bir Şey Kalmadığında…
+date: 2008-12-21 00:00:00 +02:00
+permalink: "/ve-bekleyecek-bir-sey-kalmadiginda/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /ve-bekleyecek-bir-sey-kalmadiginda/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1036";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1363940901";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1036";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1363940901";}
 ---
+
 <address>
   “İnsan beklemeyi ancak, bekleyeceği bir şey kalmadığı zaman öğrenir.” Voltaire
 </address>

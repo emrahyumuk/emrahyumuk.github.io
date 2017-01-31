@@ -1,17 +1,19 @@
 ---
 title: İki Yüzlü Bir Hikaye
+date: 2008-11-20 00:00:00 +02:00
+permalink: "/iki-yuzlu-bir-hikaye/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- hikaye
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /iki-yuzlu-bir-hikaye/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1597";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364845347";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - hikaye
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1597";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364845347";}
 ---
+
 Küçük bir çocuk yaklaştı yanına.  
 - Abi, okul çantası alacağım. Para verir misin?  
 - Ne oldu !!!  

@@ -1,20 +1,22 @@
 ---
-title: 'Sql Server XQuery &#8211; XML İçinde Sorgu'
+title: Sql Server XQuery &#8211; XML İçinde Sorgu
+date: 2012-09-21 00:00:00 +03:00
+permalink: "/sql-server-xquery-xml-icinde-sorgu/"
+categories:
+- Programlama
+tags:
+- sql server
+- sql server xml
+- xml
+- xquery
 author: emrahyumuk
 layout: post
-permalink: /sql-server-xquery-xml-icinde-sorgu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:69307;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366294990;}'
+- a:3:{s:12:"sayac_toplam";i:69307;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366294990;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
-categories:
-  - Programlama
-tags:
-  - sql server
-  - sql server xml
-  - xml
-  - xquery
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
 ---
+
 Sql server&#8217;da tablo kolonunda xml saklayabiliyoruz. Bu xml tipindeki kolonlarda verileri xquery ile sorgulayabiliyoruz.
 
 <!--more-->

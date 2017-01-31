@@ -1,26 +1,28 @@
 ---
-title: 'WEB 10 &#8211; website önerileri (1)'
+title: WEB 10 &#8211; website önerileri (1)
+date: 2010-10-12 00:00:00 +03:00
+permalink: "/web-10-website-onerileri-1/"
+categories:
+- İnternet
+tags:
+- blog
+- İnternet
+- internet sayfaları
+- web
+- web sayfa
+- web10
+- website
+- website önerileri
+- website tanıtım
+- www
 author: emrahyumuk
 layout: post
-permalink: /web-10-website-onerileri-1/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1366";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364918925";}'
-categories:
-  - İnternet
-tags:
-  - blog
-  - İnternet
-  - internet sayfaları
-  - web
-  - web sayfa
-  - web10
-  - website
-  - website önerileri
-  - website tanıtım
-  - www
+- a:3:{s:12:"sayac_toplam";s:4:"1366";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364918925";}
 ---
+
 Bundan sonra Web 10 bölümünde yer imlerimde bulunan 10 websitesini tanıtacağım. Web10 başlıyor&#8230;
 
 1.  <a href="http://www.bilgiportal.com" target="_blank"><strong>www.bilgiportal.com</strong></a> &#8211; Geniş kapsamlı döküman ve makale sitesi. Her ne kadar bu tarz siteler popülerliğini yitirse de epey zaman önce belki lazım olur diye yer imlerime eklediğim bir site.

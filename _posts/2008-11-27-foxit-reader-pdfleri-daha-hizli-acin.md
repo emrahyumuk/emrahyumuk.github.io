@@ -1,19 +1,21 @@
 ---
 title: 'Foxit Reader : PDF&#8217;leri daha hızlı açın'
+date: 2008-11-27 00:00:00 +02:00
+permalink: "/foxit-reader-pdfleri-daha-hizli-acin/"
+categories:
+- Program
+tags:
+- adobe acrobat reader
+- download
+- foxit reader
+- indir
+- pdf
 author: emrahyumuk
 layout: post
-permalink: /foxit-reader-pdfleri-daha-hizli-acin/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:2295;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366290923;}'
-categories:
-  - Program
-tags:
-  - adobe acrobat reader
-  - download
-  - foxit reader
-  - indir
-  - pdf
+- a:3:{s:12:"sayac_toplam";i:2295;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366290923;}
 ---
+
 <img class="aligncenter" src="http://img396.imageshack.us/img396/3113/foxitreaderjs4.jpg" alt="" width="395" height="47" />
 
 Çoğumuzun kullandığı Adobe Acrobat Reader&#8217;ın alternatifi olan Foxit Reader ile PDF dosyalarınızı daha hızlı açabilirsiniz. Adobe Acrobet Reader&#8217;ın pdfleri açarken çok fazla bekletmesinden dolayı bizleri alternatif arayışına itti. Ve şu anda en iyi alternatif Foxit Reader.

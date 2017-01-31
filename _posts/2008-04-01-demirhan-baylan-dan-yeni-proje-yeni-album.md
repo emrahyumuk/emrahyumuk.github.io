@@ -1,19 +1,21 @@
 ---
-title: 'Demirhan Baylan&#8217; dan Yeni Proje Yeni Albüm'
+title: Demirhan Baylan&#8217; dan Yeni Proje Yeni Albüm
+date: 2008-04-01 00:00:00 +03:00
+permalink: "/demirhan-baylan-dan-yeni-proje-yeni-album/"
+categories:
+- Müzik
+tags:
+- demirhan baylan
+- mp3
+- Müzik
+- ogg
+- yeni albüm
 author: emrahyumuk
 layout: post
-permalink: /demirhan-baylan-dan-yeni-proje-yeni-album/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1591";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364745126";}'
-categories:
-  - Müzik
-tags:
-  - demirhan baylan
-  - mp3
-  - Müzik
-  - ogg
-  - yeni albüm
+- a:3:{s:12:"sayac_toplam";s:4:"1591";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364745126";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/db.gif" alt="db.gif" align="left" border="1" hspace="5" vspace="5" /><font color="#000080">Yeni bir albüm; firma yok, dağıtımcı yok, reklam yok; albüm websitesinde indirilebilir durumda ama şifreli; şifre 12 kişide; dünya üzerinde farklı şehirlerde bulunan birbirini tanımayan 12 kişi; oyun 1 Nisan&#8217;da başladı&#8230; &#8220;Bu oyun, albüm internete düştüğü, radyo ve televizyonda yayınlandığı gün bitmiş olacak. Bu oyunun sonunu aklı sıra herkesle paylaşmaya çalışacak olan cellat getirecektir.&#8221;</font>
 
 Bu gün RockHayat.com sitesinde <a href="http://www.rockhayat.com/haberoku205/" target="_blank"><strong>Demirhan Baylan&#8217;ın Yeni Albümü</strong></a> başlıklı yazıyı okudum. Yazıda Demirhan Baylan&#8217;ın 1 Nisan&#8217;da değişik bir projeyle karşımıza çıkacağı yazıyor ve <font class="swb">bu konu hakkında Demirhan Baylan şöyle demiş;</font>

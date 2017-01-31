@@ -1,16 +1,18 @@
 ---
-title: 'Bir Hayalin Yansıdığı O Yüz&#8230;'
+title: Bir Hayalin Yansıdığı O Yüz&#8230;
+date: 2008-09-29 00:00:00 +03:00
+permalink: "/bir-hayalin-yansidigi-o-yuz/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /bir-hayalin-yansidigi-o-yuz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:1055;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293186;}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";i:1055;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293186;}
 ---
+
 <p class="MsoNormal">
   Hayalini anlattı beyaz bir kağıda. Kelimelerinin derin boşluğuna sığındı. Sonra bir düş gördü. Gerçekte ise düşlerini sığdıracak bir yüz buldu kendine. Artık resmini çizebileceği bir suret vardı. Ve rüyalarını süsleyecek bir yüz… Özledi, bekledi, istedi… O olmalıydı. Başkasını gözü görmüyordu. Çünkü ona baktığında mutluluğu görüyordu. Ve gözlerinin içinde gördüğü kendi değildi yine oydu.
 </p>

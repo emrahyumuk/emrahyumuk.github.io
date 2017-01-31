@@ -1,17 +1,19 @@
 ---
 title: WordPress Sürüm Yükseltme (Güncelleme)
+date: 2008-05-05 00:00:00 +03:00
+permalink: "/wordpress-surum-yukseltme-guncelleme/"
+categories:
+- İnternet
+tags:
+- güncelleme
+- sürüm yükseltme
+- wordpress
 author: emrahyumuk
 layout: post
-permalink: /wordpress-surum-yukseltme-guncelleme/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1096";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1366288560";}'
-categories:
-  - İnternet
-tags:
-  - güncelleme
-  - sürüm yükseltme
-  - wordpress
+- a:3:{s:12:"sayac_toplam";s:4:"1096";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1366288560";}
 ---
+
 <img class="alignleft alignnone size-medium wp-image-124" style="border: 1px solid black; margin: 5px; float: left;" title="wordpress" src="http://www.emrahyumuk.com/blog/wp-content/uploads/wordpress.jpg" alt="wordpress" width="142" height="142" />wordpress&#8217; in yeni sürümü çıkalı epey zaman oldu. daha yeni olduğundan sorun olmaması için biraz bekledim. nasıl sürüm yükseltiliyor onu araştırdım. türkçesi de çıkınca dün başarılı bir şekilde sürüm yükselttim.
 
 **sürüm yükseltmek için neler yaptım?**

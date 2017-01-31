@@ -1,22 +1,24 @@
 ---
 title: Sql Server 1605 Nolu Kurulum Hatası ve Çözümü
+date: 2011-04-19 00:00:00 +03:00
+permalink: "/sql-server-1605-nolu-kurulum-hatasi-ve-cozumu/"
+categories:
+- Programlama
+tags:
+- microsoft sql server
+- ms sql
+- sql
+- sql server 2008
+- sql server error 1605
+- sql server setup failure
 author: emrahyumuk
 layout: post
-permalink: /sql-server-1605-nolu-kurulum-hatasi-ve-cozumu/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:7426;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366292691;}'
-categories:
-  - Programlama
-tags:
-  - microsoft sql server
-  - ms sql
-  - sql
-  - sql server 2008
-  - sql server error 1605
-  - sql server setup failure
+- a:3:{s:12:"sayac_toplam";i:7426;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366292691;}
 ---
+
 Sql Server 2005&#8242;ten 2008&#8242;e veya 2008&#8242;den 2008 R2&#8242;ye geçiş yaparken şu hatayla karşılaşabilirsiniz:
 
 **Sql Server Setup has encountered the following error:**

@@ -1,18 +1,20 @@
 ---
 title: Yeni Devre Elemanı Memristor
+date: 2008-05-05 00:00:00 +03:00
+permalink: "/yeni-devre-elemani-memristor/"
+categories:
+- Elektronik
+tags:
+- devre
+- Elektronik
+- hp
+- memristor
 author: emrahyumuk
 layout: post
-permalink: /yeni-devre-elemani-memristor/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1396";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364880898";}'
-categories:
-  - Elektronik
-tags:
-  - devre
-  - Elektronik
-  - hp
-  - memristor
+- a:3:{s:12:"sayac_toplam";s:4:"1396";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364880898";}
 ---
+
 <span style="color: #ffffff;"><img class="alignleft" style="border: 2px solid black; margin: 5px; float: left;" title="memristor" src="http://www.emrahyumuk.com/blog/wp-content/uploads/memristor.jpg" alt="memristor" width="189" height="167" /></span>Leon Chua, 1971 yılında, <a href="http://en.wikipedia.org/wiki/Memristor" target="_blank">memristor</a> (Memory Resistor) adını verdiği bir devre elemanıyla ilgili matematiksel bir modeli tanıtmış.
 
 makalesinin özetinde kısaca diyor ki;  

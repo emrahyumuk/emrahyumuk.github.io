@@ -1,18 +1,20 @@
 ---
 title: Bittiğine Dair Yeni Bir Başlangıç
+date: 2008-09-02 00:00:00 +03:00
+permalink: "/bittigine-dair-yeni-bir-baslangic/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- yazı
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /bittigine-dair-yeni-bir-baslangic/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1056";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364885002";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - yazı
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1056";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364885002";}
 ---
+
 Gidişine ağıt yakılmış bir masaldı hayat. Sen daha yoktun. Bense kendimden çok uzaktım. İlerdeki köşeyi döndüğümde karşıma çıkacaktı, belki bunu bekledim bir umut. Sade bir umuttu.
 
 Yolumu her kaybettiğimde onu aradım. Bulduğum oldu, bulamadığım oldu. En sonundaysa girdiğim her sokak çıkmaz sokağa büründü. Ne onu bulabildim ne kendimi. Elimde hüzünlü bir yalnızlık, onu da sevdim, yalnızlığını da. Herkes korkarken yalnızlıktan benim sığındığım son limandı her yolculuktan sonra.

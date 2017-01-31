@@ -1,18 +1,20 @@
 ---
-title: 'Bir yarım akıllı, bir yarım deli &#8230;'
+title: Bir yarım akıllı, bir yarım deli &#8230;
+date: 2008-05-24 00:00:00 +03:00
+permalink: "/bir-yarim-akilli-bir-yarim-deli/"
+categories:
+- Müzik
+- Yazılarım
+tags:
+- deli
+- eurovision
+- mor ve ötesi
 author: emrahyumuk
 layout: post
-permalink: /bir-yarim-akilli-bir-yarim-deli/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1420";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364810184";}'
-categories:
-  - Müzik
-  - Yazılarım
-tags:
-  - deli
-  - eurovision
-  - mor ve ötesi
+- a:3:{s:12:"sayac_toplam";s:4:"1420";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364810184";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;" src="http://img112.imageshack.us/img112/4858/20z1ffnof24yyycn6yfqq6wnx1.jpg" alt="mor ve ötesi deli" width="150" height="149" />eurovision, yurovizyon, erovizyon.. her ne diyorsanız&#8230; &#8220;eurovision&#8221;a şu gitsin bu gitsin, şarkı ingilizce mi olsun, türkçe mi derken bir &#8220;eurovision&#8221; daha çattı geldi. yepyeni kurallarıyla bambaşka bir &#8220;eurovision&#8221;muş bu. bu sefer yakın ülkelerin birbirine torpil yapamayacağı söylendi. kurallar ona göre ayarlanmış.
 
 vay be dedim bir bakayım şu kurallara &#8220;eurovision&#8221; kurucuları direkt finaldeymiş. geçen senenin birincisi hariç diğerleri elemeye katılacaklarmış. gerçekten de torpil engellenmiş mi oldu şimdi? zaten o torpil ya da siyasi yakınlık, komşuluk vb. ilişkiler yüzünden şu &#8220;eurovision&#8221;un &#8220;eurovision&#8221;u kaale almayan kurucuları hep sonlarda yer alıyordu. şimdi farklı bir şey mi olacak? yine sonlarda yer alacaklar ama sorun olmayacak, nasıl olsa seneye yine finaldeler.

@@ -1,18 +1,20 @@
 ---
-title: 'Pardus 2008&#8242; in çıkış tarihi belli oldu.'
+title: Pardus 2008&#8242; in çıkış tarihi belli oldu.
+date: 2008-05-30 00:00:00 +03:00
+permalink: "/pardus-2008-cikis-tarihi-belli-oldu/"
+categories:
+- Bilgisayar
+tags:
+- İnternet
+- işletim sistemi
+- linux
+- pardus
 author: emrahyumuk
 layout: post
-permalink: /pardus-2008-cikis-tarihi-belli-oldu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1252";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364805984";}'
-categories:
-  - Bilgisayar
-tags:
-  - İnternet
-  - işletim sistemi
-  - linux
-  - pardus
+- a:3:{s:12:"sayac_toplam";s:4:"1252";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364805984";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;" src="http://img77.imageshack.us/img77/5696/pardus08ka1.jpg" alt="pardus 2008" width="168" height="225" />
 
 Pardus 2008, yenilenmiş araçları, daha çok donanım desteği, daha iyi performans ile çok yakında indirilmeye hazır olacak.

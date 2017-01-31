@@ -1,20 +1,22 @@
 ---
-title: 'Pardus 2009.2 &#8220;Geronticus eremita&#8221; yayınlandı!'
+title: Pardus 2009.2 &#8220;Geronticus eremita&#8221; yayınlandı!
+date: 2010-06-07 00:00:00 +03:00
+permalink: "/pardus-2009-2-geronticus-eremita-yayinlandi/"
+categories:
+- Bilgisayar
+tags:
+- Geronticus eremita
+- işletim sistemi
+- linux
+- pardus
+- tübitak
+- türkçe
 author: emrahyumuk
 layout: post
-permalink: /pardus-2009-2-geronticus-eremita-yayinlandi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"5451";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364921094";}'
-categories:
-  - Bilgisayar
-tags:
-  - Geronticus eremita
-  - işletim sistemi
-  - linux
-  - pardus
-  - tübitak
-  - türkçe
+- a:3:{s:12:"sayac_toplam";s:4:"5451";s:11:"sayac_bugun";s:1:"5";s:9:"son_okuma";s:10:"1364921094";}
 ---
+
 <p style="text-align: center;">
   <img class="aligncenter" src="http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2009.jpg" alt="pardus 2009.2 Geronticus eremita" width="400" height="124" />
 </p>

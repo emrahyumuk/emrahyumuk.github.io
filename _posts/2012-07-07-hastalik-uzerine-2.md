@@ -1,20 +1,22 @@
 ---
 title: Hastalık Üzerine 2
+date: 2012-07-07 00:00:00 +03:00
+permalink: "/hastalik-uzerine-2/"
+categories:
+- Yazılarım
+tags:
+- din
+- eğitim
+- hastalık üzerine
+- kadın
+- siyaset
+- türkiye
 author: emrahyumuk
 layout: post
-permalink: /hastalik-uzerine-2/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:47666;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366291359;}'
-categories:
-  - Yazılarım
-tags:
-  - din
-  - eğitim
-  - hastalık üzerine
-  - kadın
-  - siyaset
-  - türkiye
+- a:3:{s:12:"sayac_toplam";i:47666;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366291359;}
 ---
+
 Hastalık her geçen gün daha fazla yayılıyor. İnsanı tamamen esir edip düşünemez hale getiriyor. Vücuda girdikten sonra yavaş yavaş yayılıyor. Şu an çoğu insanda yayılma oranı %100’ü buldu. Bu da demek oluyor ki çok fazla insana artık insan dememiz olanaksızlaşıyor.
 
 Hastalığın sürekliliği için din uyuşturucu olarak kullanılıyor. Çünkü insan her an düşünmeye  teşne olduğundan kendi kendini iyileştirebilir. Fakat din sayesinde düşünmesi ve sorgulaması imkansızlaştırılıyor. Ve kendine bir cennet yaratıp onu elde etmek için tek yaptığı denilenleri yapmak oluyor.

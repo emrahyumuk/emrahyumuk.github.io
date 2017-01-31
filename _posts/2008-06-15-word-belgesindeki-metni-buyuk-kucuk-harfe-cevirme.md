@@ -1,21 +1,23 @@
 ---
 title: Word belgesindeki metni Büyük-Küçük harfe çevirme
+date: 2008-06-15 00:00:00 +03:00
+permalink: "/word-belgesindeki-metni-buyuk-kucuk-harfe-cevirme/"
+categories:
+- Bilgisayar
+tags:
+- Bilgisayar
+- büyük harf
+- harf
+- küçük harf
+- office
+- shift
+- word
 author: emrahyumuk
 layout: post
-permalink: /word-belgesindeki-metni-buyuk-kucuk-harfe-cevirme/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:5823;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290999;}'
-categories:
-  - Bilgisayar
-tags:
-  - Bilgisayar
-  - büyük harf
-  - harf
-  - küçük harf
-  - office
-  - shift
-  - word
+- a:3:{s:12:"sayac_toplam";i:5823;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290999;}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;" src="http://img169.imageshack.us/img169/2348/alfabefn7.jpg" alt="" width="107" height="144" />Geçen gün elime tamamen büyük harflerle &#8220;word&#8221;te yazılmış bir yazı geçti. Bunun küçük harfle yazılması gerekiyordu. Tekrar mı yazmam gerekecekti? Tabiki öyle yapmadım. İki tuş işimi gördü.
 
 **Shift + F3**

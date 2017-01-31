@@ -1,21 +1,23 @@
 ---
-title: 'Çilekeş &#8211; Histeri Çalışmaları &#8220;Yeni Albüm&#8221; 2010'
+title: Çilekeş &#8211; Histeri Çalışmaları &#8220;Yeni Albüm&#8221; 2010
+date: 2010-05-19 00:00:00 +03:00
+permalink: "/cilekes-histeri-calismalari-yeni-album-2010/"
+categories:
+- Müzik
+tags:
+- 2010
+- çilekeş
+- histeri çalışmaları
+- Müzik
+- yeni albüm
 author: emrahyumuk
 layout: post
-permalink: /cilekes-histeri-calismalari-yeni-album-2010/
 yazi_resmi:
-  - http://img339.imageshack.us/img339/7778/hccilekes.jpg
+- http://img339.imageshack.us/img339/7778/hccilekes.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2635";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909941";}'
-categories:
-  - Müzik
-tags:
-  - 2010
-  - çilekeş
-  - histeri çalışmaları
-  - Müzik
-  - yeni albüm
+- a:3:{s:12:"sayac_toplam";s:4:"2635";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909941";}
 ---
+
 Çilekeş&#8217;in üçüncü albümü &#8220;**Histeri Çalışmaları**&#8220;, modern dünyanın zahirî sınırları içinde (ama her daim diken üstünde) yaşıyor olduğumuz gündelik hayatın kargaşasından, darmaduman aklı sayesinde sıyrılmayı başarabilmiş, kendi vücudunda karantina altında kalmış ve her daim zan altında olan sıradan bir adamın, vicdanına, değerlerine ve dehlizleri ardına dek açılmış zihnine sorduğu upuzun bir soru: kendini tekrar etmeden aynı cevapları arayan.
 
 <!--more-->

@@ -1,24 +1,26 @@
 ---
-title: 'Firefox&#8217;a Geçmek İçin Hala Sebep Arıyorsanız&#8230;'
+title: Firefox&#8217;a Geçmek İçin Hala Sebep Arıyorsanız&#8230;
+date: 2008-03-21 00:00:00 +02:00
+permalink: "/firefoxa-gecmek-icin-hala-sebep-ariyorsaniz/"
+categories:
+- İnternet
+tags:
+- explorer
+- firefox
+- İnternet
+- tarayıcı
 author: emrahyumuk
 layout: post
-permalink: /firefoxa-gecmek-icin-hala-sebep-ariyorsaniz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1641";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364892295";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1641";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364892295";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/firefox.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/firefox.jpg
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - İnternet
-tags:
-  - explorer
-  - firefox
-  - İnternet
-  - tarayıcı
+- 0
 ---
+
 Internet Explorer&#8217;ı unutup Firefox&#8217;a geçmek için hala sebep arıyorsanız bir de bu yazıyı okuyun derim.
 
 Uzun bir süre tarayıcı dünyasında Explorer tek başına hüküm sürüyordu. Önceleri Nescape ismi kulağımıza gelse de pek farkı olmadığı için explorerla devam ettik. Bir de windowsta explorerın hazır bir şekilde gelmesi herhangi bir tarayıcının explorerın yerini almasını imkansızlaştırıyordu. Ki uzun bir müddet de hiç bir tarayıcı explorerın tahtını sallayamadı. Artık vakti gelmişti de geçiyordu&#8230;

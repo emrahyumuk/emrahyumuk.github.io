@@ -1,51 +1,53 @@
 ---
-title: '&#8220;Başıbozuk&#8221; Albüm yakında&#8230;'
+title: "&#8220;Başıbozuk&#8221; Albüm yakında&#8230;"
+date: 2008-03-10 00:00:00 +02:00
+permalink: "/basibozuk-album-yakinda/"
+categories:
+- Müzik
+tags:
+- albüm
+- başıbozuk
+- klip
+- mp3
+- Müzik
+- şarkılar
 author: emrahyumuk
 layout: post
-permalink: /basibozuk-album-yakinda/
 enclosure:
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_bizden_gecti.mp3
-    8802304
-    audio/mpeg
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_ben_yaptim.mp3
-    6436864
-    audio/mpeg
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_karanlikta.mp3
-    6750208
-    audio/mpeg
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_kimsecikler.mp3
-    6588416
-    audio/mpeg
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_simdi_git.mp3
-    7290880
-    audio/mpeg
-  - |
-    http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_yak_isiklari.mp3
-    6158336
-    audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_bizden_gecti.mp3
+  8802304
+  audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_ben_yaptim.mp3
+  6436864
+  audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_karanlikta.mp3
+  6750208
+  audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_kimsecikler.mp3
+  6588416
+  audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_simdi_git.mp3
+  7290880
+  audio/mpeg
+- |
+  http://www.herkesdinlesin.com/mp3/sevdigimsarkilar-basibozuk_-_yak_isiklari.mp3
+  6158336
+  audio/mpeg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1811";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364744933";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1811";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364744933";}
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
+- 0
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/basibozuk.jpg
-categories:
-  - Müzik
-tags:
-  - albüm
-  - başıbozuk
-  - klip
-  - mp3
-  - Müzik
-  - şarkılar
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/basibozuk.jpg
 ---
+
 Epeydir severek dinlediğim gruplardan biri &#8220;Başıbozuk&#8221; . Özellikle &#8220;Açılmayan Kavanoz&#8221; şarkısını dinlettiğim herkes çok sevdi. &#8220;Ben Yaptım&#8221;,&#8221;Kimsecikler&#8221;,&#8221;Yak Işıkları&#8221; &#8230; açıkçası her şarkısını severek dinliyorum. Herkese tavsiye ederim.
 
 Kısa bir zaman öncesine kadar albüm hazırlığında olan grubun 2008 eylül-ekim gibi albümü raflarda yerini alacak.

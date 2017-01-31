@@ -1,26 +1,28 @@
 ---
-title: 'Pardus 2011&#8242;de İnternet Sorunu ve Çözümü'
+title: Pardus 2011&#8242;de İnternet Sorunu ve Çözümü
+date: 2011-01-28 00:00:00 +02:00
+permalink: "/pardus-2011-internet-sorunu-ve-cozumu/"
+categories:
+- Linux
+tags:
+- İnternet
+- işletim sistemi
+- linux
+- pardus
+- pardus 2011
+- pardus 2011 internet sorunu
+- pardus 2011 internete bağlanmıyor
+- pardus 2011 otomatik ip sorunu
+- pardus internet bağlantı problemi
+- pardus internete bağlanmıyor
 author: emrahyumuk
 layout: post
-permalink: /pardus-2011-internet-sorunu-ve-cozumu/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:20670;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366293904;}'
-categories:
-  - Linux
-tags:
-  - İnternet
-  - işletim sistemi
-  - linux
-  - pardus
-  - pardus 2011
-  - pardus 2011 internet sorunu
-  - pardus 2011 internete bağlanmıyor
-  - pardus 2011 otomatik ip sorunu
-  - pardus internet bağlantı problemi
-  - pardus internete bağlanmıyor
+- a:3:{s:12:"sayac_toplam";i:20670;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366293904;}
 ---
+
 Bazı bilgisayarlarda Pardus 2011&#8242;de internet sorunu oluyor. Bağlandı görünüyor fakat internete girilemiyor. Pardus&#8217;un eski sürümlerinde böyle bir sorun olmadığı halde ben de hem masaüstü bilgisayarımda hem de netbook&#8217;umda aynı sorunla karşılaştım.
 
 Sorunu şöyle çözdüm:

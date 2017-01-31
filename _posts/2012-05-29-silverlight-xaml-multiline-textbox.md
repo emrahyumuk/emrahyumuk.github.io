@@ -1,24 +1,26 @@
 ---
 title: Silverlight XAML MultiLine TextBox
+date: 2012-05-29 00:00:00 +03:00
+permalink: "/silverlight-xaml-multiline-textbox/"
+categories:
+- Programlama
+tags:
+- AcceptsReturn
+- HorizantalScrollBarVisibility
+- multiline textbox
+- silverlight
+- text wrapping
+- TextWrapping
+- VerticalScrollBarVisibility
+- xaml
 author: emrahyumuk
 layout: post
-permalink: /silverlight-xaml-multiline-textbox/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/silverlight-logo.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/silverlight-logo.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4722";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364918539";}'
-categories:
-  - Programlama
-tags:
-  - AcceptsReturn
-  - HorizantalScrollBarVisibility
-  - multiline textbox
-  - silverlight
-  - text wrapping
-  - TextWrapping
-  - VerticalScrollBarVisibility
-  - xaml
+- a:3:{s:12:"sayac_toplam";s:4:"4722";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364918539";}
 ---
+
 Silverlight&#8217;ta textbox&#8217;ın nasıl multiline hale getiriyoruz, AcceptsReturn ve Text Wrapping özelliği nedir, Textbox&#8217;a scrolling özelliği nasıl eklenir ve C#&#8217;ta bu multiline textbox&#8217;taki her satırı string array olarak nasıl alıyoruz, bu yazımda bunları göreceğiz.
 
 <!--more-->

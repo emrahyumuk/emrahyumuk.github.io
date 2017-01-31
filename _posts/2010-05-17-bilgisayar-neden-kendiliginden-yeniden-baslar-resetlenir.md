@@ -1,24 +1,26 @@
 ---
 title: Bilgisayar Neden Kendiliğinden Yeniden Başlar (Resetlenir) ?
+date: 2010-05-17 00:00:00 +03:00
+permalink: "/bilgisayar-neden-kendiliginden-yeniden-baslar-resetlenir/"
+categories:
+- Bilgisayar
+tags:
+- Bilgisayar
+- donanım
+- ısınma
+- işlemci
+- kapanma
+- reset
+- yazılım
+- yeniden başlama
 author: emrahyumuk
 layout: post
-permalink: /bilgisayar-neden-kendiliginden-yeniden-baslar-resetlenir/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2926";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364858284";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2926";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364858284";}
 yazi_resmi:
-  - http://img100.imageshack.us/img100/8060/powery.jpg
-categories:
-  - Bilgisayar
-tags:
-  - Bilgisayar
-  - donanım
-  - ısınma
-  - işlemci
-  - kapanma
-  - reset
-  - yazılım
-  - yeniden başlama
+- http://img100.imageshack.us/img100/8060/powery.jpg
 ---
+
 Bilgisayarla çalışırken ya da bir programı açarken aniden resetlenir (Kendiliğinden kapanır ve açılır). Bunun olası nedenleri ve çözüm yolları aşağıdadır.
 
 **Maddeler halinde:**

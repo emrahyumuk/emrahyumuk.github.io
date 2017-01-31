@@ -1,20 +1,22 @@
 ---
-title: 'Çok çok uzun bir aradan sonra&#8230;'
+title: Çok çok uzun bir aradan sonra&#8230;
+date: 2010-05-16 00:00:00 +03:00
+permalink: "/cok-uzun-bir-aradan-sonra/"
+categories:
+- Yazılarım
+tags:
+- askerlik
+- askerlik anıları
+- blog
+- hosting
+- seyir defteri
+- website
 author: emrahyumuk
 layout: post
-permalink: /cok-uzun-bir-aradan-sonra/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1609";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364855841";}'
-categories:
-  - Yazılarım
-tags:
-  - askerlik
-  - askerlik anıları
-  - blog
-  - hosting
-  - seyir defteri
-  - website
+- a:3:{s:12:"sayac_toplam";s:4:"1609";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364855841";}
 ---
+
 Çok ama çoook uzun bir aradan sonra tekrar seyir defterime bir şeyler yazıyor olmak ne güzel ! Neler geldi bu seyir defterimin başına sormayın. Hepsini anlatacağım birazdan&#8230;
 
 En son yazımı 19 Temmuz 2009&#8242;da yazmışım. Tarihin buğulu sayfalarına gömülmüş <img src='http://www.emrahyumuk.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> biraz daha yazmasam 1 seneyi bulacak. Ama yettim gari&#8230; Geldim taa nerelerden. Çok yol katettim bu arada&#8230;

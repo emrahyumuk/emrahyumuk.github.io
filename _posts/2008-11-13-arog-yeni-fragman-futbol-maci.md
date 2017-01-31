@@ -1,24 +1,26 @@
 ---
-title: 'AROG Yeni Fragman &#8211; Futbol Maçı'
+title: AROG Yeni Fragman &#8211; Futbol Maçı
+date: 2008-11-13 00:00:00 +02:00
+permalink: "/arog-yeni-fragman-futbol-maci/"
+categories:
+- Sinema
+tags:
+- arog
+- cem yılmaz
+- film
+- fragman
+- futbol
+- komedi
+- Sinema
+- video
 author: emrahyumuk
 layout: post
-permalink: /arog-yeni-fragman-futbol-maci/
 yazi_resmi:
-  - http://img525.imageshack.us/img525/1767/arogfutbolot4.jpg
+- http://img525.imageshack.us/img525/1767/arogfutbolot4.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1838";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364765651";}'
-categories:
-  - Sinema
-tags:
-  - arog
-  - cem yılmaz
-  - film
-  - fragman
-  - futbol
-  - komedi
-  - Sinema
-  - video
+- a:3:{s:12:"sayac_toplam";s:4:"1838";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364765651";}
 ---
+
 5 Aralık&#8217;ta vizyona girecek olan Arog filmi için heyecan her geçen gün artıyor. Bunu gören yapımcılar ise heyecanı bir nebze azaltmak adına filmin içindeki sahnelerden oluşan teaser ve fragmanları çıkartıyor. Neredeyse tüm kanalların haberlerinde adından da söz ettirmeyi bu fragmanlarla başaran Arog çok büyük beklentiler ile bomba gibi geliyor.
 
 Yeni fragmanda eski çağda yapılan bir futbol maçı anlatılıyor.

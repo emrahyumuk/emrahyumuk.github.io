@@ -1,21 +1,23 @@
 ---
-title: 'Dailymotion &#8211; Youtube&#8217; a Alternatif'
+title: Dailymotion &#8211; Youtube&#8217; a Alternatif
+date: 2008-05-06 00:00:00 +03:00
+permalink: "/dailymotion-youtube-a-alternatif/"
+categories:
+- İnternet
+tags:
+- dailymotion
+- hd
+- high definition
+- türkçe
+- video
+- webcam
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /dailymotion-youtube-a-alternatif/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1996";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364854948";}'
-categories:
-  - İnternet
-tags:
-  - dailymotion
-  - hd
-  - high definition
-  - türkçe
-  - video
-  - webcam
-  - youtube
+- a:3:{s:12:"sayac_toplam";s:4:"1996";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364854948";}
 ---
+
 <p style="text-align: center;">
   <img class="alignleft" style="float: left;" title="dailymotion" src="http://www.emrahyumuk.com/blog/wp-content/uploads/dailymotion.jpg" alt="" width="412" height="46" />
 </p>

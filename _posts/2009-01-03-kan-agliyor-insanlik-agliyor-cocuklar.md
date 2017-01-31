@@ -1,19 +1,21 @@
 ---
-title: 'Kan Ağlıyor İnsanlık&#8230; Ağlıyor Çocuklar&#8230;'
+title: Kan Ağlıyor İnsanlık&#8230; Ağlıyor Çocuklar&#8230;
+date: 2009-01-03 00:00:00 +02:00
+permalink: "/kan-agliyor-insanlik-agliyor-cocuklar/"
+categories:
+- Yazılarım
+tags:
+- çocuklar
+- emrah yumuk
+- filistin
+- israil
+- savaş
 author: emrahyumuk
 layout: post
-permalink: /kan-agliyor-insanlik-agliyor-cocuklar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1225";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364840546";}'
-categories:
-  - Yazılarım
-tags:
-  - çocuklar
-  - emrah yumuk
-  - filistin
-  - israil
-  - savaş
+- a:3:{s:12:"sayac_toplam";s:4:"1225";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364840546";}
 ---
+
 <img class="alignleft" style="margin: 7px;" src="http://img132.imageshack.us/img132/2193/33797706ot3.jpg" alt="" width="80" height="162" />
 
 Bilir misin artık onların düşleri yok  

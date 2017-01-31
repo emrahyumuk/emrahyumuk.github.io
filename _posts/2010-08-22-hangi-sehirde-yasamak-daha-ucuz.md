@@ -1,24 +1,26 @@
 ---
 title: 'Hangi Şehirde Yaşamak Daha Ucuz: Expatistan.com'
+date: 2010-08-22 00:00:00 +03:00
+permalink: "/hangi-sehirde-yasamak-daha-ucuz/"
+categories:
+- İnternet
+tags:
+- Eğlence
+- ev
+- fiyat
+- fiyat karşılaştırma
+- giyim
+- konaklama
+- sağlık
+- şehir
+- ulaşım
+- yemek
 author: emrahyumuk
 layout: post
-permalink: /hangi-sehirde-yasamak-daha-ucuz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"733";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364836519";}'
-categories:
-  - İnternet
-tags:
-  - Eğlence
-  - ev
-  - fiyat
-  - fiyat karşılaştırma
-  - giyim
-  - konaklama
-  - sağlık
-  - şehir
-  - ulaşım
-  - yemek
+- a:3:{s:12:"sayac_toplam";s:3:"733";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364836519";}
 ---
+
 <p style="text-align: center;">
   <img class="aligncenter" title="şehirler fiyat karşılaştırması" src="http://a.imageshack.us/img837/6784/expatistan.jpg" alt="" width="288" height="78" />
 </p>

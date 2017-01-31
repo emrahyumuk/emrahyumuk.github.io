@@ -1,21 +1,23 @@
 ---
-title: 'Leman&#8217;dan 3 Karikatür Daha&#8230;'
+title: Leman&#8217;dan 3 Karikatür Daha&#8230;
+date: 2008-03-26 00:00:00 +02:00
+permalink: "/lemandan-3-karikatur-daha/"
+categories:
+- Komik
+tags:
+- akp
+- dergi
+- erdoğan
+- karikatür
+- Komik
+- leman
+- mizah
 author: emrahyumuk
 layout: post
-permalink: /lemandan-3-karikatur-daha/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"12801";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364917861";}'
-categories:
-  - Komik
-tags:
-  - akp
-  - dergi
-  - erdoğan
-  - karikatür
-  - Komik
-  - leman
-  - mizah
+- a:3:{s:12:"sayac_toplam";s:5:"12801";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364917861";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/leman.gif" border="1" alt="leman.gif" hspace="5" vspace="5" align="left" />Ön ve arka kapakta Akp Hükümetine ve Erdoğan&#8217;a gönderme yapan Leman&#8217;ın okuyucularına bir de sürprizi vardı&#8230; Bir poster.
 
 İlk sayfasına Ergenekon soruşturması sırasında saat 04.30&#8242;da gözaltına alınan İlhan Selçuk&#8217;u taşıyan Leman, sabaha karşı yaşanan bu gözaltıyı **YEŞİL FAŞİZMİN TAKUNYA SESLERİ** başlığıyla protesto etti.

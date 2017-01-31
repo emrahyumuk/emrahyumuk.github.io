@@ -1,19 +1,21 @@
 ---
-title: 'Cebit Bilişim Fuarı Başlıyor&#8230;'
+title: Cebit Bilişim Fuarı Başlıyor&#8230;
+date: 2008-09-08 00:00:00 +03:00
+permalink: "/cebit-bilisim-fuari-basliyor/"
+categories:
+- Teknoloji
+tags:
+- bilişim
+- cebit
+- fuar
 author: emrahyumuk
 layout: post
-permalink: /cebit-bilisim-fuari-basliyor/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2116";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364894094";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2116";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364894094";}
 yazi_resmi:
-  - http://img213.imageshack.us/img213/1995/cebit2vw7.jpg
-categories:
-  - Teknoloji
-tags:
-  - bilişim
-  - cebit
-  - fuar
+- http://img213.imageshack.us/img213/1995/cebit2vw7.jpg
 ---
+
 Cebit Bilişim Fuarı 7 Ekim Salı günü başlıyor&#8230;
 
 **Fuar Tarihi** : 7 Ekim 2008 Salı &#8211; 12 Ekim 2008 Pazar **  

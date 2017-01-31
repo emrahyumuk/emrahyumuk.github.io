@@ -1,20 +1,22 @@
 ---
 title: Gizli Numara ile Aranma Nasıl Engellenir? (Turkcell, Avea, Vodafone)
+date: 2008-08-23 00:00:00 +03:00
+permalink: "/gizli-numara-ile-aranma-engelleme-turkcell-avea-vodafone/"
+categories:
+- Diğer
+tags:
+- avea
+- cep telefonu
+- gizli numara
+- telefon
+- turkcell
+- vodafone
 author: emrahyumuk
 layout: post
-permalink: /gizli-numara-ile-aranma-engelleme-turkcell-avea-vodafone/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"8654";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366287308";}'
-categories:
-  - Diğer
-tags:
-  - avea
-  - cep telefonu
-  - gizli numara
-  - telefon
-  - turkcell
-  - vodafone
+- a:3:{s:12:"sayac_toplam";s:4:"8654";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366287308";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;"  title="gizli numara arama engelleme" src="http://img373.imageshack.us/img373/4898/gizlinumaravh7.jpg" alt="" width="175" height="133" />Artık cep telefonlarından yapılabilen yönlendirmeyle <span class="st_tag internal_tag">gizli numara</span> çağrıları engellenebiliyor.
 
 <p style="text-align: justify;">

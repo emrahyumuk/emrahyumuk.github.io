@@ -1,26 +1,28 @@
 ---
-title: 'Ve askerlik de bitti&#8230; Sıradaki gelsin&#8230;'
+title: Ve askerlik de bitti&#8230; Sıradaki gelsin&#8230;
+date: 2010-08-05 00:00:00 +03:00
+permalink: "/ve-askerlik-de-bitti-siradaki-gelsin/"
+categories:
+- Yazılarım
+tags:
+- askerlik
+- cv
+- deneme
+- elektrik
+- Elektronik
+- haberleşme
+- kontrol
+- mühendislik
+- ön yazı
+- otomasyon
+- sohbet
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /ve-askerlik-de-bitti-siradaki-gelsin/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1127";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909259";}'
-categories:
-  - Yazılarım
-tags:
-  - askerlik
-  - cv
-  - deneme
-  - elektrik
-  - Elektronik
-  - haberleşme
-  - kontrol
-  - mühendislik
-  - ön yazı
-  - otomasyon
-  - sohbet
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1127";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909259";}
 ---
+
 12 ay asteğmen olarak yaptığım askerliğimi 27 Temmuz itibariyle bitirmiş bulunuyorum. Askerde başımdan geçenleri özet olarak &#8220;Çok uzun bir aradan sonra&#8230;&#8221; adlı yazımda anlatmıştım. Şu an askerliği unutma devresinde bulunduğum için askerlik namına bir şeyler anlatmayacağım.
 
 Seyir defterimle ilgili birkaç kişiden &#8220;ne oldu yazmıyorsun?&#8221; ve &#8220;yazılarını beğenerek takip ediyorum&#8221; gibi yazmamı tetikleyici cümleler duyunca kaldığım yerden devam edip artık daha fazla yazasım geldi. Meğer yazılarımı okuyanlar varmış. Bunu duymak sevindirici&#8230; Ben de yazmaya devam ediyorum işte&#8230;

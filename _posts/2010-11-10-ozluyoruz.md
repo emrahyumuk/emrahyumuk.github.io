@@ -1,20 +1,22 @@
 ---
-title: 'Özlüyoruz&#8230;'
+title: Özlüyoruz&#8230;
+date: 2010-11-10 00:00:00 +02:00
+permalink: "/ozluyoruz/"
+categories:
+- Yazılarım
+tags:
+- 10 kasım
+- atatürk
+- mustafa kemal
+- mustafa kemal atatürk
+- özlüyoruz
+- şiir
 author: emrahyumuk
 layout: post
-permalink: /ozluyoruz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1869";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836205";}'
-categories:
-  - Yazılarım
-tags:
-  - 10 kasım
-  - atatürk
-  - mustafa kemal
-  - mustafa kemal atatürk
-  - özlüyoruz
-  - şiir
+- a:3:{s:12:"sayac_toplam";s:4:"1869";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364836205";}
 ---
+
 <p style="padding-left: 150px;">
   <strong>ÖZLÜYORUZ&#8230;</strong>
 </p>

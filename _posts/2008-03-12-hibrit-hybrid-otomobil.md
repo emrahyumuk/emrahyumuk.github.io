@@ -1,27 +1,29 @@
 ---
 title: Hibrit (Hybrid) Otomobil
+date: 2008-03-12 00:00:00 +02:00
+permalink: "/hibrit-hybrid-otomobil/"
+categories:
+- Teknoloji
+tags:
+- araba
+- benzin
+- elektrik
+- hibrit
+- hybrid
+- otomobil
+- Teknoloji
 author: emrahyumuk
 layout: post
-permalink: /hibrit-hybrid-otomobil/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"5931";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364870893";}'
+- a:3:{s:12:"sayac_toplam";s:4:"5931";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364870893";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/toyota_hybrid.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/toyota_hybrid.jpg
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - Teknoloji
-tags:
-  - araba
-  - benzin
-  - elektrik
-  - hibrit
-  - hybrid
-  - otomobil
-  - Teknoloji
+- 0
 ---
+
 Hibrit (Hybrid) otomobil elektrik ve benzin motorunun bir arada olduğu sisteme denir. Hibrit otolar elektrik motoru sayesinde çevre dostu olduğu için günümüz şartlarında çok büyük önem arz etmektedir.
 
 Küresel ısınmaya somut çözümlerden biri olan Hibrit otolar gün geçtikçe piyasadaki pazar payını da attırıyor. Hatta Honda ve Toyota gibi dev firmalar hibrid otomobillerde seri üretime başladılar bile.

@@ -1,23 +1,25 @@
 ---
 title: WEB 10 – website önerileri (2)
+date: 2010-11-01 00:00:00 +02:00
+permalink: "/web-10-website-onerileri-2/"
+categories:
+- İnternet
+tags:
+- blog
+- internet siteleri
+- web
+- web10
+- website
+- website önerileri
+- website tanıtım
 author: emrahyumuk
 layout: post
-permalink: /web-10-website-onerileri-2/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"971";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919887";}'
-categories:
-  - İnternet
-tags:
-  - blog
-  - internet siteleri
-  - web
-  - web10
-  - website
-  - website önerileri
-  - website tanıtım
+- a:3:{s:12:"sayac_toplam";s:3:"971";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364919887";}
 ---
+
 Website Önerilerine devam.. ilk 10 website önerimi [burada][1] yapmıştım, şimdi sıra geldi ikincisine&#8230;
 
 1. <a href="http://file2hd.com/" target="_blank"><strong>File2HD.com</strong></a> &#8211; Herhangi bir websitesinde bulunan ses,video, resim, uygulama, stil dosyaları vs. linklerine ulaşıp indirebilirsiniz. Tek yapmanız gereken websitenin adresini yazıp ne istediğinizi işaretlemek.

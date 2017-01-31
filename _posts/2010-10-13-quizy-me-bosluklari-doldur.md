@@ -1,20 +1,22 @@
 ---
-title: 'quizy.me &#8211; boşlukları doldur'
+title: quizy.me &#8211; boşlukları doldur
+date: 2010-10-13 00:00:00 +03:00
+permalink: "/quizy-me-bosluklari-doldur/"
+categories:
+- İnternet
+tags:
+- formspring
+- quizy.me
+- site tanıtım
+- twitter
 author: emrahyumuk
 layout: post
-permalink: /quizy-me-bosluklari-doldur/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:730;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290706;}'
+- a:3:{s:12:"sayac_toplam";i:730;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290706;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/quizyme.png
-categories:
-  - İnternet
-tags:
-  - formspring
-  - quizy.me
-  - site tanıtım
-  - twitter
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/quizyme.png
 ---
+
 twitter&#8217;a türk rakip diye haber başlıklarına konu olan **<span><a href="http://quizy.me">quizy.me</a></span>** neymiş bir bakalım.
 
 <span>şu an beta yayınında olan <a href="http://quizy.me">quizy.me</a> türk yapımı bir site. üye olduktan sonra rastgele cümleler arasında boşlukları dolduruyorsunuz. isterseniz kendi sorunuzu hazırlayabilirsiniz. formspring&#8217;i andıran fakat farklı olup boşluk doldurmaya dayanan <a href="http://quizy.me">quizy.me</a> ile oluşturduğunuz cümleleri twitter ve facebook hesabınızda da yayınlayabilirsiniz.</span>

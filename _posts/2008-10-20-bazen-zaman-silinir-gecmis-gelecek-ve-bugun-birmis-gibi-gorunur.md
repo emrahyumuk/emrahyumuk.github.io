@@ -1,16 +1,18 @@
 ---
 title: Bazen zaman silinir; geçmiş, gelecek ve bugün birmiş gibi görünür.
+date: 2008-10-20 00:00:00 +03:00
+permalink: "/bazen-zaman-silinir-gecmis-gelecek-ve-bugun-birmis-gibi-gorunur/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /bazen-zaman-silinir-gecmis-gelecek-ve-bugun-birmis-gibi-gorunur/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1534";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364902078";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1534";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364902078";}
 ---
+
 <p class="MsoNormal">
   “Sana dair..” diye başlayan bir öykünün hüzünlü bir parçasıydı şimdi hayatı. Oysa epey zaman önce başlamış bir masalın içinde bulmuştu o yeniden başlayan öyküyü. İnanmıştı gerçeklerin hayale bir adım daha yaklaştığına. Hüzünlü bir öykünün içindeki mutlu bir andı o an… hiç bitmesin istemişti, zaman o an dursun, dursun ki gözlerini biraz daha fazla göreyim…
 </p>

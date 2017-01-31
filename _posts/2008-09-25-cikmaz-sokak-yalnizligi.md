@@ -1,18 +1,20 @@
 ---
 title: Çıkmaz Sokak Yalnızlığı
+date: 2008-09-25 00:00:00 +03:00
+permalink: "/cikmaz-sokak-yalnizligi/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- hikaye
+- masal
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /cikmaz-sokak-yalnizligi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1189";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364893964";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - hikaye
-  - masal
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1189";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364893964";}
 ---
+
 <p class="MsoNormal">
   Eli kolu bağlı. Aklı başka der yüreği başka. Daha gideceği çok uzun bir yol var. Aklı ile yüreğinin savaşında tek mağlup var o da kendisi. Bunu biliyor ama elinden bir şey gelmez. Bazen geriye dönmek istiyor, bazen çok ileriye gitmek… bazense silmek istiyor aklında ve kalbinde ne varsa.
 </p>

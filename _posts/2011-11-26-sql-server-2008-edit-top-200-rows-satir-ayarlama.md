@@ -1,26 +1,28 @@
 ---
-title: 'SQL Server 2008 &#8220;Edit Top 200 Rows&#8221; Satır Sayısını Ayarlama'
+title: SQL Server 2008 &#8220;Edit Top 200 Rows&#8221; Satır Sayısını Ayarlama
+date: 2011-11-26 00:00:00 +02:00
+permalink: "/sql-server-2008-edit-top-200-rows-satir-ayarlama/"
+categories:
+- Programlama
+tags:
+- edit top 200 rows
+- microsoft sql server
+- ms sql
+- sql
+- sql server
+- sql server 2008
 author: emrahyumuk
 layout: post
-permalink: /sql-server-2008-edit-top-200-rows-satir-ayarlama/
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
+- 0
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2253";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364790055";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2253";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364790055";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
-categories:
-  - Programlama
-tags:
-  - edit top 200 rows
-  - microsoft sql server
-  - ms sql
-  - sql
-  - sql server
-  - sql server 2008
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/SQL_Server_k.jpg
 ---
+
 Sql Server&#8217;da tablodaki verileri görmek ve editlemek istediğimizde **&#8220;Edit Top 200 Rows**&#8220;u açarız, bazen tablodaki veriler 200&#8242;den daha fazla olabilir. Bu durumda 200 sınırını arttırmak için ne yapmalıyız?
 
 Sadece o anki tabloda 200 satır değil de daha fazla görebilme veya sürekli her tabloyu istediğimiz satır sayısında açabilme olmak üzere 2 seçeneğimiz mevcut.

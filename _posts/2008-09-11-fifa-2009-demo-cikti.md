@@ -1,26 +1,28 @@
 ---
 title: Fifa 2009 Demo Çıktı !!
+date: 2008-09-11 00:00:00 +03:00
+permalink: "/fifa-2009-demo-cikti/"
+categories:
+- Oyun
+tags:
+- demo
+- download
+- ea sports
+- fifa
+- fifa 2009
+- fifa09
+- futbol
+- indir
+- maç
+- Oyun
 author: emrahyumuk
 layout: post
-permalink: /fifa-2009-demo-cikti/
 yazi_resmi:
-  - http://img143.imageshack.us/img143/3989/fifa09kapaksr9.jpg
+- http://img143.imageshack.us/img143/3989/fifa09kapaksr9.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"24045";s:11:"sayac_bugun";s:2:"13";s:9:"son_okuma";s:10:"1364922609";}'
-categories:
-  - Oyun
-tags:
-  - demo
-  - download
-  - ea sports
-  - fifa
-  - fifa 2009
-  - fifa09
-  - futbol
-  - indir
-  - maç
-  - Oyun
+- a:3:{s:12:"sayac_toplam";s:5:"24045";s:11:"sayac_bugun";s:2:"13";s:9:"son_okuma";s:10:"1364922609";}
 ---
+
 Merakla beklenen Fifa 2009&#8242; un demosu çıktı.
 
 Demoyu [buradan][1] indirebilirsiniz.

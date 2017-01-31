@@ -1,28 +1,30 @@
 ---
 title: Elektrik-Elektronik Dökümanlar ve Kaynaklar
+date: 2009-04-27 00:00:00 +03:00
+permalink: "/elektrik-elektronik-dokumanlar-ve-kaynaklar/"
+categories:
+- Elektronik
+tags:
+- dökümanlar
+- elektrik
+- Elektronik
+- emrahyumuk
+- forum
+- kaynak
+- kontrolkalemi
+- meb
+- megep
+- modüller
+- otomasyon
+- website
 author: emrahyumuk
 layout: post
-permalink: /elektrik-elektronik-dokumanlar-ve-kaynaklar/
 yazi_resmi:
-  - http://img159.imageshack.us/img159/3391/modul.jpg
+- http://img159.imageshack.us/img159/3391/modul.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2013";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364796475";}'
-categories:
-  - Elektronik
-tags:
-  - dökümanlar
-  - elektrik
-  - Elektronik
-  - emrahyumuk
-  - forum
-  - kaynak
-  - kontrolkalemi
-  - meb
-  - megep
-  - modüller
-  - otomasyon
-  - website
+- a:3:{s:12:"sayac_toplam";s:4:"2013";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364796475";}
 ---
+
 <span style="color: #ffffff;">.</span>
 
 Elektrik ve Elektronik alanında MEB&#8217;in mesleki eğitim için hazırlamış olduğu dökümanlar ilgilenenlere ve bilgi edinmek isteyenlere faydalı olacaktır.

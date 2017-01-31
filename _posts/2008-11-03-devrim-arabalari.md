@@ -1,13 +1,15 @@
 ---
 title: Devrim Arabaları
+date: 2008-11-03 00:00:00 +02:00
+permalink: "/devrim-arabalari/"
+categories:
+- Sinema
 author: emrahyumuk
 layout: post
-permalink: /devrim-arabalari/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2046";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364844790";}'
-categories:
-  - Sinema
+- a:3:{s:12:"sayac_toplam";s:4:"2046";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364844790";}
 ---
+
 <img class="alignnone" src="http://img232.imageshack.us/img232/2103/devrimarabalari2vr8.jpg" alt="" width="406" height="65" />
 
 Türkiye&#8217;nin ilk otomobili Devrim&#8217;in hikayesi&#8230;

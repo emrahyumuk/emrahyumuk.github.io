@@ -1,22 +1,24 @@
 ---
 title: WEB 10 – website önerileri (5)
+date: 2011-01-16 00:00:00 +02:00
+permalink: "/web-10-website-onerileri-5/"
+categories:
+- İnternet
+tags:
+- faydalı websiteleri
+- ilginç websiteleri
+- web 10
+- web10
+- website önerileri
+- websiteler
 author: emrahyumuk
 layout: post
-permalink: /web-10-website-onerileri-5/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3829";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364917721";}'
-categories:
-  - İnternet
-tags:
-  - faydalı websiteleri
-  - ilginç websiteleri
-  - web 10
-  - web10
-  - website önerileri
-  - websiteler
+- a:3:{s:12:"sayac_toplam";s:4:"3829";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364917721";}
 ---
+
 Web10&#8242;a 2011 de devam ediyorum. Web10&#8242;da beşincisine geldik. Yine işinizi kolaylaştıracak, fayda sağlayacak ve ilginizi çekecek websitelerini tanıtmaya devam ediyorum.
 
 1. **<a href="http://www.vladstudio.com/tr/" target="_blank">Vladstudio.com</a>** &#8211; Bu websitesinden bilgisayarınız için kaliteli duvarkağıtları indirebilir, e-kart gönderebilir veya photoshop derslerinden faydanabilirsiniz. Özellikle duvarkağıtları çok hoşunuza gidecek.

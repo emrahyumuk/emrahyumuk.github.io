@@ -1,20 +1,22 @@
 ---
-title: 'Visual Studio 2010&#8242;u Bilgisayardan Kaldırmak (Uninstall)'
+title: Visual Studio 2010&#8242;u Bilgisayardan Kaldırmak (Uninstall)
+date: 2010-12-27 00:00:00 +02:00
+permalink: "/visual-studio-2010-bilgisayardan-kaldirmak-uninstall/"
+categories:
+- Programlama
+tags:
+- program kaldır
+- uninstall
+- Visual Studio
+- Visual Studio 2010
 author: emrahyumuk
 layout: post
-permalink: /visual-studio-2010-bilgisayardan-kaldirmak-uninstall/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/visualstudio2010.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/visualstudio2010.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4056";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288702";}'
-categories:
-  - Programlama
-tags:
-  - program kaldır
-  - uninstall
-  - Visual Studio
-  - Visual Studio 2010
+- a:3:{s:12:"sayac_toplam";s:4:"4056";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288702";}
 ---
+
 Visual Studio 2010 kurduktan sonra kaldırmak istediğimizde program ekle/kaldır kısmında birçok kaldırılacak programla karşılaşıyoruz. İstersek bunları tek tek kaldırabiliriz fakat Microsoft&#8217;un **Microsoft Visual Studio 2010 Uninstall Utility** isminde ufak bir programı var. Programı **[buradan][1]** indirip kaldırma işlemini yapabilirsiniz.  
 <!--more-->
 

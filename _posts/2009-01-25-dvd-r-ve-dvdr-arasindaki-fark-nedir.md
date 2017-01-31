@@ -1,20 +1,22 @@
 ---
 title: DVD-R ve DVD+R arasındaki fark nedir?
+date: 2009-01-25 00:00:00 +02:00
+permalink: "/dvd-r-ve-dvdr-arasindaki-fark-nedir/"
+categories:
+- Bilgisayar
+tags:
+- cd
+- dvd
+- dvd+r
+- dvd-r
 author: emrahyumuk
 layout: post
-permalink: /dvd-r-ve-dvdr-arasindaki-fark-nedir/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3938";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921831";}'
+- a:3:{s:12:"sayac_toplam";s:4:"3938";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921831";}
 yazi_resmi:
-  - http://img504.imageshack.us/img504/4913/dvdos7.jpg
-categories:
-  - Bilgisayar
-tags:
-  - cd
-  - dvd
-  - dvd+r
-  - dvd-r
+- http://img504.imageshack.us/img504/4913/dvdos7.jpg
 ---
+
 <span style="color: #ffffff;">.</span>
 
 Boş DVD aldığımızda her seferinde aklımıza en çok takılan soru &#8220;DVD-R ve DVD+R arasındaki fark nedir?&#8221; . Her defasında sorup da bir türlü tatmin edici cevap alamadık bu soruya. işte cevabı burada&#8230; Neymiş bu DVD-R ve DVD+R arasındaki fark?

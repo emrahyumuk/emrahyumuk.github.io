@@ -1,20 +1,22 @@
 ---
 title: Seyir Defterim 1 Yaşında !!!
+date: 2009-01-12 00:00:00 +02:00
+permalink: "/seyir-defterim-1-yasinda/"
+categories:
+- Yazılarım
+tags:
+- blog
+- doğum günü
+- emrah yumuk
+- seyir defterim
 author: emrahyumuk
 layout: post
-permalink: /seyir-defterim-1-yasinda/
 yazi_resmi:
-  - http://i722.photobucket.com/albums/ww223/emrahyumuk/Pasta.gif
+- http://i722.photobucket.com/albums/ww223/emrahyumuk/Pasta.gif
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1212";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364914764";}'
-categories:
-  - Yazılarım
-tags:
-  - blog
-  - doğum günü
-  - emrah yumuk
-  - seyir defterim
+- a:3:{s:12:"sayac_toplam";s:4:"1212";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364914764";}
 ---
+
 Geçen sene Ocak ayında başlayan blog maceramda 1 yılı doldurdum. **Seyir Defterim** artık 1 yaşında&#8230;
 
 <a href="http://www.emrahyumuk.com/blog/ilk-yazi-blog-nedir-niye-benim-de-blogum-var/" target="_blank">ilk yazı</a>mı ancak 31 Ocak&#8217;ta yazabilmiştim. O yazımda blog ne demek ve neden benim blogum var sorularına cevap aramıştım. Blog yerine Seyir Defterim diyeceğimden bahsetmiştim. Ve başladım yazmaya. Gel zaman git zaman derken 1 yılda 104 konu açmıştım.

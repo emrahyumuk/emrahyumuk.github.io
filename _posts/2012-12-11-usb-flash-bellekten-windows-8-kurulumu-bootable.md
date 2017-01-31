@@ -1,26 +1,28 @@
 ---
 title: USB Flash bellekten Windows 8 Kurulumu (Bootable USB Windows 8)
+date: 2012-12-11 00:00:00 +02:00
+permalink: "/usb-flash-bellekten-windows-8-kurulumu-bootable/"
+categories:
+- Bilgisayar
+tags:
+- bootable usb
+- flash bellek
+- resimli anlatım
+- usb
+- usb bellek
+- win usb maker
+- windows 8
+- windows 8 bootable usb
+- windows 8 usb kurulum
+- windows 8 usb kurulum resimli anlatım
 author: emrahyumuk
 layout: post
-permalink: /usb-flash-bellekten-windows-8-kurulumu-bootable/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:74951;s:11:"sayac_bugun";i:14;s:9:"son_okuma";i:1366294287;}'
+- a:3:{s:12:"sayac_toplam";i:74951;s:11:"sayac_bugun";i:14;s:9:"son_okuma";i:1366294287;}
 yazi_resmi:
-  - https://dl.dropbox.com/u/21850338/EmrahYumuk.com/usb-windows-8.jpg
-categories:
-  - Bilgisayar
-tags:
-  - bootable usb
-  - flash bellek
-  - resimli anlatım
-  - usb
-  - usb bellek
-  - win usb maker
-  - windows 8
-  - windows 8 bootable usb
-  - windows 8 usb kurulum
-  - windows 8 usb kurulum resimli anlatım
+- https://dl.dropbox.com/u/21850338/EmrahYumuk.com/usb-windows-8.jpg
 ---
+
 USB flash bellekten Windows 8 nasıl kuruyoruz? İndirmiş olduğumuz Windows 8  iso dosyasını **Win USB Maker** programı ile flash bellekten kurulabilir duruma getireceğiz.
 
 <!--more-->

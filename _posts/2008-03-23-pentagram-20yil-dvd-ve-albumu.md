@@ -1,23 +1,25 @@
 ---
-title: 'Pentagram 20.Yıl DVD&#8217;si ve Tanıtım Konseri'
+title: Pentagram 20.Yıl DVD&#8217;si ve Tanıtım Konseri
+date: 2008-03-23 00:00:00 +02:00
+permalink: "/pentagram-20yil-dvd-ve-albumu/"
+categories:
+- Müzik
+tags:
+- albüm
+- bostancı
+- dvd
+- gala
+- konser
+- mezarkabul
+- Müzik
+- pentagram
+- tanıtım
 author: emrahyumuk
 layout: post
-permalink: /pentagram-20yil-dvd-ve-albumu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2356";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364756576";}'
-categories:
-  - Müzik
-tags:
-  - albüm
-  - bostancı
-  - dvd
-  - gala
-  - konser
-  - mezarkabul
-  - Müzik
-  - pentagram
-  - tanıtım
+- a:3:{s:12:"sayac_toplam";s:4:"2356";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364756576";}
 ---
+
 <img src="http://img227.imageshack.us/img227/7528/pentagramqf5.gif" alt="pentagram" align="left" border="1" height="204" hspace="5" vspace="5" width="152" /><span style="color: black"><span style="font-size: 8pt; line-height: 1.3em"></span></span>  
 1986 yılında kurulan Pentagram, 4 Şubat 2007&#8242;de Bostancı&#8217;da yaptıkları 20.Yıl Konserinin DVDsini ve albümünü çıkarıyor. Bu DVDnin tanıtım konseri 30 Mart 2008 Pazar günü yine Bostancı&#8217;da yapılacak.
 

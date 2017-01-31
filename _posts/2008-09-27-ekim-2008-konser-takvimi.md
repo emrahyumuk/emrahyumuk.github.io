@@ -1,41 +1,43 @@
 ---
 title: Ekim 2008 Konser Takvimi
+date: 2008-09-27 00:00:00 +03:00
+permalink: "/ekim-2008-konser-takvimi/"
+categories:
+- Müzik
+tags:
+- aslı
+- başıbozuk
+- Bulutsuzluk Özlemi
+- cem adrian
+- cem özkan
+- ekim
+- ekim 2008
+- etkinlik
+- Ezginin Günlüğü
+- gece
+- gevende
+- gripin
+- ihtiyaç molası
+- konser
+- konser takvimi
+- kurban
+- mfö
+- mor ve ötesi
+- murat çelik
+- murat yılmazyıldırım
+- Müzik
+- nev
+- piiz
+- sakin
+- yeni türkü
 author: emrahyumuk
 layout: post
-permalink: /ekim-2008-konser-takvimi/
 yazi_resmi:
-  - http://img223.imageshack.us/img223/9431/ekim08et3.jpg
+- http://img223.imageshack.us/img223/9431/ekim08et3.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4737";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364867760";}'
-categories:
-  - Müzik
-tags:
-  - aslı
-  - başıbozuk
-  - Bulutsuzluk Özlemi
-  - cem adrian
-  - cem özkan
-  - ekim
-  - ekim 2008
-  - etkinlik
-  - Ezginin Günlüğü
-  - gece
-  - gevende
-  - gripin
-  - ihtiyaç molası
-  - konser
-  - konser takvimi
-  - kurban
-  - mfö
-  - mor ve ötesi
-  - murat çelik
-  - murat yılmazyıldırım
-  - Müzik
-  - nev
-  - piiz
-  - sakin
-  - yeni türkü
+- a:3:{s:12:"sayac_toplam";s:4:"4737";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364867760";}
 ---
+
 Bir aylık aranın ardından Ekim 2008 konser takvimini hazırladım. Ekim ayında kim nerede ne zaman konser veriyor? hepsi burada&#8230;
 
 **Aslı**  

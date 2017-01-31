@@ -1,23 +1,25 @@
 ---
 title: Kızımı Da Götür, Avar!
+date: 2010-12-10 00:00:00 +02:00
+permalink: "/kizimi-da-gotur-avar/"
+categories:
+- Tarih
+tags:
+- atatürk
+- eğitim
+- hikaye
+- mustafa kemal
+- öğretmen
+- sıdıka avar
+- tarih
 author: emrahyumuk
 layout: post
-permalink: /kizimi-da-gotur-avar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2053";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364893524";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2053";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364893524";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/avar.jpg
-categories:
-  - Tarih
-tags:
-  - atatürk
-  - eğitim
-  - hikaye
-  - mustafa kemal
-  - öğretmen
-  - sıdıka avar
-  - tarih
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/avar.jpg
 ---
+
 Yıllar önce İzmir Kadınlar Hapishanesi&#8217; ndeki mahkûm kadınlara akşam dersleri verilmesi kararlaştırılmıştı. Bir gün milli eğitim müdürünün odasına zayıf, ufak-tefek bir genç kız girdi.
 
 &#8220;Ben bu dersleri memnuniyetle kabul ederim, efendim,&#8221; dedi.

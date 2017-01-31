@@ -1,19 +1,21 @@
 ---
-title: 'Gülümsemenden tanırdım ben seni&#8230;'
+title: Gülümsemenden tanırdım ben seni&#8230;
+date: 2010-11-06 00:00:00 +02:00
+permalink: "/gulumsemenden-tanirdim-ben-seni/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- gülümseme
+- sen
+- tebessüm
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /gulumsemenden-tanirdim-ben-seni/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1206";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364837907";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - gülümseme
-  - sen
-  - tebessüm
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1206";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364837907";}
 ---
+
 Düşünüyorum da herhangi bir günün herhangi bir saatinde hiç beklemediğin bir anda ansızın aklına geldim mi hiç? Merak ediyorum ne hissettin o an? Yasak bir düşünceye çarpmış gibi korktun mu, ya da hayatın akışını değiştirip farklı bir düşe daldın mı o an? Belki dedin mi? Belki her şey farklı olabilirdi&#8230;
 
 O kadar inandırdın ki kendini bensizliğe, ben senin kadar alışamadım sensizliğe. “Daha önce neden söylemedin” diye dudaklarından dökülen öfke, nefretim oldu zamansızlığa. Ve o an anladım ki artık çok geçti. Ve gözlerimin önünden geçerken mazi, farkına vardım esaretimin. Geçmişte tutsak kalmış bir kahraman -kahraman diyorum çünkü kimsenin yapamadığını yapmıştı- gardiyanıysa sen, demir parmaklıklar güzelliğin. Kaçmak değil derdim, bir ömür bu demir parmaklıklar ardında kalabilmek, senin olmadığın bir geçmişte sen varmışçasına. Ama her gün damla damla zehirleyen, yavaş yavaş öldüren o son sözün o hoşçakal deyişin&#8230; Sen bir kere demiştin ama binlerce kez yankılanmıştı semada&#8230; Kim söyledi yaşadığımı, ölümüm kanıtlanmadı diye&#8230;

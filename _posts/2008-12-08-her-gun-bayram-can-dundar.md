@@ -1,18 +1,20 @@
 ---
 title: Her gün Bayram (Can Dündar)
+date: 2008-12-08 00:00:00 +02:00
+permalink: "/her-gun-bayram-can-dundar/"
+categories:
+- Edebiyat
+tags:
+- bayram
+- can dündar
+- deneme
+- köşe yazısı
 author: emrahyumuk
 layout: post
-permalink: /her-gun-bayram-can-dundar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2055";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364888204";}'
-categories:
-  - Edebiyat
-tags:
-  - bayram
-  - can dündar
-  - deneme
-  - köşe yazısı
+- a:3:{s:12:"sayac_toplam";s:4:"2055";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364888204";}
 ---
+
 <p align="left">
   Zamanla anlıyor insan: 3-4 güne sıkışmış bir tatilden öte bir şey bayram&#8230;<br /> Hayata rasgele serpiştirilmiş ilahi ikramlar, kıymet bilen kullara her daim bayram yaşatır.
 </p>

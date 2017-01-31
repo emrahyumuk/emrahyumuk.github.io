@@ -1,28 +1,30 @@
 ---
 title: NuGet Nedir ve Nasıl Kurulur?
+date: 2012-01-15 00:00:00 +02:00
+permalink: "/nuget-nedir-ve-nasil-kurulur/"
+categories:
+- Programlama
+tags:
+- dll
+- extension manager
+- kütüphane
+- nuget
+- nuget kullanım
+- nuget kurulum
+- nuget package manager
+- nuget paket ekleme
+- nuget paket yöneticisi
+- paket
+- Visual Studio
+- Visual Studio 2010
 author: emrahyumuk
 layout: post
-permalink: /nuget-nedir-ve-nasil-kurulur/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/nuget-hata/nuget.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/nuget-hata/nuget.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"9550";s:11:"sayac_bugun";s:1:"9";s:9:"son_okuma";s:10:"1364922307";}'
-categories:
-  - Programlama
-tags:
-  - dll
-  - extension manager
-  - kütüphane
-  - nuget
-  - nuget kullanım
-  - nuget kurulum
-  - nuget package manager
-  - nuget paket ekleme
-  - nuget paket yöneticisi
-  - paket
-  - Visual Studio
-  - Visual Studio 2010
+- a:3:{s:12:"sayac_toplam";s:4:"9550";s:11:"sayac_bugun";s:1:"9";s:9:"son_okuma";s:10:"1364922307";}
 ---
+
 **Nuget**, **Visual Studio** projemiz için eklemek istediğimiz 3. parti paket ve dll&#8217;leri (AjaxControlToolkit, Jquery, Facebook, log4net vb.) bizim yerimize otomatik olarak ekleyen ücretsiz paket yöneticisidir.
 
 İlk önce **nuget paket yöneticisi** visual studio&#8217;ya nasıl kurulur ona bakacağız.

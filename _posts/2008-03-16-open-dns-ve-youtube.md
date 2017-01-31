@@ -1,24 +1,26 @@
 ---
-title: 'OpenDNS ile Youtube&#8217; a devam&#8230;'
+title: OpenDNS ile Youtube&#8217; a devam&#8230;
+date: 2008-03-16 00:00:00 +02:00
+permalink: "/open-dns-ve-youtube/"
+categories:
+- İnternet
+tags:
+- İnternet
+- opendns
+- yasak
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /open-dns-ve-youtube/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3777";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364761627";}'
+- a:3:{s:12:"sayac_toplam";s:4:"3777";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364761627";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/youtube1.gif
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/youtube1.gif
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - İnternet
-tags:
-  - İnternet
-  - opendns
-  - yasak
-  - youtube
+- 0
 ---
+
 Youtube&#8217;un yasağı hala devam ediyor. Ki kaldırılsa bile bu yasağın tekrar konacağını aşikar. Bu zihniyetle bütün dünyanın birlikte kullandığı siteler Türklere yasaklanacak.
 
 Sadece Youtube değil, birçok site de bu yasaklamalardan nasibini aldı. Diğerlerine girebilmemiz için sadece OpenDNS yetiyordu fakat Youtube için değişik bir yöntem kullanıldığı için yetmiyor. Ama sadece bir tıkla başka bir linkten girebiliyoruz. Nasıl mı? işte böyle&#8230;.

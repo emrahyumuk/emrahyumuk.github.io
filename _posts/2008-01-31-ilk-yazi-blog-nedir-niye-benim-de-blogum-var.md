@@ -1,25 +1,27 @@
 ---
-title: 'ilk yazı &#8211; blog nedir? niye benim de blogum var?'
+title: ilk yazı &#8211; blog nedir? niye benim de blogum var?
+date: 2008-01-31 00:00:00 +02:00
+permalink: "/ilk-yazi-blog-nedir-niye-benim-de-blogum-var/"
+categories:
+- İnternet
+tags:
+- blog
+- emrah yumuk
+- günce
+- günlük
+- seyir defteri
+- vikipedi
+- weblog
 author: emrahyumuk
 layout: post
-permalink: /ilk-yazi-blog-nedir-niye-benim-de-blogum-var/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2493";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364856743";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2493";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364856743";}
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - İnternet
-tags:
-  - blog
-  - emrah yumuk
-  - günce
-  - günlük
-  - seyir defteri
-  - vikipedi
-  - weblog
+- 0
 ---
+
 <img src="http://img164.imageshack.us/img164/3545/blogns8.jpg" alt="blog" width="126" height="181" align="left" />sonunda şu blog işlerine ben de girdim. niye girdim? niye blog? türkçesi yok mu? Sen de mi Brütüs?
 
 ilk önce şu özgür ansiklopedi <a href="http://tr.wikipedia.org" target="_blank">vikipedi</a>&#8216; ye baktım neymiş ya blog deyip.

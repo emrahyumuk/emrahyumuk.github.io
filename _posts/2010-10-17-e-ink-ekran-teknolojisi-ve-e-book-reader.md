@@ -1,15 +1,17 @@
 ---
 title: e-ink ekran teknolojisi ve e-kitap okuyucular
+date: 2010-10-17 00:00:00 +03:00
+permalink: "/e-ink-ekran-teknolojisi-ve-e-book-reader/"
+categories:
+- Elektronik
 author: emrahyumuk
 layout: post
-permalink: /e-ink-ekran-teknolojisi-ve-e-book-reader/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/eink.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/eink.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1467";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364748853";}'
-categories:
-  - Elektronik
+- a:3:{s:12:"sayac_toplam";s:4:"1467";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364748853";}
 ---
+
 e-ink (e-mürekkep) ekran e-kitap okuyucularda (e-book reader) kullanılan yeni bir ekran teknolojisi. Cebit fuarında Reeder marka bir e-kitap okuyucuyu yakından inceleme fırsatı buldum. Gerçekten beklediğimden çok daha kullanışlı ve gözü kesinlikle yormuyor. Bir kitap ya da gazete kağıdından farkı yok. Gelecekte kesinlikle kitapların yerini alacağını düşündüğüm bir teknoloji. bakalım neymiş bu e-ink teknolojisi&#8230;
 
 e-Ink teknolojisi, bilinen LCD, plazma veya tüplü ekranlardan farklı olarak, ekran arkasında ışık yayılımı yerine özel filmi sayesinde ortamdaki ışığı yansıtarak hem uzun süreli okumalarda göze zarar vermiyor, hem de açık havada ve ışığın direk geldiği ortamlarda okumayı mümkün kılıyor.

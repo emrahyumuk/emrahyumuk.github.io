@@ -1,19 +1,21 @@
 ---
 title: İyi Fotoğraf Çekmek İçin 50 Altın İpucu
+date: 2010-08-21 00:00:00 +03:00
+permalink: "/iyi-fotograf-cekmek-icin-50-altin-ipucu/"
+categories:
+- Diğer
+tags:
+- fotoğraf
+- fotoğraf makinası
+- ipucu
 author: emrahyumuk
 layout: post
-permalink: /iyi-fotograf-cekmek-icin-50-altin-ipucu/
 yazi_resmi:
-  - http://a.imageshack.us/img822/9832/kedia.jpg
+- http://a.imageshack.us/img822/9832/kedia.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2427";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364852365";}'
-categories:
-  - Diğer
-tags:
-  - fotoğraf
-  - fotoğraf makinası
-  - ipucu
+- a:3:{s:12:"sayac_toplam";s:4:"2427";s:11:"sayac_bugun";s:1:"6";s:9:"son_okuma";s:10:"1364852365";}
 ---
+
 **1* **Bakış noktanızı iyi seçin. Bunun için fotoğrafını çekeceğiniz konuyu nasıl göstermek istediğinizi düşünün. Sabit bir konunuz varsa (bina, çeşme vs) etrafında biraz dolaştıktan sonra en iyi açısını bulmaya çalışın. Perspektif hatalarını hesaba katmayı unutmayın!Farklı bakış açıları geliştirmeye çalışın. Ortalama uzunluktaki bir insanın göz hizası yerine, çok daha yukarıdan ya da aşağıdan da çekimler yapmayı deneyebilirsiniz.
 
 **2*** Herhangi bir konunun fotoğrafını çekerken, kompozisyonu yatay ya da dikey oluşturmanız konusunda önceki bilgi ve deneyimleriniz size yol gösterecektir. Bazı konular yatay çekildiğinde bazıları ise dikey çekildiğinde doğru ve güzel fotoğraf verirler. Bunun için ilk başta konunuzu kadrajladığınızda, büyük boşluklar kalıp kalmadığına ve konunuzun kesilen yerlerine bakabilirsiniz.

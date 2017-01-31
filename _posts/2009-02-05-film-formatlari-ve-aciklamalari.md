@@ -1,33 +1,35 @@
 ---
 title: Film Formatları ve Açıklamaları
+date: 2009-02-05 00:00:00 +02:00
+permalink: "/film-formatlari-ve-aciklamalari/"
+categories:
+- İnternet
+tags:
+- bin
+- cam
+- cue
+- divx
+- dvb
+- dvd
+- dvdrip
+- dvdscr
+- film
+- format
+- kamera
+- mkv
+- ntsc
+- pal
+- Sinema
+- terim
+- xvid
 author: emrahyumuk
 layout: post
-permalink: /film-formatlari-ve-aciklamalari/
 yazi_resmi:
-  - http://img10.imageshack.us/img10/8537/filmvd8.jpg
+- http://img10.imageshack.us/img10/8537/filmvd8.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3938";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921831";}'
-categories:
-  - İnternet
-tags:
-  - bin
-  - cam
-  - cue
-  - divx
-  - dvb
-  - dvd
-  - dvdrip
-  - dvdscr
-  - film
-  - format
-  - kamera
-  - mkv
-  - ntsc
-  - pal
-  - Sinema
-  - terim
-  - xvid
+- a:3:{s:12:"sayac_toplam";s:4:"3938";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921831";}
 ---
+
 Eğer internetten film indirip seyrediyorsanız karşınıza çok fazla bilmediğiniz terim ve format çıkabilir. Bazen bu terimleri anlamadığınızdan dolayı çok kötü görüntülü bir filmi bilmeden indirebilirsiniz. işte size film formatları, terimleri ve açıklamaları&#8230;
 
 <!--more-->

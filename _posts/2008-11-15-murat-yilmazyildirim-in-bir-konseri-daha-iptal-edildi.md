@@ -1,19 +1,21 @@
 ---
-title: 'Murat Yılmazyıldırım&#8217;ın Bir Konseri Daha İptal Edildi&#8230;'
+title: Murat Yılmazyıldırım&#8217;ın Bir Konseri Daha İptal Edildi&#8230;
+date: 2008-11-15 00:00:00 +02:00
+permalink: "/murat-yilmazyildirim-in-bir-konseri-daha-iptal-edildi/"
+categories:
+- Müzik
+- Yazılarım
+tags:
+- konser
+- murat yılmazyıldırım
+- Müzik
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /murat-yilmazyildirim-in-bir-konseri-daha-iptal-edildi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3097";s:11:"sayac_bugun";s:2:"12";s:9:"son_okuma";s:10:"1364922606";}'
-categories:
-  - Müzik
-  - Yazılarım
-tags:
-  - konser
-  - murat yılmazyıldırım
-  - Müzik
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"3097";s:11:"sayac_bugun";s:2:"12";s:9:"son_okuma";s:10:"1364922606";}
 ---
+
 Düşlerin Ressamı Murat Yılmazyıldırım’ın bir konseri daha maalesef iptal edildi.
 
 Afişlerini gördüğümde Murat Abinin Sakarya’ya geleceğine çok sevinmiştim. 14 Kasım Cuma saat 19:30’da AKM’de olduğu yazıyordu.

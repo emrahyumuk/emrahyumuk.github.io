@@ -1,17 +1,19 @@
 ---
 title: WordPress sitenizde anasayfada anlamsız karakterlerin çıkması ve çözümü
+date: 2013-09-21 00:00:00 +03:00
+permalink: "/wordpress-sitenizde-anasayfada-anlamsiz-karakterlerin-cikmasi-ve-cozumu/"
+categories:
+- Diğer
+- İnternet
+tags:
+- anlamsız karakterler
+- htaccess
+- wordpress
+- wordpress sorunu
 author: emrahyumuk
 layout: post
-permalink: /wordpress-sitenizde-anasayfada-anlamsiz-karakterlerin-cikmasi-ve-cozumu/
-categories:
-  - Diğer
-  - İnternet
-tags:
-  - anlamsız karakterler
-  - htaccess
-  - wordpress
-  - wordpress sorunu
 ---
+
 Bir süre önce websitemi başka bir hosta taşıdıktan sonra websitemin anasayfası görünmüyordu ve karışık anlamsız karakterlerle doluydu.
 
 <!--more-->

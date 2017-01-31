@@ -1,22 +1,24 @@
 ---
-title: 'Turkcell, Avea ve Vodafone&#8217;da Facebook ücretsiz'
+title: Turkcell, Avea ve Vodafone&#8217;da Facebook ücretsiz
+date: 2010-08-22 00:00:00 +03:00
+permalink: "/turkcell-avea-ve-vodafoneda-facebook-ucretsiz/"
+categories:
+- İnternet
+tags:
+- avea
+- facebook
+- facebook zero
+- İnternet
+- turkcell
+- vodafone
 author: emrahyumuk
 layout: post
-permalink: /turkcell-avea-ve-vodafoneda-facebook-ucretsiz/
 yazi_resmi:
-  - http://a.imageshack.us/img178/2386/facebookzero.jpg
+- http://a.imageshack.us/img178/2386/facebookzero.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:1509;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293174;}'
-categories:
-  - İnternet
-tags:
-  - avea
-  - facebook
-  - facebook zero
-  - İnternet
-  - turkcell
-  - vodafone
+- a:3:{s:12:"sayac_toplam";i:1509;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293174;}
 ---
+
 0.facebook.com adresinden cep telefonuyla facebook hesabınıza ücretsiz ulaşabiliriniz.
 
 Facebook&#8217;un bu yeni mobil arayüzü tamamen metin tabanlı. Operatörünüz ne olursa olsun Turkcel, Avea veya Vodafone, ücretsiz facebook hesabınıza ulaşmanız mümkün.

@@ -1,25 +1,27 @@
 ---
-title: 'C#&#8217; ta Switch-Case Kontrol Yapısı'
+title: C#&#8217; ta Switch-Case Kontrol Yapısı
+date: 2011-01-18 00:00:00 +02:00
+permalink: "/c-sharp-switch-case-kontrol-yapisi/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- C#
+- c#.net
+- kontrol yapıları
+- programlama
+- switch case
+- Visual Studio
+- yazılım
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-switch-case-kontrol-yapisi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1523";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364796924";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1523";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364796924";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c#.net'
-  - kontrol yapıları
-  - programlama
-  - switch case
-  - Visual Studio
-  - yazılım
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 ---
+
 if-else yapısında olduğu gibi switch-case de bir karar, kontrol yapısıdır. switch-case ile yaptıklarımızı if-else kullanarak da yapabiliriz. Fakat bazı durumlarda switch-case kullanmamız çok daha pratik olacaktır.
 
 switch-case yapısında tanımladığımız bir değişkenin değeri kontrol edilir.

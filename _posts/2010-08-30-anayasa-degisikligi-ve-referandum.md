@@ -1,13 +1,15 @@
 ---
 title: Anayasa Değişikliği ve Referandum
+date: 2010-08-30 00:00:00 +03:00
+permalink: "/anayasa-degisikligi-ve-referandum/"
+categories:
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /anayasa-degisikligi-ve-referandum/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1129";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364803355";}'
-categories:
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1129";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364803355";}
 ---
+
 12 Eylül&#8217;de referanduma gidiyoruz ama parti liderleri niçin referanduma gittiğimizi ya unutmuş ya da unutturmak istiyorlar. Halk mı? Halk zaten çoktan unuttu. Mitinglerde liderlerin ağzından anayasa diye bir kelime çıkmıyor ne hikmetse. Biz şöyleyiz biz böyleyiz onlar böyle&#8230; evet mi? eveeet, hayır mı? hayıııır. Oyun oynamasını bilmeyen küçük mızıkçı çocuklar gibi ülkemizin liderleri. Onlardan pek bir şey olmayacak, umudumuzu kestik ama ya halk&#8230; Sizce halk oyundan ve mızıkçılardan yorulmuş uyuyor mu mışıl mışıl?
 
 <!--more-->

@@ -1,22 +1,24 @@
 ---
 title: Çalınan Msn Adresinizi Geri Almak
+date: 2009-02-05 00:00:00 +02:00
+permalink: "/calinan-msn-adresinizi-geri-almak/"
+categories:
+- İnternet
+tags:
+- çalınan msn
+- hotmail
+- messenger
+- microsoft
+- msn
+- windows live
 author: emrahyumuk
 layout: post
-permalink: /calinan-msn-adresinizi-geri-almak/
 yazi_resmi:
-  - http://img13.imageshack.us/img13/356/msnbb0.jpg
+- http://img13.imageshack.us/img13/356/msnbb0.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2014";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903070";}'
-categories:
-  - İnternet
-tags:
-  - çalınan msn
-  - hotmail
-  - messenger
-  - microsoft
-  - msn
-  - windows live
+- a:3:{s:12:"sayac_toplam";s:4:"2014";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903070";}
 ---
+
 Msn adresiniz kötü niyetli kişiler tarafından çalındığında boynunuzu büküp yeni msn adresinizle yolumuza devam etmeye gerek yok. Çalınan msn adresinizi tamamen yasal ve microsoft aracılığı ile geri almak istermisiniz? işte msn adresinizi geri alabilmeniz için yapmanız gerekenler.  
 <!--more-->
 

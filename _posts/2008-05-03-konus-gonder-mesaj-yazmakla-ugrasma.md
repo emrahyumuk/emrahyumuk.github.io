@@ -1,20 +1,22 @@
 ---
-title: 'Konuş Gönder &#8211; mesaj yazmakla uğraşma'
+title: Konuş Gönder &#8211; mesaj yazmakla uğraşma
+date: 2008-05-03 00:00:00 +03:00
+permalink: "/konus-gonder-mesaj-yazmakla-ugrasma/"
+categories:
+- Diğer
+tags:
+- kontör
+- konuşgönder
+- mesaj
+- sms
+- telefon
+- turkcell
 author: emrahyumuk
 layout: post
-permalink: /konus-gonder-mesaj-yazmakla-ugrasma/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1482";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364745151";}'
-categories:
-  - Diğer
-tags:
-  - kontör
-  - konuşgönder
-  - mesaj
-  - sms
-  - telefon
-  - turkcell
+- a:3:{s:12:"sayac_toplam";s:4:"1482";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364745151";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/konus-gonder.jpg" alt="konus-gonder" align="left" border="2" hspace="5" vspace="5" />mesaj yazmakla uğraşmak istemiyorsunuz ya da sesinizle kendinizi daha iyi ifade etmek istiyorsanız Turkcell &#8216;in KonuşGönder servisi tam size göre.
 
 mesajı göndermek istediğiniz numaranın başına <font color="#ff0000"><strong></strong></font> yerine <font color="#ff0000"><strong>*</strong></font> koyarak (Örneğin:*53XXXXXXXX) arayın ve mesajınızı söyleyip kapatın. 30 sn zamanınız var.

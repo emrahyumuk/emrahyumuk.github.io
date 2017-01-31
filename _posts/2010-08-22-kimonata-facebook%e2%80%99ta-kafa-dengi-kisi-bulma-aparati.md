@@ -1,18 +1,20 @@
 ---
 title: 'Kimonata: Facebook’ta Kafa Dengi Kişi Bulma Aparatı'
+date: 2010-08-22 00:00:00 +03:00
+permalink: "/kimonata-facebook%e2%80%99ta-kafa-dengi-kisi-bulma-aparati/"
+categories:
+- İnternet
+tags:
+- arkadaşlık
+- facebook
+- kimonata
+- profil
 author: emrahyumuk
 layout: post
-permalink: /kimonata-facebook%e2%80%99ta-kafa-dengi-kisi-bulma-aparati/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"837";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364805326";}'
-categories:
-  - İnternet
-tags:
-  - arkadaşlık
-  - facebook
-  - kimonata
-  - profil
+- a:3:{s:12:"sayac_toplam";s:3:"837";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364805326";}
 ---
+
 <img class="aligncenter" title="kimonata facebook arkadaşlık" src="http://a.imageshack.us/img714/5383/kimonata.png" alt="" width="295" height="87" />
 
 Facebook arkadaşlık (dating) sitelerinin popülerliğini düşürse de, bu alanda geliştirilen uygulamalar kendi kullanıcı kitlesini yakalamayı başarıyor. Akıllı tavsiye sistemi teknolojileri üzerine çalışan [İletken][1]‘den Sarp Erdağ’ın geliştirdiği [**Kimonata**][2] adlı uygulama da Facebook üzerinde kişiler arası etkileşim kurma hedefinde.

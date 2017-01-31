@@ -1,21 +1,23 @@
 ---
 title: WEB 10 – website önerileri (3)
+date: 2010-11-29 00:00:00 +02:00
+permalink: "/web-10-website-onerileri-3/"
+categories:
+- İnternet
+tags:
+- İnternet
+- link
+- web 10
+- web10
+- website
 author: emrahyumuk
 layout: post
-permalink: /web-10-website-onerileri-3/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/web10.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1779";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364899003";}'
-categories:
-  - İnternet
-tags:
-  - İnternet
-  - link
-  - web 10
-  - web10
-  - website
+- a:3:{s:12:"sayac_toplam";s:4:"1779";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364899003";}
 ---
+
 Web 10&#8242; da sıra geldi üçüncü 10luya&#8230; Bakalım bu sefer hangi websiteleri var web10&#8242;umuzda&#8230;
 
 1. **<a href="http://gopof.com/" target="_blank">Gopof.com</a>** -  Websitenizin Google aramalarında hangi kelimede kaçıncı sırada olduğunu öğrenin.

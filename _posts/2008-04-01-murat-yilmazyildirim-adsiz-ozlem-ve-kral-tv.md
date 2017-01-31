@@ -1,21 +1,23 @@
 ---
 title: Murat Yılmazyıldırım, Adsız Özlem ve Kral TV
+date: 2008-04-01 00:00:00 +03:00
+permalink: "/murat-yilmazyildirim-adsiz-ozlem-ve-kral-tv/"
+categories:
+- Müzik
+- Yazılarım
+tags:
+- adsız özlem
+- düşlerin ressamı
+- ecem minar
+- klip
+- kral tv
+- murat yılmazyıldırım
 author: emrahyumuk
 layout: post
-permalink: /murat-yilmazyildirim-adsiz-ozlem-ve-kral-tv/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:345868;s:11:"sayac_bugun";i:56;s:9:"son_okuma";i:1366295002;}'
-categories:
-  - Müzik
-  - Yazılarım
-tags:
-  - adsız özlem
-  - düşlerin ressamı
-  - ecem minar
-  - klip
-  - kral tv
-  - murat yılmazyıldırım
+- a:3:{s:12:"sayac_toplam";i:345868;s:11:"sayac_bugun";i:56;s:9:"son_okuma";i:1366295002;}
 ---
+
 <img class="alignleft" style="border: 0pt none; margin: 5px; float: left;" src="http://img383.imageshack.us/img383/2196/myywy9.jpg" border="1" alt="myy.jpg" hspace="5" vspace="5" width="245" height="152" align="left" />Sakarya&#8217;da yazıhanede otogara gidecek servis aracını bekliyorum. Ufak bir televizyon koymuşlar, kral tv açık, sırayla klipler dönüyor. Servisin gelmesine yaklaşık 15 dk. var. Bir iki klip çıktı, yazıhanedeki herkes sanki orada televizyon yokmuşçasına ilgisiz, çoğu kişi şarkıyı duymayacak kadar meşgul.
 
 Servisin gelmesine çok az bir süre kala birden akustik gitarın o ince ritm sesi duyuldu televizyondan ardından ince bir ses &#8220;Gerçekler nerde&#8230;.&#8221; diye başlayan. Herkes birden irkildi ve televizyona çevirdi kafasını. Sanki yıllardır bu sesi bekliyorlardı. Yüzlerde şaşkınlık, kulakları pek alışkın değil o yalın akustik gitarın ve Murat Yılmazyıldırım&#8217;ın yeğeni Ecem Minar&#8217;ın sesine.

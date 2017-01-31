@@ -1,18 +1,20 @@
 ---
 title: Dabülü nedir?
+date: 2008-04-25 00:00:00 +03:00
+permalink: "/dabulu-nedir/"
+categories:
+- Diğer
+tags:
+- dabülü
+- dil
+- türkçe
+- w
 author: emrahyumuk
 layout: post
-permalink: /dabulu-nedir/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"8771";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364921094";}'
-categories:
-  - Diğer
-tags:
-  - dabülü
-  - dil
-  - türkçe
-  - w
+- a:3:{s:12:"sayac_toplam";s:4:"8771";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364921094";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/turkiye.jpg" alt="turkiye.jpg" align="left" border="1" hspace="5" vspace="5" /><font color="green" face="Arial" size="5"><span style="font-size: 18pt; color: green; font-family: Arial"></span></font>
 
 <span style="color: #003300">Aslında <font color="#993300"><strong>&#8220;Dabülü&#8221;</strong></font>, tüm özelliklerini kaybetmekte olan bir ulusun, çağdaşlaşmak adına <font color="#003366"><strong>&#8220;<span>The Marmara</span>&#8220;</strong></font> oteli ismi ile başladığı yolda ulaştığı önemli bir aşamanın simgesidir.<br /> Komik degil, ağlanması gereken bir olaydır&#8230; Olay aslında telefonda basit bir Adres kodlamadan kaynaklanır.. <o:p></o:p></span>

@@ -1,17 +1,19 @@
 ---
-title: 'Masalıma seni anlatırken&#8230;'
+title: Masalıma seni anlatırken&#8230;
+date: 2010-11-23 00:00:00 +02:00
+permalink: "/masalima-seni-anlatirken/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /masalima-seni-anlatirken/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2106";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364896160";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"2106";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364896160";}
 ---
+
 Herkes uyuduğunda kabus gördüğünü söyler. Oysa ben gece seni görürüm rüyamda, cennetten gelen bir hediyedir uyku, sabah uyandığımda başlar benim kabusum.
 
 Her gün uyumadan önce seni düşünürüm. Çok önce gördüğüm o rüyayı tekrar görmek için. Uyandığımda sabaha yine körebeyim, seni arar dururum. Sanki bulacakmış gibi&#8230; Bulduğunda saklayabilecekmiş gibi&#8230;

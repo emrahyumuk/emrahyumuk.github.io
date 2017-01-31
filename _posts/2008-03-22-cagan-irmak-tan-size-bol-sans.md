@@ -1,24 +1,26 @@
 ---
-title: 'Çağan Irmak&#8217; tan &#8220;Size Bol Şans&#8221;'
+title: Çağan Irmak&#8217; tan &#8220;Size Bol Şans&#8221;
+date: 2008-03-22 00:00:00 +02:00
+permalink: "/cagan-irmak-tan-size-bol-sans/"
+categories:
+- Sinema
+tags:
+- bana şans dile
+- çağan ırmak
+- Sinema
+- yeşilçam ödülleri
 author: emrahyumuk
 layout: post
-permalink: /cagan-irmak-tan-size-bol-sans/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1304";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1363149296";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1304";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1363149296";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/banasansdile.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/banasansdile.jpg
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - Sinema
-tags:
-  - bana şans dile
-  - çağan ırmak
-  - Sinema
-  - yeşilçam ödülleri
+- 0
 ---
+
 <span style="font-weight: bold; color: #000000;">Çağan Irmak, “İlk Film Ödülü” adaylığını 2007′de ilk filmi gösterilen yönetmenlere bıraktı&#8230;</span>
 
 **Çağan Irmak**, 2001 yılında çektiği ilk filmi <a href="http://beyazperde.mynet.com/film.asp?id=1473&kat=arama" target="_blank">Bana Şans Dile</a>&#8216;nin,2007 yılında vizyona girmesiyle Yeşilçam Ödülleri’ne doğal aday olması ve“üretenler jürisinin” oylarıyla Turkcell ilk film ödülü’ne aday gösterilmesi sonucunda Türsak Vakfı ile görüş birliği içinde; “adaylığı”nı 2007’de ilk filmi gösterilen yönetmen adaylarına bırakmak istediğini açıkladı.

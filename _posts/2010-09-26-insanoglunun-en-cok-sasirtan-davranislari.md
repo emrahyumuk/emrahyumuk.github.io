@@ -1,13 +1,15 @@
 ---
 title: İnsanoğlunun en çok şaşırtan davranışları
+date: 2010-09-26 00:00:00 +03:00
+permalink: "/insanoglunun-en-cok-sasirtan-davranislari/"
+categories:
+- Edebiyat
 author: emrahyumuk
 layout: post
-permalink: /insanoglunun-en-cok-sasirtan-davranislari/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"719";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364869872";}'
-categories:
-  - Edebiyat
+- a:3:{s:12:"sayac_toplam";s:3:"719";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364869872";}
 ---
+
 Zamanın ünlü bilgesine iki soru sormuşlar.  
 Birincisi ; “İnsanoğlunun seni en çok şaşırtan davranışları nedir ?”
 

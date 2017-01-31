@@ -1,18 +1,20 @@
 ---
 title: 'Özgürlük için bir adım daha: PARDUS 2009'
+date: 2009-07-19 00:00:00 +03:00
+permalink: "/ozgurluk-icin-bir-adim-daha-pardus-2009/"
+categories:
+- Bilgisayar
+tags:
+- işletim sistemi
+- pardus
+- pardus 2009
+- türk işletim sistemi
 author: emrahyumuk
 layout: post
-permalink: /ozgurluk-icin-bir-adim-daha-pardus-2009/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"962";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364894885";}'
-categories:
-  - Bilgisayar
-tags:
-  - işletim sistemi
-  - pardus
-  - pardus 2009
-  - türk işletim sistemi
+- a:3:{s:12:"sayac_toplam";s:3:"962";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364894885";}
 ---
+
 <p style="text-align: center;">
   <a href="http://www.emrahyumuk.com/blog/ozgurluk-icin-bir-adim-daha-pardus-2009/"><img class="aligncenter" title="pardus 2009" src="http://img199.imageshack.us/img199/492/pardus2009.jpg" alt="" width="386" height="55" /></a>
 </p>

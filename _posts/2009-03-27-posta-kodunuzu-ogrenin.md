@@ -1,19 +1,21 @@
 ---
 title: Posta Kodunuzu Öğrenin
+date: 2009-03-27 00:00:00 +02:00
+permalink: "/posta-kodunuzu-ogrenin/"
+categories:
+- İnternet
+tags:
+- pk
+- posta kodu
+- ptt
 author: emrahyumuk
 layout: post
-permalink: /posta-kodunuzu-ogrenin/
 yazi_resmi:
-  - http://img142.imageshack.us/img142/8822/ptt.gif
+- http://img142.imageshack.us/img142/8822/ptt.gif
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2495";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364839059";}'
-categories:
-  - İnternet
-tags:
-  - pk
-  - posta kodu
-  - ptt
+- a:3:{s:12:"sayac_toplam";s:4:"2495";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364839059";}
 ---
+
 Çoğu yerde posta kodu karşımıza çıkmıştır. özellikle yabancı sitelere üyeliklerde soruluyor. zorunlu yazılması isteniyor. peki oturduğumuz adresin posta kodu neydi?
 
 öss başvuru formunda da karşıma çıkmıştı. hocalar telefon faturanıza bakın onu yazın demişlerdi. ben de o zamandan beri doğru mu yanlış mı ya da değişip değişmediğini bilmeden o posta kodunu kullanırım.

@@ -1,27 +1,29 @@
 ---
-title: 'Microsoft Açık Akademi &#8211; Uygulama Geliştirme Okulu'
+title: Microsoft Açık Akademi &#8211; Uygulama Geliştirme Okulu
+date: 2012-01-11 00:00:00 +02:00
+permalink: "/microsoft-acik-akademi-uygulama-gelistirme-okulu/"
+categories:
+- Programlama
+tags:
+- açık akademi
+- microsoft
+- microsoft türkiye
+- online eğitim
+- ücretsiz yazılım eğitimi
+- uygulama geliştirme
+- yazılım dersleri
 author: emrahyumuk
 layout: post
-permalink: /microsoft-acik-akademi-uygulama-gelistirme-okulu/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/ms-acik-Akademi.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/ms-acik-Akademi.jpg
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
+- 0
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3120";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903070";}'
-categories:
-  - Programlama
-tags:
-  - açık akademi
-  - microsoft
-  - microsoft türkiye
-  - online eğitim
-  - ücretsiz yazılım eğitimi
-  - uygulama geliştirme
-  - yazılım dersleri
+- a:3:{s:12:"sayac_toplam";s:4:"3120";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903070";}
 ---
+
 **Microsoft Türkiye**, ücretsiz online uygulama geliştirme okulu olan **<a href="http://www.emrahyumuk.com" target="_blank">Açık Akademi</a>** projesini hayata geçirdi. Açık Akademi, ülkemizde yazılım sektörünün daha da gelişmesi amacıyla Microsoft&#8217;un kurumsal sosyal sorumluluk projesidir.
 
 Deneyimli veya deneyimsiz bütün yazılımcılara hitap eden Açık Akademi&#8217;deki ücretsiz eğitimleri alarak kendinizi geliştirebilirsiniz. Eğitim seviyelerini başarıyla tamamlayanlarsanız da katılım belgesi almaya hak kazanacaksınız. Açık Akademi’den mezun olan kullanıcılar geliştirdikleri uygulamaları Windows Phone, Windows 8 ve Windows Azure uygulamalarının yer aldığı Marketplace platformları üzerinden satabilme imkânı bulacak.

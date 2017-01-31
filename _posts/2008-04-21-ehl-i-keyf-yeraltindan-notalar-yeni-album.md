@@ -1,22 +1,24 @@
 ---
-title: 'Ehl-i Keyf &#8211; Yeraltından Notalar  (Yeni Albüm)'
+title: Ehl-i Keyf &#8211; Yeraltından Notalar  (Yeni Albüm)
+date: 2008-04-21 00:00:00 +03:00
+permalink: "/ehl-i-keyf-yeraltindan-notalar-yeni-album/"
+categories:
+- Müzik
+tags:
+- download
+- ehl-i keyf
+- mp3
+- Müzik
+- ücretsiz
+- yeni albüm
+- yeraltından notalar
+- zardanadam
 author: emrahyumuk
 layout: post
-permalink: /ehl-i-keyf-yeraltindan-notalar-yeni-album/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1983";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364910294";}'
-categories:
-  - Müzik
-tags:
-  - download
-  - ehl-i keyf
-  - mp3
-  - Müzik
-  - ücretsiz
-  - yeni albüm
-  - yeraltından notalar
-  - zardanadam
+- a:3:{s:12:"sayac_toplam";s:4:"1983";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364910294";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/ehlikeyf.jpg" alt="ehlikeyf.jpg" align="left" border="1" hspace="5" vspace="5" /><span style="color: black"><span style="font-size: 8pt; line-height: 1.3em"><span style="color: black"></span></span></span>
 
 <span style="color: black"><span style="font-size: 8pt; line-height: 1.3em"><span style="color: black"></span></span></span>  

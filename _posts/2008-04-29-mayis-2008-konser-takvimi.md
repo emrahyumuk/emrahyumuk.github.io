@@ -1,61 +1,63 @@
 ---
 title: Mayıs 2008 Konser Takvimi
+date: 2008-04-29 00:00:00 +03:00
+permalink: "/mayis-2008-konser-takvimi/"
+categories:
+- Müzik
+tags:
+- Akın Eldes
+- aslı
+- babazula
+- bahar
+- Bülent Ortaçgil
+- Bulutsuzluk Özlemi
+- cem köksal
+- cem özkan
+- çilekeş
+- dejavu
+- demir demirkan
+- dinar bandosu
+- direc-t
+- dorian
+- duman
+- etkinlik takvimi
+- Ezginin Günlüğü
+- feridun düzağaç
+- gevende
+- gitar
+- gripin
+- hasan cihat örter
+- hayko cepkin
+- ihtiyaç molası
+- karapaks
+- koçfest
+- konser
+- konser takvimi
+- kramp
+- manga
+- mayıs 2008
+- mor ve ötesi
+- murat çelik
+- murat yılmazyıldırım
+- Müzik
+- ogün sanlısoy
+- pentagram
+- pilli bebek
+- pinhani
+- redd
+- replikas
+- şebnem ferah
+- teoman
+- Tibet Ağırtan
+- vega
+- yaris fest
+- zardanadam
 author: emrahyumuk
 layout: post
-permalink: /mayis-2008-konser-takvimi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"24134";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364919541";}'
-categories:
-  - Müzik
-tags:
-  - Akın Eldes
-  - aslı
-  - babazula
-  - bahar
-  - Bülent Ortaçgil
-  - Bulutsuzluk Özlemi
-  - cem köksal
-  - cem özkan
-  - çilekeş
-  - dejavu
-  - demir demirkan
-  - dinar bandosu
-  - direc-t
-  - dorian
-  - duman
-  - etkinlik takvimi
-  - Ezginin Günlüğü
-  - feridun düzağaç
-  - gevende
-  - gitar
-  - gripin
-  - hasan cihat örter
-  - hayko cepkin
-  - ihtiyaç molası
-  - karapaks
-  - koçfest
-  - konser
-  - konser takvimi
-  - kramp
-  - manga
-  - mayıs 2008
-  - mor ve ötesi
-  - murat çelik
-  - murat yılmazyıldırım
-  - Müzik
-  - ogün sanlısoy
-  - pentagram
-  - pilli bebek
-  - pinhani
-  - redd
-  - replikas
-  - şebnem ferah
-  - teoman
-  - Tibet Ağırtan
-  - vega
-  - yaris fest
-  - zardanadam
+- a:3:{s:12:"sayac_toplam";s:5:"24134";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364919541";}
 ---
+
 [<img class="alignleft" style="border: 0pt none; margin: 5px; float: left;" src="http://img528.imageshack.us/img528/6226/mays2008rb2.jpg" border="7" alt="mayis-2008" hspace="5" vspace="5" align="left" />][1]Nisan ayında hazırlamaya başladığım konser takviminde sıra geldi Mayıs ayına.
 
 Havalar yavaş yavaş ısınmaya başladı ve konserler daha da çoğaldı. Üniversitelerin bahar şenlikleri ve festivaller başlıyor.

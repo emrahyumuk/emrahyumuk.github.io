@@ -1,24 +1,26 @@
 ---
 title: Youtube yine yasaklandı.
+date: 2008-03-13 00:00:00 +02:00
+permalink: "/youtube-yine-yasaklandi/"
+categories:
+- İnternet
+tags:
+- atatürk
+- İnternet
+- yasak
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /youtube-yine-yasaklandi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1085";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364908286";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1085";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364908286";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/youtube.gif
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/youtube.gif
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - İnternet
-tags:
-  - atatürk
-  - İnternet
-  - yasak
-  - youtube
+- 0
 ---
+
 Siteye erişim, Ulu Önder Atatürk&#8217;e hakaret içeren görüntüler nedeniyle Ankara 1. Sulh Ceza Mahkemesi&#8217;nin kararıyla engellendi.  
 Atatürk&#8217;e hakaret içeren videoların yer alması nedeniyle Ankara Cumhuriyet Başsavcılığı www.youtube.com adresli internet sitesine erişimin engellenmesini istedi.
 

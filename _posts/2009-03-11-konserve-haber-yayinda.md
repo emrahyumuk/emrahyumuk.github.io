@@ -1,21 +1,23 @@
 ---
 title: Konserve Haber Yayında !!!
+date: 2009-03-11 00:00:00 +02:00
+permalink: "/konserve-haber-yayinda/"
+categories:
+- İnternet
+- Müzik
+tags:
+- haber
+- konser
+- konservehaber
+- Müzik
+- rock
+- site
 author: emrahyumuk
 layout: post
-permalink: /konserve-haber-yayinda/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"957";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364873231";}'
-categories:
-  - İnternet
-  - Müzik
-tags:
-  - haber
-  - konser
-  - konservehaber
-  - Müzik
-  - rock
-  - site
+- a:3:{s:12:"sayac_toplam";s:3:"957";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364873231";}
 ---
+
 <a href="http://www.konservehaber.com" target="_blank"><img class="alignnone" title="Konser ve haber" src="http://img7.imageshack.us/img7/3194/defaultpostimage.gif" alt="" width="410" height="160" /></a>
 
 **&#8220;konser ve haber… hem konser hem haber… işte karşınızda Konserve Haber… &#8221; **

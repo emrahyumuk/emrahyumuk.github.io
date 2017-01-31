@@ -1,28 +1,30 @@
 ---
-title: 'C#&#8217;ta If-Else Karar Yapısı ve Karşılaştırma Operatörleri'
+title: C#&#8217;ta If-Else Karar Yapısı ve Karşılaştırma Operatörleri
+date: 2011-01-17 00:00:00 +02:00
+permalink: "/c-sharp-if-else-karar-yapisi-karsilastirma-oparatorleri/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- C#
+- c#.net
+- else if
+- if else
+- if else karar yapısı
+- ilişkisel operatörler
+- karşılaştırma operatörleri
+- mantıksal operatörler
+- operatörler
+- Visual Studio
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-if-else-karar-yapisi-karsilastirma-oparatorleri/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2464";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364915467";}'
+- a:3:{s:12:"sayac_toplam";s:4:"2464";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364915467";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c#.net'
-  - else if
-  - if else
-  - if else karar yapısı
-  - ilişkisel operatörler
-  - karşılaştırma operatörleri
-  - mantıksal operatörler
-  - operatörler
-  - Visual Studio
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 ---
+
 if-else karar yapısı ile belirlediğimiz bir koşulun doğru veya yanlış olması durumunda yapılması gerekenleri programa yaptırırız. Bunu yapmak için çeşitli karşılaştırma operatörleri kullanarak bir koşul oluşturur ve koşulun doğruluğuna göre yapılması gerekenleri belirleriz.
 
 <span style="color: #c0c0c0;">.</span>

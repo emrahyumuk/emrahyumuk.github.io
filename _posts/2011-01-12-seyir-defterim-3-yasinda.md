@@ -1,20 +1,22 @@
 ---
 title: Seyir Defterim 3 Yaşında !!!
+date: 2011-01-12 00:00:00 +02:00
+permalink: "/seyir-defterim-3-yasinda/"
+categories:
+- Diğer
+tags:
+- 3 yaşında
+- blog
+- doğumgünü
+- seyir defterim
 author: emrahyumuk
 layout: post
-permalink: /seyir-defterim-3-yasinda/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/3yasinda.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/3yasinda.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1743";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364820866";}'
-categories:
-  - Diğer
-tags:
-  - 3 yaşında
-  - blog
-  - doğumgünü
-  - seyir defterim
+- a:3:{s:12:"sayac_toplam";s:4:"1743";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364820866";}
 ---
+
 3 sene önce başlayan sanal olduğa kadar hayal alemimi de seyreyleyen ve içine biraz da gerçeklik katan seyir defterimin doğumgünü bugün. İkinci yaş gününü kutlayamadığım için bu 2 yaşlık bir kutlama olsun.
 
 3 senelik bir özetle kutlamaya başlayalım o zaman.

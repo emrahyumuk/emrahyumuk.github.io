@@ -1,15 +1,17 @@
 ---
-title: 'Bir Hikaye &#8211; Nasıl Hissettirdiğiniz Önemli'
+title: Bir Hikaye &#8211; Nasıl Hissettirdiğiniz Önemli
+date: 2010-10-01 00:00:00 +03:00
+permalink: "/bir-hikaye-nasil-hissettirdiginiz-onemli/"
+categories:
+- Diğer
+tags:
+- hikaye
 author: emrahyumuk
 layout: post
-permalink: /bir-hikaye-nasil-hissettirdiginiz-onemli/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"826";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364745099";}'
-categories:
-  - Diğer
-tags:
-  - hikaye
+- a:3:{s:12:"sayac_toplam";s:3:"826";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364745099";}
 ---
+
 Bu olay 14 ekim 1998 de kıtalar arası bir uçuş esnasında gerçekleşmiş.
 
 “Bir kadın, uçakta zenci bir adamın yanında oturuyordu. Durumdan rahatsızlığını belli edercesine, hostesten başka bir yer bulmasını istedi, zira öylesine antipatik birinin yanında oturamazdı. Hostes, tüm uçağın dolu olduğunu fakat birinci sınıfta yer olup olmadığına bakacağını söyledi.

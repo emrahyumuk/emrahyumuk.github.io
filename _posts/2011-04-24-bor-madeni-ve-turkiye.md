@@ -1,35 +1,37 @@
 ---
 title: Bor Madeni ve Türkiye
+date: 2011-04-24 00:00:00 +03:00
+permalink: "/bor-madeni-ve-turkiye/"
+categories:
+- Teknoloji
+tags:
+- bor
+- bor araştırma yazısı
+- bor hakkında
+- bor kullanım alanları
+- bor madeni
+- bor madeni yakıt
+- bor motor yağı
+- bor rezervleri
+- bor teknolojisi
+- bor yakıt katkısı
+- bor'un geleceği
+- boren
+- enerji
+- hidrojen enerjisi
+- maden
+- madencilik
+- türkiye
+- türkiye bor miktarı
+- ulusal bor araştırma enstitüsü
 author: emrahyumuk
 layout: post
-permalink: /bor-madeni-ve-turkiye/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/bor.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/bor.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2770";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364756185";}'
-categories:
-  - Teknoloji
-tags:
-  - bor
-  - bor araştırma yazısı
-  - bor hakkında
-  - bor kullanım alanları
-  - bor madeni
-  - bor madeni yakıt
-  - bor motor yağı
-  - bor rezervleri
-  - bor teknolojisi
-  - bor yakıt katkısı
-  - "bor'un geleceği"
-  - boren
-  - enerji
-  - hidrojen enerjisi
-  - maden
-  - madencilik
-  - türkiye
-  - türkiye bor miktarı
-  - ulusal bor araştırma enstitüsü
+- a:3:{s:12:"sayac_toplam";s:4:"2770";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364756185";}
 ---
+
 İnternette birçok yerde bor madeni ile ilgili kaynağı belirsiz birçok yazı mevcut. Güvenilir kaynaklardan herhangi bir açıklama gelmeyince bu söylentilere çoğu kişi inanmıyor veya önemsemiyor. Ben de bor madeni ile ilgili küçük çaplı bir araştırma yaptım ve şimdi size bu araştırmamın sonuçlarını sunacağım. Daha ayrıntılı bilgi için kaynaklar göstereceğim.
 
 **Türkiye için bor neden bu kadar önemli ve gelecekte bizi neler bekliyor?**

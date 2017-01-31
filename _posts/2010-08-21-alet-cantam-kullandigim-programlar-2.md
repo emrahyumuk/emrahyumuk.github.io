@@ -1,18 +1,20 @@
 ---
 title: Alet Çantam – Kullandığım Programlar 2
+date: 2010-08-21 00:00:00 +03:00
+permalink: "/alet-cantam-kullandigim-programlar-2/"
+categories:
+- Program
+tags:
+- Program
+- yazılım
 author: emrahyumuk
 layout: post
-permalink: /alet-cantam-kullandigim-programlar-2/
 yazi_resmi:
-  - http://a.imageshack.us/img413/9057/programar.jpg
+- http://a.imageshack.us/img413/9057/programar.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1021";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364802941";}'
-categories:
-  - Program
-tags:
-  - Program
-  - yazılım
+- a:3:{s:12:"sayac_toplam";s:4:"1021";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364802941";}
 ---
+
 Daha önce kullandığım programların listesini <a href="http://www.emrahyumuk.com/blog/alet-cantam-kullandigim-programlar/" target="_blank">buradan</a> yayınlamıştım. Bakalım o günden bu güne neler değişmiş. Alet çantamı güncelledim.
 
 <span style="color: #ffffff;">.</span>

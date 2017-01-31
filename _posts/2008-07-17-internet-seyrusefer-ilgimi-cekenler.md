@@ -1,16 +1,18 @@
 ---
-title: 'İnternet Seyrüsefer &#8211; ilgimi çekenler'
+title: İnternet Seyrüsefer &#8211; ilgimi çekenler
+date: 2008-07-17 00:00:00 +03:00
+permalink: "/internet-seyrusefer-ilgimi-cekenler/"
+categories:
+- İnternet
+tags:
+- blog
+- İnternet
 author: emrahyumuk
 layout: post
-permalink: /internet-seyrusefer-ilgimi-cekenler/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1811";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364914769";}'
-categories:
-  - İnternet
-tags:
-  - blog
-  - İnternet
+- a:3:{s:12:"sayac_toplam";s:4:"1811";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364914769";}
 ---
+
 Uzun zamandan beri seyir defterime ne yazı yazasım var ne de internette blogları, websitelerini dolaşmaya mecalim var. yanı başımda olmasına rağmen epey zaman internetten uzak kaldım. uzun bir süreden sonra bir gezintiye çıkayım dedim. şöyle bir baktım neler olmuş.
 
 <!--more-->

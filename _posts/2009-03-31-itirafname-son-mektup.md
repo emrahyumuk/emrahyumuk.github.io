@@ -1,17 +1,19 @@
 ---
-title: 'İtirafname &#8211; Son Mektup'
+title: İtirafname &#8211; Son Mektup
+date: 2009-03-31 00:00:00 +03:00
+permalink: "/itirafname-son-mektup/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- mektup
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /itirafname-son-mektup/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1456";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364857395";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - mektup
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1456";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364857395";}
 ---
+
 Ne kadar zaman geçti farkında değildi. Bildiği artık zaman epey geçti. Her gün birbirinin aynısı gibi giderken nihayet uzun bir zaman sonra itiraf ediyordu. Onlarca gönderilmeyen son mektuptan sadece biriydi bu. Ama en sonunda aynaya baktı ve itiraf etti. İtiraf ediyordu, yıllar önce &#8220;Seni seviyorum&#8221; diye başlayan paragraflarda artık &#8220;İtiraf ediyorum&#8221; cümlesi yerini alıyordu. Ve başladı o gönderilmeyecek son itiraf mektubunu yazmaya&#8230;
 
 <!--more-->

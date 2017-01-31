@@ -1,24 +1,26 @@
 ---
-title: 'Murat Çelik &#8211; Aşkın Elif Hali (Yeni Albüm)'
+title: Murat Çelik &#8211; Aşkın Elif Hali (Yeni Albüm)
+date: 2008-05-13 00:00:00 +03:00
+permalink: "/murat-celik-askin-elif-hali-yeni-album/"
+categories:
+- Müzik
+tags:
+- albüm
+- aşkın elif hali
+- murat çelik
+- Müzik
+- yeni albüm
 author: emrahyumuk
 layout: post
-permalink: /murat-celik-askin-elif-hali-yeni-album/
 enclosure:
-  - |
-    http://www.muratcelik.com.tr/yusufungunlugu.mp3
-    37473435
-    audio/mpeg
+- |
+  http://www.muratcelik.com.tr/yusufungunlugu.mp3
+  37473435
+  audio/mpeg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3981";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364868712";}'
-categories:
-  - Müzik
-tags:
-  - albüm
-  - aşkın elif hali
-  - murat çelik
-  - Müzik
-  - yeni albüm
+- a:3:{s:12:"sayac_toplam";s:4:"3981";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364868712";}
 ---
+
 <img class="alignleft alignnone size-full wp-image-131" style="margin: 5px; float: left;" title="askin-elif-hali" src="http://img247.imageshack.us/img247/143/askinelifhalift1.jpg" alt="aşkın elif hali" width="133" height="111" />Murat Çelik&#8217; in yeni albümü &#8220;Aşkın Elif Hali&#8221;ni <a href="http://www.muratcelik.com.tr" target="_blank">websitesinden</a> ücretsiz indirebilirsiniz.
 
 Uzun süredir beklenen albümünü Murat Çelik ücretsiz olarak websitesinde yayınlıyor. 4 şarkı bulunan albümde her zaman olduğu gibi söz ve müziklerinin hepsi Murat Çelik&#8217; e ait.

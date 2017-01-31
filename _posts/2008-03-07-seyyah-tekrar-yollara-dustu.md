@@ -1,19 +1,21 @@
 ---
 title: Seyyah Tekrar Yollara Düştü.
+date: 2008-03-07 00:00:00 +02:00
+permalink: "/seyyah-tekrar-yollara-dustu/"
+categories:
+- Müzik
+tags:
+- konser
+- murat çelik
+- Müzik
+- seyyah
+- turne
 author: emrahyumuk
 layout: post
-permalink: /seyyah-tekrar-yollara-dustu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1035";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364876485";}'
-categories:
-  - Müzik
-tags:
-  - konser
-  - murat çelik
-  - Müzik
-  - seyyah
-  - turne
+- a:3:{s:12:"sayac_toplam";s:4:"1035";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364876485";}
 ---
+
 <img src="http://img181.imageshack.us/img181/126/m1wf3.jpg" alt="murat çelik" align="left" border="10" height="191" hspace="10" vspace="10" width="126" />
 
 Düş Sokağı Sakini Murat Çelik yeni bir turneye çıkıyor. Turne 8 Mart Cumartesi günü Bolu ile başlıyor.

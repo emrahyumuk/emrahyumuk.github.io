@@ -1,17 +1,19 @@
 ---
-title: 'Bir Gece Masalından&#8230;'
+title: Bir Gece Masalından&#8230;
+date: 2008-09-11 00:00:00 +03:00
+permalink: "/bir-gece-masalindan/"
+categories:
+- Yazılarım
+tags:
+- masal
+- yazı
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /bir-gece-masalindan/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1367";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364885016";}'
-categories:
-  - Yazılarım
-tags:
-  - masal
-  - yazı
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1367";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364885016";}
 ---
+
 <p class="MsoNormal">
   Neden yenilir insan bir gece ansızın kendi masalına? Oysa zaman silmiştir zamansız gelişleri. Bir düş müdür gerçeğe meydan okuyan? Oysa gerçek yıkmıştır bütün hayallerini.
 </p>

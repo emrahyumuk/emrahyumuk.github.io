@@ -1,27 +1,29 @@
 ---
-title: 'C#&#8217; ta For Döngüsü'
+title: C#&#8217; ta For Döngüsü
+date: 2011-01-18 00:00:00 +02:00
+permalink: "/c-sharp-for-dongusu/"
+categories:
+- Programlama
+tags:
+- atama operatörleri
+- C Sharp
+- C sharp dersleri
+- C#
+- c#.net
+- combobox
+- combobox yıl sıralama
+- for döngüsü
+- programlama
+- Visual Studio
+- yazılım
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-for-dongusu/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4918";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364899013";}'
-categories:
-  - Programlama
-tags:
-  - atama operatörleri
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c#.net'
-  - combobox
-  - combobox yıl sıralama
-  - for döngüsü
-  - programlama
-  - Visual Studio
-  - yazılım
+- a:3:{s:12:"sayac_toplam";s:4:"4918";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364899013";}
 ---
+
 For döngüsü ile bir olayın kaç kez gerçekleşeceğini ifade ederiz . For döngüsünde döngü şartlarını üç ifade ile belirleriz. ilk ifade de başlangıç değeri, ikinci döngü koşulu, üçüncü de ise artış miktarını yazarak for döngüsünü oluştururuz.
 
 <pre>for(Başlangıç; Koşul; Artış)

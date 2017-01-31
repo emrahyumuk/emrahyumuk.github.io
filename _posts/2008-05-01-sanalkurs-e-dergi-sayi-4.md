@@ -1,22 +1,24 @@
 ---
-title: 'SanalKurs E-Dergi &#8211; Sayı 4'
+title: SanalKurs E-Dergi &#8211; Sayı 4
+date: 2008-05-01 00:00:00 +03:00
+permalink: "/sanalkurs-e-dergi-sayi-4/"
+categories:
+- İnternet
+tags:
+- dergi
+- dersler
+- e-dergi
+- grafik
+- İnternet
+- sanal
+- sanalkurs
+- web tasarım
 author: emrahyumuk
 layout: post
-permalink: /sanalkurs-e-dergi-sayi-4/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1188";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364876156";}'
-categories:
-  - İnternet
-tags:
-  - dergi
-  - dersler
-  - e-dergi
-  - grafik
-  - İnternet
-  - sanal
-  - sanalkurs
-  - web tasarım
+- a:3:{s:12:"sayac_toplam";s:4:"1188";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364876156";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/sanalkurs4.jpg" alt="sanalkurs e-dergi 4" align="left" border="1" hspace="5" vspace="5" />  
 SanalKurs E-derginin 4. sayısı çıktı. Bu ay yine dopdolu. Dergiyi ücretsiz indirebilirsiniz.
 

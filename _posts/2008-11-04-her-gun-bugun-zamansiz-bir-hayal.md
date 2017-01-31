@@ -1,16 +1,18 @@
 ---
-title: 'Her Gün Bugün &#8211; Zamansız Bir Hayal'
+title: Her Gün Bugün &#8211; Zamansız Bir Hayal
+date: 2008-11-04 00:00:00 +02:00
+permalink: "/her-gun-bugun-zamansiz-bir-hayal/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /her-gun-bugun-zamansiz-bir-hayal/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1045";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364777644";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1045";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364777644";}
 ---
+
 Sanki her şey yanlış gidiyor. Keşke elime bir fırsat daha geçse… Tekrar yazacağım her şeyi yeni baştan. Çalınmış bir senaryo gibi hayatım. Her gün bugün. Geçmiş yüzlerce kez seyrettiğim bir film, gelecek ise hep sil baştan yazdığım. Hiç mi bitmez bu gelecek, belki de yazdığım bu gelecek hiç gelmeyecek.
 
 Atacağı bir sonraki adımı yıllarca düşünen bir adam düşünün. Böyle bir adamın geleceği var mıdır? Ya aynı filmi yüzlerce kez izleyip de içini acıtan o sahneyi değiştirmeyen adama ne demeli? Geçmiş hiç bu kadar acı verir mi insana?

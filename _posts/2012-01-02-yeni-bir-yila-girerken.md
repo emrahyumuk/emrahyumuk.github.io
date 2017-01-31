@@ -1,24 +1,26 @@
 ---
-title: 'Yeni bir yıla girerken&#8230;'
+title: Yeni bir yıla girerken&#8230;
+date: 2012-01-02 00:00:00 +02:00
+permalink: "/yeni-bir-yila-girerken/"
+categories:
+- Yazılarım
+tags:
+- 2012
+- yapılacaklar listesi
+- yeni yıl
+- yılbaşı
 author: emrahyumuk
 layout: post
-permalink: /yeni-bir-yila-girerken/
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
+- 0
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/2012.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/2012.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"944";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364905765";}'
-categories:
-  - Yazılarım
-tags:
-  - 2012
-  - yapılacaklar listesi
-  - yeni yıl
-  - yılbaşı
+- a:3:{s:12:"sayac_toplam";s:3:"944";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364905765";}
 ---
+
 yeni yılın ilk günü, haftaların nasıl pazartesi günleri varsa yılın pazartesi günü gibidir aslında. neye yeni başlıyorsak hep pazartesinden sonra yapacağım deriz ya buna benzer şekilde yeni yılda da yapılacaklar ve yapılmayacaklar listesi hazırlanır yeni yılın ilk gününden itibaren uyulacak olan. belki kafada belki de kağıt üzerinde&#8230;her seneki gibi bu sene de bu listeye uyabileceği umudunu taşır insan. sene sonu geldiğinde önceki listeyi unutmuş, yeni bir liste hazırlarken bulur kendini. geleceğe dair ne kadar çok yalan taşırız sırtımızda. hiçbir zaman gerçekleşmese de düş kurarız. Düş kurmak güzeldir anı kaçırmadığın sürece&#8230; çünkü gelecek şu anda saklıdır.
 
 <!--more-->

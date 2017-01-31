@@ -1,20 +1,22 @@
 ---
-title: 'Youtube&#8217;a Girmek Yasak Kardeşim'
+title: Youtube&#8217;a Girmek Yasak Kardeşim
+date: 2008-05-06 00:00:00 +03:00
+permalink: "/youtubea-girmek-yasak-kardesim/"
+categories:
+- İnternet
+- Yazılarım
+tags:
+- dailymotion
+- İnternet
+- video
+- yasak
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /youtubea-girmek-yasak-kardesim/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2245";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364858605";}'
-categories:
-  - İnternet
-  - Yazılarım
-tags:
-  - dailymotion
-  - İnternet
-  - video
-  - yasak
-  - youtube
+- a:3:{s:12:"sayac_toplam";s:4:"2245";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364858605";}
 ---
+
 <img class="alignleft alignnone" style="margin: 5px; float: left;" src="http://www.emrahyumuk.com/blog/wp-content/uploads/youtube_yasak.gif" alt="youtube" />Youtube yine yasaklandı. herkes bu başlığı atmaktan bıktı. onlar yasaklamaktan bıkmadı. youtube&#8217; un da sütten çıkmış ak kaşık olduğunu düşünmüyorum şahsen. youtube&#8217;tan sitesine video koymuş o kadar blog var o kadar site var. şu anda sitelerdeki hiçbir video açılmıyor. youtube kapanıyor, bir şekilde girmeye çalışıyor insanlar. sonra tekrar açılıyor. bir daha kapanmaz heralde diyorsun. yine her şeyde youtube&#8217; u kullanıyorsun. ve çat youtube tekrar kapanıyor.
 
 herkes yine yasaklayanları konuşuyor. özgür internetten bahsediyor. evet ben de özgür internetten yanayım kafayı kuma gömmenin manası yok tabiki ama bir yerlerde yanlış olan başka şeyler de var.

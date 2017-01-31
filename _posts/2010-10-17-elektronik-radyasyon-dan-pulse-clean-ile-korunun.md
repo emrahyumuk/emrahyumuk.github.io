@@ -1,25 +1,27 @@
 ---
-title: 'Elektronik aletlerin yaydığı radyasyondan &#8220;Pulse Clean&#8221; ile korunun'
+title: Elektronik aletlerin yaydığı radyasyondan &#8220;Pulse Clean&#8221; ile korunun
+date: 2010-10-17 00:00:00 +03:00
+permalink: "/elektronik-radyasyon-dan-pulse-clean-ile-korunun/"
+categories:
+- Diğer
+- Teknoloji
+tags:
+- Bilgisayar
+- cep telefonu
+- elektronik aletler
+- negatif iyon
+- pozitif iyon
+- pulse clean
+- radyasyon
+- turmalin
 author: emrahyumuk
 layout: post
-permalink: /elektronik-radyasyon-dan-pulse-clean-ile-korunun/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulsecleanradyasyon.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pulsecleanradyasyon.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:13006;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366293092;}'
-categories:
-  - Diğer
-  - Teknoloji
-tags:
-  - Bilgisayar
-  - cep telefonu
-  - elektronik aletler
-  - negatif iyon
-  - pozitif iyon
-  - pulse clean
-  - radyasyon
-  - turmalin
+- a:3:{s:12:"sayac_toplam";i:13006;s:11:"sayac_bugun";i:3;s:9:"son_okuma";i:1366293092;}
 ---
+
 Cep telefonlarının, modemlerin, bluetooth özelliği olan cihazların ve aslında tüm elektronik cihazların farklı oranlarda da olsa radyasyon yaydığını biliyoruz. Teknolojinin hayatımızdaki her alanda kullanımıyla radyosyan tehlikesi giderek daha da ciddi bir hal alıyor.
 
 Elektronik aletlerden yayılan bu radyasyon;

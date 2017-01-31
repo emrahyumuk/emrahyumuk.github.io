@@ -1,24 +1,26 @@
 ---
 title: Sanal Kurs E-dergi Sayı 2 Çıktı
+date: 2008-03-16 00:00:00 +02:00
+permalink: "/sanal-kurs-e-dergi-sayi-2-cikti/"
+categories:
+- İnternet
+tags:
+- bilgisayar dersleri
+- e-dergi
+- İnternet
+- sanalkurs
 author: emrahyumuk
 layout: post
-permalink: /sanal-kurs-e-dergi-sayi-2-cikti/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1617";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364760584";}'
+- a:3:{s:12:"sayac_toplam";s:4:"1617";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364760584";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sanalkurs.gif
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/sanalkurs.gif
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - İnternet
-tags:
-  - bilgisayar dersleri
-  - e-dergi
-  - İnternet
-  - sanalkurs
+- 0
 ---
+
 SanalKurs E-derginin 2. sayısı çıktı.  
 **SanalKurs.Net** in hazırladığı e-derginin içeriğinde bilgisayar dersleri, fotoğraf çalışmaları, teknoloji haberleri, röportaj ve sinema haberleri yer alıyor.
 

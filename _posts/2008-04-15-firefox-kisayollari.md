@@ -1,24 +1,26 @@
 ---
 title: Firefox Kısayolları
+date: 2008-04-15 00:00:00 +03:00
+permalink: "/firefox-kisayollari/"
+categories:
+- İnternet
+tags:
+- alt
+- ctrl
+- enter
+- firefox
+- İnternet
+- kısayollar
+- klavye
+- sekme
+- shift
+- tab
 author: emrahyumuk
 layout: post
-permalink: /firefox-kisayollari/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1915";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364870952";}'
-categories:
-  - İnternet
-tags:
-  - alt
-  - ctrl
-  - enter
-  - firefox
-  - İnternet
-  - kısayollar
-  - klavye
-  - sekme
-  - shift
-  - tab
+- a:3:{s:12:"sayac_toplam";s:4:"1915";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364870952";}
 ---
+
 [<img src="http://www.emrahyumuk.com/blog/wp-content/uploads/firefox_kisayol.gif" alt="firefox_kisayol.gif" align="left" border="1" hspace="5" vspace="5" />][1]Firefox ile internette gezinmenizi kolaylaştıracak ve hızlandıracak kısayol tuşları&#8230;
 
 Yeni sekme açma, sekmeler arası geçiş, adres tamamlama vb. işlemleri klavyeden tuş kombinasyonlarıyla daha hızlı bir şekilde yapılıyoruz.

@@ -1,19 +1,21 @@
 ---
-title: 'Hayattan Ne Öğrendim &#8211; Mevlana'
+title: Hayattan Ne Öğrendim &#8211; Mevlana
+date: 2010-12-20 00:00:00 +02:00
+permalink: "/hayattan-ne-ogrendim-mevlana/"
+categories:
+- Edebiyat
+tags:
+- hayattan ne öğrendim
+- mevlana
+- mevlana celaleddin rumi
+- öğrendim
+- şiir
 author: emrahyumuk
 layout: post
-permalink: /hayattan-ne-ogrendim-mevlana/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1629";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903061";}'
-categories:
-  - Edebiyat
-tags:
-  - hayattan ne öğrendim
-  - mevlana
-  - mevlana celaleddin rumi
-  - öğrendim
-  - şiir
+- a:3:{s:12:"sayac_toplam";s:4:"1629";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364903061";}
 ---
+
 &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;.  
 <!--more-->
 

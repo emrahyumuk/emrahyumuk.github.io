@@ -1,27 +1,29 @@
 ---
 title: Pardus 2011 Sorunsuz Kurulum (Resimli Anlatım)
+date: 2011-01-28 00:00:00 +02:00
+permalink: "/pardus-2011-sorunsuz-kurulum-resimli-anlatim/"
+categories:
+- Linux
+tags:
+- disk bölümlendirme
+- harddisk bölümlendirme
+- linux işletim sistemi kurulumu
+- pardus 2011
+- pardus 2011 disk ayırma
+- pardus 2011 easybcd kullanım
+- pardus 2011 kurulum
+- pardus 2011 usb bellekten kurulum
+- pardus kurulum
+- pardus sorunsuz kurulum
+- resimli anlatım
 author: emrahyumuk
 layout: post
-permalink: /pardus-2011-sorunsuz-kurulum-resimli-anlatim/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:45066;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366291587;}'
+- a:3:{s:12:"sayac_toplam";i:45066;s:11:"sayac_bugun";i:1;s:9:"son_okuma";i:1366291587;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
-categories:
-  - Linux
-tags:
-  - disk bölümlendirme
-  - harddisk bölümlendirme
-  - linux işletim sistemi kurulumu
-  - pardus 2011
-  - pardus 2011 disk ayırma
-  - pardus 2011 easybcd kullanım
-  - pardus 2011 kurulum
-  - pardus 2011 usb bellekten kurulum
-  - pardus kurulum
-  - pardus sorunsuz kurulum
-  - resimli anlatım
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
 ---
+
 Çoğu kullanıcı Pardus&#8217;u Windows ile birlikte kullanmaktadır. Pardus gibi herhangi bir Linux işletim sistemini silmeye kalktığımızda veya yerine başka bir işletim sistemi kurmaya kalktığımızda Grub sorunlarıyla karşılaşırız ve Windows&#8217;a ulaşamayız. Sonrasında çeşitli işlemlerle bunu düzeltebiliriz ancak bilmeyen biri bütün harddiske format atabilir. Bu tarz sorunları yaşamamanız için Pardus&#8217;u harddiskin başına değil kurmuş olduğunuz  diskin başına yükleyeceğiz ve Windows üzerinde  EasyBCD programını kullanarak windows&#8217;a ve pardus&#8217;e ulaşabileceğiz. Daha sonrasında Pardus&#8217;un bulunduğu diske format atsak bile windows&#8217;a zarar gelmeyecek. Bu anlatacaklarım bütün Linux işletim sistemlerinin kurulumunda ve kullanımında geçerlidir. Artık istediğiniz kadar Linux işletim sistemi kurup deneyip silebilirsiniz. Hatta iki veya daha fazla işletim sistemi de kullanabilirsiniz. Anlatım biraz uzun olacak ama dikkatli okuyup işlemleri adım adım yaparsanız artık linux aleminde de istediğiniz gibi cirit atmayı öğreneceksiniz.
 
 <!--more-->

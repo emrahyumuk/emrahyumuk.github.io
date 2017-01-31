@@ -1,17 +1,19 @@
 ---
 title: Gecenin Sessizliğinde Faili Meçhul Bir Cinayet
+date: 2011-01-12 00:00:00 +02:00
+permalink: "/gecenin-sessizliginde-faili-mechul-bir-cinayet/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /gecenin-sessizliginde-faili-mechul-bir-cinayet/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:9236;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293186;}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";i:9236;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293186;}
 ---
+
 Zamansız ölümlere açılır ruhum. Ve perde perde seyrederim yokoluşumu bedenimin. Varoluşum yokluğumda saklıdır. Sessiz geçer benim gecem de. Ve benim gecemde bir köpeğin pati sesleri yankılar sokakta. Şaşaalı bir yalnızlık törenin son geçişidir onunki. Sokak, köpek, gece ve ben. Birbirinden habersiz bir kalabalığın ardında kalan yalnızlığını taşırız omuzlarımızda. Kimse şikayetçi değildir halinden. Ne gece sessizliğinden, ne sokak yalnızlığından, ne köpek evsizliğinden, ne de ben çaresizliğimden…
 
 <!--more-->

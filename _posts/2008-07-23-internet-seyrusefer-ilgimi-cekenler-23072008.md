@@ -1,22 +1,24 @@
 ---
-title: 'İnternet Seyrüsefer &#8211; ilgimi çekenler (23.07.2008)'
+title: İnternet Seyrüsefer &#8211; ilgimi çekenler (23.07.2008)
+date: 2008-07-23 00:00:00 +03:00
+permalink: "/internet-seyrusefer-ilgimi-cekenler-23072008/"
+categories:
+- İnternet
+tags:
+- far cry
+- firefox
+- futbol
+- İnternet
+- msn
+- Oyun
+- rapidshare
+- suna pekuysal
 author: emrahyumuk
 layout: post
-permalink: /internet-seyrusefer-ilgimi-cekenler-23072008/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1682";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364868712";}'
-categories:
-  - İnternet
-tags:
-  - far cry
-  - firefox
-  - futbol
-  - İnternet
-  - msn
-  - Oyun
-  - rapidshare
-  - suna pekuysal
+- a:3:{s:12:"sayac_toplam";s:4:"1682";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364868712";}
 ---
+
 bu aralar çok fazla yeni konu açıp yazmaya pek zamanım yok. yaz okulu, sınavlar, sıcak&#8230; hepsi bir arada olunca insanın yazmaya mecali kalmıyor. ama en azından internette dikkatimi çeken bazı başlıkları yayınlayayım dedim.
 
 <!--more-->

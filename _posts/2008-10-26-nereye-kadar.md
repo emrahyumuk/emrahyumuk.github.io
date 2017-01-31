@@ -1,16 +1,18 @@
 ---
-title: 'Nereye Kadar&#8230;'
+title: Nereye Kadar&#8230;
+date: 2008-10-26 00:00:00 +03:00
+permalink: "/nereye-kadar/"
+categories:
+- Yazılarım
+tags:
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /nereye-kadar/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"861";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364829482";}'
-categories:
-  - Yazılarım
-tags:
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:3:"861";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364829482";}
 ---
+
 Kaşılıklı oturdu kendisiyle. Biri aynanın bu tarafında diğeri sanki diğer tarafındaymış gibi. Biri öyle ürkek, öyle çocuk ki; diğeri ise nefret dolu, sanki milyonlarca yıldır o kafeste, bir kaçabilse kafesinden…
 
 Göz göze geldiler, biri ürktü karanlığından, diğerinin gözleri kamaştı aydınlığından. Gece ile gündüz karşılıklı durmuşlar sanki.

@@ -1,25 +1,27 @@
 ---
-title: 'Google Chrome &#8211; Google &#8216;un yeni internet tarayıcısı'
+title: Google Chrome &#8211; Google &#8216;un yeni internet tarayıcısı
+date: 2008-09-03 00:00:00 +03:00
+permalink: "/google-chrome-google-un-yeni-internet-tarayicisi/"
+categories:
+- İnternet
+- Program
+tags:
+- chrome
+- explorer
+- firefox
+- google
+- İnternet
+- opera
+- safari
+- tarayıcı
 author: emrahyumuk
 layout: post
-permalink: /google-chrome-google-un-yeni-internet-tarayicisi/
 yazi_resmi:
-  - http://img78.imageshack.us/img78/1560/googleyw7.jpg
+- http://img78.imageshack.us/img78/1560/googleyw7.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1467";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364908001";}'
-categories:
-  - İnternet
-  - Program
-tags:
-  - chrome
-  - explorer
-  - firefox
-  - google
-  - İnternet
-  - opera
-  - safari
-  - tarayıcı
+- a:3:{s:12:"sayac_toplam";s:4:"1467";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364908001";}
 ---
+
 Google&#8217;un internet tarayıcısı **Google Chrome** hazır.  Şu an beta sürüm olarak olarak dağıtılan tarayıcıda gözümüze neler çarpıyor?
 
 Beta sürümü olmasına rağmen Türkçe dil seçeneğini mevcut. Google ilk defa Türkçe dil seçeneği eklemekte bu kadar hızlı davrandı.

@@ -1,22 +1,24 @@
 ---
 title: 4.Beyoğlu Sahaf Festivali Başladı !
+date: 2010-09-18 00:00:00 +03:00
+permalink: "/4-beyoglu-sahaf-festivali-2010/"
+categories:
+- Kitap
+tags:
+- 2010
+- beyoğlu
+- beyoğlu sahaf festivali
+- kitap
+- sahaf
+- taksim
 author: emrahyumuk
 layout: post
-permalink: /4-beyoglu-sahaf-festivali-2010/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/beyoglu-sahaf.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/beyoglu-sahaf.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1609";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364912367";}'
-categories:
-  - Kitap
-tags:
-  - 2010
-  - beyoğlu
-  - beyoğlu sahaf festivali
-  - kitap
-  - sahaf
-  - taksim
+- a:3:{s:12:"sayac_toplam";s:4:"1609";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364912367";}
 ---
+
 4. Beyoğlu Sahaf Festivali başladı. 14 Eylül 2010 tarihinde başlayan festival 28 Eylül 2010 tarihine kadar devam edecek. Taksim Gezi Parkı&#8217;nda (Taksim meydandaki otobüs duraklarının yanı) bu sene 74 sahafın katıldığı festivale mutlaka gitmenizi tavsiye ederim. Her gün saat 10:30- 24:00 arasında ziyaret edebilirsiniz.
 
 Eski kitaplar, plaklar, fotoğraflar&#8230; Çok eski kitapları bulabileceğiniz gibi, basımı olmayan kitapları da bu festivalde bulabilirsiniz. Hem de çok uygun fiyatlara&#8230;

@@ -1,20 +1,22 @@
 ---
-title: 'Hastalık üzerine&#8230;'
+title: Hastalık üzerine&#8230;
+date: 2012-06-03 00:00:00 +03:00
+permalink: "/hastalik-uzerine/"
+categories:
+- Yazılarım
+tags:
+- gündem
+- hastalık
+- medya
+- siyaset
+- son dakika
+- türkiye
 author: emrahyumuk
 layout: post
-permalink: /hastalik-uzerine/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"20326";s:11:"sayac_bugun";s:2:"26";s:9:"son_okuma";s:10:"1364922622";}'
-categories:
-  - Yazılarım
-tags:
-  - gündem
-  - hastalık
-  - medya
-  - siyaset
-  - son dakika
-  - türkiye
+- a:3:{s:12:"sayac_toplam";s:5:"20326";s:11:"sayac_bugun";s:2:"26";s:9:"son_okuma";s:10:"1364922622";}
 ---
+
 Hastalık giderek yayılıyor. %80&#8242;e ulaşmış durumda. Farkında olanlar durumdan endişeli.
 
 En başta televizyonlardan ve gazetelerden bulaşıyor. Ve celladına aşık olan herkes hastalığında büyük bir aşama kaydetti.

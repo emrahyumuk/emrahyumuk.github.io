@@ -1,21 +1,23 @@
 ---
 title: Neden Hasta Oluruz
+date: 2011-01-08 00:00:00 +02:00
+permalink: "/neden-hasta-oluruz/"
+categories:
+- Diğer
+tags:
+- enerji
+- hasta
+- hastalık
+- hastalıklar
+- neden hasta oluruz
 author: emrahyumuk
 layout: post
-permalink: /neden-hasta-oluruz/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/enerji.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/enerji.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1614";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364803674";}'
-categories:
-  - Diğer
-tags:
-  - enerji
-  - hasta
-  - hastalık
-  - hastalıklar
-  - neden hasta oluruz
+- a:3:{s:12:"sayac_toplam";s:4:"1614";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364803674";}
 ---
+
 Şimdi hayatınıza bir bakın ne durumdasınız?
 
 Mutsuz, acı içinde, üzüntülü, hasta, fakir, terkedilmiş, umutsuz, yaşamla bağlarınız kopmuş ya da her an umut ve neşeyle yaşayan gayet keyifli, zengin sağlıklı, tüm hedeflerinize ve isteklerinize kavuşmuş halde misiniz?  

@@ -1,25 +1,27 @@
 ---
 title: Yazıcı çıktısı 30 cm Cetvel
+date: 2010-10-16 00:00:00 +03:00
+permalink: "/30-cm-cetvel-yazici-cikti/"
+categories:
+- Diğer
+tags:
+- 30 cm
+- 30cm cetvel
+- cetvel
+- çıktı
+- inç
+- ölçü birimi
+- ölçüm
+- santimetre
+- yazıcı
 author: emrahyumuk
 layout: post
-permalink: /30-cm-cetvel-yazici-cikti/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cetvel.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cetvel.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:7223;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366293512;}'
-categories:
-  - Diğer
-tags:
-  - 30 cm
-  - 30cm cetvel
-  - cetvel
-  - çıktı
-  - inç
-  - ölçü birimi
-  - ölçüm
-  - santimetre
-  - yazıcı
+- a:3:{s:12:"sayac_toplam";i:7223;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366293512;}
 ---
+
 Evde veya herhangibir yerde bir şeyin boyunu ölçeceksiniz ama cetvel yok, ya da bulamadınız. O zaman yazıcınız varsa 30cm&#8217;lik bir kağıt cetvel sahibi olabilirsiniz. hem de bir tarafı santimetre diğer tarafı inç olarak ölçüm yapıyor.
 
 her şeyi internetten buluyorsunuz, cetvelinizden internetten olsun <img src='http://www.emrahyumuk.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> işiniz görülsün..

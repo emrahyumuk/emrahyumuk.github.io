@@ -1,47 +1,49 @@
 ---
 title: Haziran 2008 Konser Takvimi
+date: 2008-06-03 00:00:00 +03:00
+permalink: "/haziran-2008-konser-takvimi/"
+categories:
+- Müzik
+tags:
+- Akın Eldes
+- aslı
+- aydilge
+- babazula
+- Bulutsuzluk Özlemi
+- çilekeş
+- dejavu
+- dinar bandosu
+- direc-t
+- duman
+- Emre Aydın
+- Erkin Koray
+- Ezginin Günlüğü
+- festival
+- gevende
+- gripin
+- hasan cihat örter
+- hayko cepkin
+- haziran 2008
+- ihtiyaç molası
+- konser
+- konser takvimi
+- manga
+- mat
+- mor ve ötesi
+- öztürk
+- pentagram
+- pilli bebek
+- pinhani
+- redd
+- teoman
+- üç nokta bir
+- zakkum
 author: emrahyumuk
 layout: post
-permalink: /haziran-2008-konser-takvimi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4340";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909941";}'
-categories:
-  - Müzik
-tags:
-  - Akın Eldes
-  - aslı
-  - aydilge
-  - babazula
-  - Bulutsuzluk Özlemi
-  - çilekeş
-  - dejavu
-  - dinar bandosu
-  - direc-t
-  - duman
-  - Emre Aydın
-  - Erkin Koray
-  - Ezginin Günlüğü
-  - festival
-  - gevende
-  - gripin
-  - hasan cihat örter
-  - hayko cepkin
-  - haziran 2008
-  - ihtiyaç molası
-  - konser
-  - konser takvimi
-  - manga
-  - mat
-  - mor ve ötesi
-  - öztürk
-  - pentagram
-  - pilli bebek
-  - pinhani
-  - redd
-  - teoman
-  - üç nokta bir
-  - zakkum
+- a:3:{s:12:"sayac_toplam";s:4:"4340";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364909941";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;" src="http://img147.imageshack.us/img147/1416/haziran2008or8.jpg" alt="haziran-2008" width="165" height="158" />Haziran 2008 konser takvimi işte karşınızda. Yazla birlikte festivaller de başladı.
 
 Kim nerede konser veriyor?

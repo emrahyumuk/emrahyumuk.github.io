@@ -1,18 +1,20 @@
 ---
-title: 'Tek Başınalık ve Yalnızlık &#8211; Osho'
+title: Tek Başınalık ve Yalnızlık &#8211; Osho
+date: 2010-12-26 00:00:00 +02:00
+permalink: "/tek-basinalik-ve-yalnizlik-osho/"
+categories:
+- Edebiyat
+tags:
+- aşık olmak
+- bhagwan shree rajneesh
+- osho
+- tek başınalık ve yalnızlık
 author: emrahyumuk
 layout: post
-permalink: /tek-basinalik-ve-yalnizlik-osho/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:2627;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290902;}'
-categories:
-  - Edebiyat
-tags:
-  - aşık olmak
-  - bhagwan shree rajneesh
-  - osho
-  - tek başınalık ve yalnızlık
+- a:3:{s:12:"sayac_toplam";i:2627;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366290902;}
 ---
+
 Çok girift, karmaşık bir şeyin anlaşılması gerekiyor: Eğer âşık değilsen yalnızsındır. Eğer âşıksan, gerçekten âşıksan tek başına olursun.
 
 Yalnızlık üzücüdür; tek başınalık üzücü değildir. Yalnızlık bir tamamlanmamışlık duygusudur. Sen birisine ihtiyaç duyarsın ve ihtiyaç duyulan kişi mevcut değildir. Yalnızlık karanlıktır, onda hiç ışık yoktur. Karanlık bir evdir, birisinin gelip ışığı yakmasını beklemek ve beklemektir.

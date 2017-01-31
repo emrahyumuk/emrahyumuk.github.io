@@ -1,13 +1,15 @@
 ---
-title: 'Geçmişten birkaç satır söz&#8230;'
+title: Geçmişten birkaç satır söz&#8230;
+date: 2010-11-10 00:00:00 +02:00
+permalink: "/gecmisten-birkac-satir-soz/"
+categories:
+- Diğer
 author: emrahyumuk
 layout: post
-permalink: /gecmisten-birkac-satir-soz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"658";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364906504";}'
-categories:
-  - Diğer
+- a:3:{s:12:"sayac_toplam";s:3:"658";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364906504";}
 ---
+
 Geçmişten birkaç söz&#8230; Unuttuklarımızı hatırlatmak veya bize hiç söylenmeyenleri inadına tekrar söylemek için&#8230; Sanki dün söylenmiş gibi&#8230; O kadar bugüne ait ve biraz da geleceğe&#8230; Zaman durmuş, ve biz yerimizde saymışız, hatta daha da geriye gitmişiz. İşte bundandır neredeyse bir asır önce söylenen sözün bugün söylenmiş gibi gelişi ve bundandır sanki bugünü ve geleceği anlatıyor gibi gelmesi&#8230; Emrah YUMUK
 
 <!--more-->

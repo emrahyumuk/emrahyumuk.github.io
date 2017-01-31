@@ -1,25 +1,27 @@
 ---
-title: 'HashTab &#8211; MD5 ve SHA-1 Dosya Kontrolü'
+title: HashTab &#8211; MD5 ve SHA-1 Dosya Kontrolü
+date: 2012-05-04 00:00:00 +03:00
+permalink: "/hashtab-iso-md5-ve-sha-1-dosya-kontrolu/"
+categories:
+- Program
+tags:
+- hashtab
+- iso
+- maç
+- md5
+- rar
+- sha-1
+- sha1
+- windows
+- zip
 author: emrahyumuk
 layout: post
-permalink: /hashtab-iso-md5-ve-sha-1-dosya-kontrolu/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/hashtab/HashTab-small.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/hashtab/HashTab-small.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"12799";s:11:"sayac_bugun";s:2:"18";s:9:"son_okuma";s:10:"1364922789";}'
-categories:
-  - Program
-tags:
-  - hashtab
-  - iso
-  - maç
-  - md5
-  - rar
-  - sha-1
-  - sha1
-  - windows
-  - zip
+- a:3:{s:12:"sayac_toplam";s:5:"12799";s:11:"sayac_bugun";s:2:"18";s:9:"son_okuma";s:10:"1364922789";}
 ---
+
 **HashTab**, indirmiş olduğunuz **iso, rar, zip** ve diğer türlerdeki sıkıştırılmış dosyalarınız için **MD5** ve **SHA-1** kontrolü yapabileceğiz ufak bir eklentidir. Çoğu zaman internette iso uzantılı işletim sistemi veya program indirirken MD5 veya SHA1 değerleri verilir.  Verilen bu hash değeri iso dosyasını indirdikten sonra sorunsuz indirildiğini kontrol etmek içindir. Eğer iso dosyası sorunsuz inmişse indirdiğimiz iso dosyasının da **MD5** veya **SHA1** değeri verilenle aynıdır. Farklıysa dosya bozuk inmiştir ve tekrar indirmemiz gerekir.
 
 **HashTab** eklentisi ile indirmiş olduğumuz dosyaya sağ tıklayıp Özelliklere girerek MD5 veya SHA1 kontrolünü yapabilirsiniz.

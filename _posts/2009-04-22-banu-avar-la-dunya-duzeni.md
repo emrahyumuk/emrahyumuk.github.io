@@ -1,26 +1,28 @@
 ---
-title: 'Banu Avar&#8217;la &#8220;Dünya Düzeni&#8221;'
+title: Banu Avar&#8217;la &#8220;Dünya Düzeni&#8221;
+date: 2009-04-22 00:00:00 +03:00
+permalink: "/banu-avar-la-dunya-duzeni/"
+categories:
+- Diğer
+tags:
+- art
+- avrasya
+- banu avar
+- cia
+- dünya düzeni
+- nato
+- obama
+- sevr
+- siyaset
+- türkiye
 author: emrahyumuk
 layout: post
-permalink: /banu-avar-la-dunya-duzeni/
 yazi_resmi:
-  - http://img186.imageshack.us/img186/2927/banuavar.jpg
+- http://img186.imageshack.us/img186/2927/banuavar.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3596";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364919484";}'
-categories:
-  - Diğer
-tags:
-  - art
-  - avrasya
-  - banu avar
-  - cia
-  - dünya düzeni
-  - nato
-  - obama
-  - sevr
-  - siyaset
-  - türkiye
+- a:3:{s:12:"sayac_toplam";s:4:"3596";s:11:"sayac_bugun";s:1:"4";s:9:"son_okuma";s:10:"1364919484";}
 ---
+
 **Banu Avar**, Avrasya Televizyonu&#8217;nda (art) yayınlanan **Dünya Düzeni**&#8216;nde çeşitli ülkelerin ve Türkiye tarihininin kavşak noktalarına mercek tutuyor. Zalimlerden, mazlumlardan ve direnenlerden sözediyor. Nasıl bir dünya düzeni kurulmuş, kimler bu düzeni kuruyor, kimler kurulan düzenin altında yok oluyor? Amerikan tertibi &#8216;yeni dünya düzeni&#8217; acaba eskidi mi?
 
 **Banu Avar&#8217;la &#8216;Dünya Düzeni&#8217;**, dünyaya egemen olmak isteyenlerin sisli planlarından örnekler sunuyor. Batının hayatımıza koyduğu ambargoları ekrana getiriyor…

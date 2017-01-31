@@ -1,22 +1,24 @@
 ---
-title: '1 Mart &#8211; üçüncü başlangıç'
+title: 1 Mart &#8211; üçüncü başlangıç
+date: 2009-03-01 00:00:00 +02:00
+permalink: "/1-mart-ucuncu-baslangic/"
+categories:
+- Bilgisayar
+- Yazılarım
+tags:
+- blog
+- seyir defterim
+- website
+- yazı
+- Yazılarım
+- yeni
+- yenilikler
 author: emrahyumuk
 layout: post
-permalink: /1-mart-ucuncu-baslangic/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"965";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364912985";}'
-categories:
-  - Bilgisayar
-  - Yazılarım
-tags:
-  - blog
-  - seyir defterim
-  - website
-  - yazı
-  - Yazılarım
-  - yeni
-  - yenilikler
+- a:3:{s:12:"sayac_toplam";s:3:"965";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364912985";}
 ---
+
 ilk başlangıcı Ocak ayında seyir defterimle bu blog macerasına girerek yapmıştım. ikinci başlangıç 1 Eylül 2008&#8242;de çok farklı bir tasarım ve anlayışla geldi. ve şimdi de üçüncü başlangıç 1 Mart 2009&#8242;da geliyor. yine değişim başlıyor. Bu değişimlere alışacağız artık.
 
 aslında yeni yıl yeni bir başlangıç deyip en azından şu yazılarımı sıklaştırmayı düşünüyordum ama işler pek de istediğim gibi gitmedi. 1 sene önce başladığım blog maceramda yazılarımın seyrekliğinden dolayı eleştirildim hep. Hala daha sıklaştıramadım. ama olacak siz merak etmeyin.

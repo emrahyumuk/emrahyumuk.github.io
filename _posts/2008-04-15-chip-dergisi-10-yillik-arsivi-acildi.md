@@ -1,20 +1,22 @@
 ---
 title: Chip Dergisi 10 Yıllık Arşivi Açıldı
+date: 2008-04-15 00:00:00 +03:00
+permalink: "/chip-dergisi-10-yillik-arsivi-acildi/"
+categories:
+- İnternet
+tags:
+- arama
+- arşiv
+- Bilgisayar
+- chip
+- dergi
+- İnternet
 author: emrahyumuk
 layout: post
-permalink: /chip-dergisi-10-yillik-arsivi-acildi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3287";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364880495";}'
-categories:
-  - İnternet
-tags:
-  - arama
-  - arşiv
-  - Bilgisayar
-  - chip
-  - dergi
-  - İnternet
+- a:3:{s:12:"sayac_toplam";s:4:"3287";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364880495";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/chip.jpg" alt="chip.jpg" align="left" border="1" hspace="5" vspace="5" />1996&#8242;dan 2006 yılına kadar olan Chip Dergisi arşivi paylaşıma açıldı. Bölüm bölüm pdf halinde açılan arşivden isteğimiz sayıdaki istediğimiz bölümü pdf halinde indirebiliyoruz.
 
 Ayrıca tam metin arama seçeneğiyle arşivde arama yapabiliyoruz.

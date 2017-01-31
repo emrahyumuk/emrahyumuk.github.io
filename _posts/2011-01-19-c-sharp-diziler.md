@@ -1,26 +1,28 @@
 ---
-title: 'C#&#8217; ta Diziler'
+title: C#&#8217; ta Diziler
+date: 2011-01-19 00:00:00 +02:00
+permalink: "/c-sharp-diziler/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- c sharp diziler
+- C#
+- c#.net
+- çok boyutlu diziler
+- diziler
+- matris
+- sayısal loto
+- tek boyutlu diziler
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-diziler/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2942";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366289300";}'
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - c sharp diziler
-  - 'C#'
-  - 'c#.net'
-  - çok boyutlu diziler
-  - diziler
-  - matris
-  - sayısal loto
-  - tek boyutlu diziler
+- a:3:{s:12:"sayac_toplam";s:4:"2942";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366289300";}
 ---
+
 Matematikteki &#8220;Matris&#8221; olayına C#&#8217;ta &#8220;Diziler&#8221; diyoruz. Sadece bir satır veya sadece bir sütundan oluşan matrise tek boyutlu dizi, satır ve sütunlardan oluşan matrislere çok boyutlu diziler diyoruz. Matris konusuna **<a href="http://tr.wikipedia.org/wiki/Matris_(matematik)" target="_blank">buradan</a>** göz atabilirsiniz.  
 <!--more-->
 

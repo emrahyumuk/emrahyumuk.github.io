@@ -1,24 +1,26 @@
 ---
 title: Dizüstü Bilgisayar İncelemeleri (Fiyat/Performans)
+date: 2009-04-17 00:00:00 +03:00
+permalink: "/dizustu-bilgisayar-incelemeleri-fiyatperformans/"
+categories:
+- Bilgisayar
+tags:
+- Bilgisayar
+- centrino2
+- dizüstü
+- ekran kartı
+- intel
+- işlemci
+- laptop
+- notebook
 author: emrahyumuk
 layout: post
-permalink: /dizustu-bilgisayar-incelemeleri-fiyatperformans/
 yazi_resmi:
-  - http://img253.imageshack.us/img253/9733/laptopb.jpg
+- http://img253.imageshack.us/img253/9733/laptopb.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1540";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921821";}'
-categories:
-  - Bilgisayar
-tags:
-  - Bilgisayar
-  - centrino2
-  - dizüstü
-  - ekran kartı
-  - intel
-  - işlemci
-  - laptop
-  - notebook
+- a:3:{s:12:"sayac_toplam";s:4:"1540";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364921821";}
 ---
+
 Dizüstü bilgisayarlarda işlemci ve özellikle de ekran kartı modelleri çok kafa karıştırıyor. 3 boyutlu çizim programları ya da oyun için bilgisayar alacaksaksanız ekran kartının önemi daha da artıyor. fiyat olarak 1200-1800 TL civarındaki dizüstü bilgisayarları inceledim.
 
 işlemci için <a href="http://processorfinder.intel.com/List.aspx?ParentRadio=All&ProcFam=2643&SearchKey=" target="_blank">buradaki</a>, ekran kartı için ise <a href="http://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html" target="_blank">buradaki</a> tablolardan yararlandım.

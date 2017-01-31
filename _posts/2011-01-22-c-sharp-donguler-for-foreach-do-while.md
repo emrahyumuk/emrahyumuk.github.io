@@ -1,28 +1,30 @@
 ---
-title: 'C#&#8217; ta Döngüler (for-foreach-do-while)'
+title: C#&#8217; ta Döngüler (for-foreach-do-while)
+date: 2011-01-22 00:00:00 +02:00
+permalink: "/c-sharp-donguler-for-foreach-do-while/"
+categories:
+- Programlama
+tags:
+- C Sharp
+- C sharp dersleri
+- C#
+- c# döngüler
+- c# örnekler
+- c#.net
+- do while döngüsü
+- döngüler
+- for döngüsü
+- foreach döngüsü
+- programlama
+- while döngüsü
 author: emrahyumuk
 layout: post
-permalink: /c-sharp-donguler-for-foreach-do-while/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:2873;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293381;}'
+- a:3:{s:12:"sayac_toplam";i:2873;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366293381;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
-categories:
-  - Programlama
-tags:
-  - C Sharp
-  - C sharp dersleri
-  - 'C#'
-  - 'c# döngüler'
-  - 'c# örnekler'
-  - 'c#.net'
-  - do while döngüsü
-  - döngüler
-  - for döngüsü
-  - foreach döngüsü
-  - programlama
-  - while döngüsü
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/csharp.png
 ---
+
 Daha önce for döngüsünü **<a href="http://www.emrahyumuk.com/c-sharp-for-dongusu/" target="_blank">burada</a>** anlatmıştım. Şimdi is foreach, while, do-while döngülerini göreceğiz ve for döngüsü ile bu döngüleri karşılaştıracağız.
 
 <!--more-->

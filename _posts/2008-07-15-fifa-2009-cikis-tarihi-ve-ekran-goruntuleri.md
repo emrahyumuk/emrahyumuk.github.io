@@ -1,19 +1,21 @@
 ---
 title: Fifa 2009 Çıkış Tarihi ve Ekran Görüntüleri
+date: 2008-07-15 00:00:00 +03:00
+permalink: "/fifa-2009-cikis-tarihi-ve-ekran-goruntuleri/"
+categories:
+- Oyun
+tags:
+- ea sports
+- fifa
+- fifa 2009
+- fifa09
+- Oyun
 author: emrahyumuk
 layout: post
-permalink: /fifa-2009-cikis-tarihi-ve-ekran-goruntuleri/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:5:"42737";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364909437";}'
-categories:
-  - Oyun
-tags:
-  - ea sports
-  - fifa
-  - fifa 2009
-  - fifa09
-  - Oyun
+- a:3:{s:12:"sayac_toplam";s:5:"42737";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364909437";}
 ---
+
 [<img style="margin: 5px;" src="http://img516.imageshack.us/img516/8558/fifa09logooc5.jpg" alt="fifa 2009 09 çıkış tarihi ekran görüntüleri resimler fotoğraflar" width="360" height="88" />][1]
 
 Fifa 2009 &#8216;un çıkış tarihi belli oldu. 14 Ekim 2008 gibi çıkacak. Bu sefer diğer fifalardan çok farklı olacağı söyleniyor. easport ilk defa fifa09 da nextgen teknolojisini kullanacak. Bu demek oluyor ki daha gerçekçi daha yüksek kaliteli bir fifa 09 bizi bekliyor.

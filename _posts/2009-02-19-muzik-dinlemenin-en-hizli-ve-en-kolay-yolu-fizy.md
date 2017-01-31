@@ -1,23 +1,25 @@
 ---
-title: 'Müzik Dinlemenin En Hızlı ve En Kolay Yolu &#8211; Fizy.com'
+title: Müzik Dinlemenin En Hızlı ve En Kolay Yolu &#8211; Fizy.com
+date: 2009-02-19 00:00:00 +02:00
+permalink: "/muzik-dinlemenin-en-hizli-ve-en-kolay-yolu-fizy/"
+categories:
+- Diğer
+tags:
+- dinle
+- fizy
+- İnternet
+- izle
+- Müzik
+- video
 author: emrahyumuk
 layout: post
-permalink: /muzik-dinlemenin-en-hizli-ve-en-kolay-yolu-fizy/
 yazi_resmi:
-  - http://img410.imageshack.us/img410/6182/fizyef5.jpg
-  - http://img410.imageshack.us/img410/6182/fizyef5.jpg
+- http://img410.imageshack.us/img410/6182/fizyef5.jpg
+- http://img410.imageshack.us/img410/6182/fizyef5.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"2122";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364788136";}'
-categories:
-  - Diğer
-tags:
-  - dinle
-  - fizy
-  - İnternet
-  - izle
-  - Müzik
-  - video
+- a:3:{s:12:"sayac_toplam";s:4:"2122";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364788136";}
 ---
+
 internet üzerinden en kolay şekilde şarkı dinleyip video izlemek istiyorsanız artık <a href="http://fizy.com/" target="_blank"><strong>fizy.com</strong></a> var. arama kutusuna dinlemek istediğiniz şarkıyı yazıp arama yaptığınızda youtube, dailymotion gibi 50&#8242;den fazla video sitesinde arama yapılıyor. video sitelerine gitmeden direkt bu site üzerinden şarkıyı dinleyebiliyorsunuz ve isterseniz videosunu da seyredebiliyorsunuz.
 
 <!--more-->

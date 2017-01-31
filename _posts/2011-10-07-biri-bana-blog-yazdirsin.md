@@ -1,13 +1,15 @@
 ---
 title: Biri Bana Blog Yazdırsın
+date: 2011-10-07 00:00:00 +03:00
+permalink: "/biri-bana-blog-yazdirsin/"
+categories:
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /biri-bana-blog-yazdirsin/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1375";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364844055";}'
-categories:
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1375";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364844055";}
 ---
+
 Uzun uzun bir aradan sonra tekrar yazmak&#8230; Özlemişim gerçekten. Ama ne yapayım düzenli blog yazmaya bir türlü alışamadım. Zamanım yok, çalışıyorum gibi gereksiz yalanlar atmayacağım, biraz soğumuştum ısınma çalışmalarına başlıyorum sadece. Bu arada neler olmuş bi bakalım.
 
 Kendime Asp.Net MVC ile websitesi yapma planlarım vardı. Biraz acele davranıp linux hosting&#8217;ten windows hosting&#8217;e geçtim. Ve normal olarak wordpress&#8217;te sorunlar yaşadım. Sayfadaki her yazının adresinin başında index.php yazmasının nedeni de buydu. Ve asıl büyük sorun sitenin çok yavaş açılmasıydı tabi. Bir de google&#8217;da da gözden düşünce ziyaretçi sayım epey aşağılara indi. Tabi bu sorunlar beni yazmaktan soğuttu biraz. Uzun bir süre yazmaya ara verdim. -Ki zaten ne yazıyordun ki- derseniz de hakkınız yok değil:)

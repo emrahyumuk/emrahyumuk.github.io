@@ -1,17 +1,19 @@
 ---
 title: Dağ evinde bir yalnızlık şarkısı
+date: 2010-08-25 00:00:00 +03:00
+permalink: "/dag-evinde-bir-yalnizlik-sarkisi/"
+categories:
+- Yazılarım
+tags:
+- deneme
+- emrah yumuk
+- Yazılarım
 author: emrahyumuk
 layout: post
-permalink: /dag-evinde-bir-yalnizlik-sarkisi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1028";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364826246";}'
-categories:
-  - Yazılarım
-tags:
-  - deneme
-  - emrah yumuk
-  - Yazılarım
+- a:3:{s:12:"sayac_toplam";s:4:"1028";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364826246";}
 ---
+
 Hiç tanımadığın birinden cevap beklerken yakalamak kendini… Yalnızlığın en acımasız hali bir gece vakti esir alır. Acıtır en derinden. Kim olduğunun ne olduğunun önemi yok. Yanımda ol yeter. Sessiz bir ölüm gibidir gece ve yalnızlık. Biri çöker diğeri can alır. Bir cesetten fazlasını bulamazsın yalnız olanda.
 
 Hiç tanımadım seni. Alt üstü birkaç mesaj mı beni sana bağlayan. Bu kadar muhtaç olur mu insan kalabalığa. Bir kişilik kalabalıklar bir kişinin yalnızlığını alır gider ya işte öyle bir şey senden gelecek cevap da. Bir fotoğraf yalnızlığı olsa gerek bunun adı. Bakarken özlemek yoksun diye hiç tanımadan da olsa.

@@ -1,26 +1,28 @@
 ---
 title: USB Flash Bellekten Windows XP Kurulumu (Bootable USB Windows XP)
+date: 2011-03-09 00:00:00 +02:00
+permalink: "/usb-flash-bellekten-windows-xp-kurulumu-bootable/"
+categories:
+- Bilgisayar
+tags:
+- flash bellek
+- resimli anlatım
+- usb bellek
+- win setup from usb
+- Win Setup From USb 1.0
+- windows xp
+- windows xp bootable usb
+- windows xp usb kurulum
+- windows xp usb kurulum resimli anlatım
+- winsetupfromusb
 author: emrahyumuk
 layout: post
-permalink: /usb-flash-bellekten-windows-xp-kurulumu-bootable/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/windowsxp-usb.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/windowsxp-usb.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:110090;s:11:"sayac_bugun";i:12;s:9:"son_okuma";i:1366294287;}'
-categories:
-  - Bilgisayar
-tags:
-  - flash bellek
-  - resimli anlatım
-  - usb bellek
-  - win setup from usb
-  - Win Setup From USb 1.0
-  - windows xp
-  - windows xp bootable usb
-  - windows xp usb kurulum
-  - windows xp usb kurulum resimli anlatım
-  - winsetupfromusb
+- a:3:{s:12:"sayac_toplam";i:110090;s:11:"sayac_bugun";i:12;s:9:"son_okuma";i:1366294287;}
 ---
+
 Netbook&#8217;unuza veya cdrom&#8217;u olmayan eski bilgisayarlarınıza flash bellek ile windows xp kurmak istiyorsanız, size sorunsuz ve kolay bir şekilde nasıl bootable windows xp hazırlanıp nasıl kurulum yapacağınızı anlatacağım.
 
 İlk önce**[ buradan][1]** WinSetupFromUSB programını indiriyoruz. Bilgisayarımızdaki Windows XP iso dosyasının içindekileri bir klasöre çıkartıyoruz veya kopyalıyoruz. Mesela masaüstünde xp isimli bir klasöre bu dosyaları çıkartabilirsiniz.

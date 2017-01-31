@@ -1,32 +1,34 @@
 ---
 title: Myspace, Youtube vb. sitelerden mp3 veya video indirme
+date: 2008-04-08 00:00:00 +03:00
+permalink: "/myspace-vb-sitelerden-mp3-veya-video-indirme/"
+categories:
+- İnternet
+tags:
+- avi
+- dosya
+- download
+- file2hd
+- flash
+- flv
+- get file
+- indirme
+- İnternet
+- mp3
+- Müzik
+- myspace
+- ses
+- swf
+- uygulama
+- video
+- wav
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /myspace-vb-sitelerden-mp3-veya-video-indirme/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3093";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364908065";}'
-categories:
-  - İnternet
-tags:
-  - avi
-  - dosya
-  - download
-  - file2hd
-  - flash
-  - flv
-  - get file
-  - indirme
-  - İnternet
-  - mp3
-  - Müzik
-  - myspace
-  - ses
-  - swf
-  - uygulama
-  - video
-  - wav
-  - youtube
+- a:3:{s:12:"sayac_toplam";s:4:"3093";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364908065";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/download.jpg" alt="download.jpg" align="left" border="1" hspace="5" vspace="5" />Myspace&#8217; te dinlediğimiz bir şarkıyı çok beğendik indirmek istiyoruz. Ya da herhangi bir websitesinde çalan bir müziği, oynayan videoyu, uygulamayı, flash dosyasını indirmek istiyoruz.
 
 İşte çözüm: **file2hd.com**

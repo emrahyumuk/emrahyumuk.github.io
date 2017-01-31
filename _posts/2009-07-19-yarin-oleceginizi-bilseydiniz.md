@@ -1,13 +1,16 @@
 ---
-title: Yarın öleceğinizi bilseydiniz, bugün vermek zorunda olduğunuz son derste ne anlatırdınız?
+title: Yarın öleceğinizi bilseydiniz, bugün vermek zorunda olduğunuz son derste ne
+  anlatırdınız?
+date: 2009-07-19 00:00:00 +03:00
+permalink: "/yarin-oleceginizi-bilseydiniz/"
+categories:
+- Diğer
 author: emrahyumuk
 layout: post
-permalink: /yarin-oleceginizi-bilseydiniz/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1213";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364750945";}'
-categories:
-  - Diğer
+- a:3:{s:12:"sayac_toplam";s:4:"1213";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364750945";}
 ---
+
 Az sonra izleyeceğiniz video, A.B.D.de Carnegie Mellon Üniversitesi’nde her sene akademik bir gelenek olarak yapılan bir konuşmayla ilgili. Filmin konusu da şu;  Öleceğinizi bildiğinizi ve son bir dersinizin kaldığını varsayalım. Öğrencilerinize ne söylerdiniz?
 
 İşin ilginç tarafı ölümcül kanser hastası olan Prof. Randy Pausch için bu durum bir varsayım değil, bir gerçek. Sizce son dersinde neler söylemiş olabilir?

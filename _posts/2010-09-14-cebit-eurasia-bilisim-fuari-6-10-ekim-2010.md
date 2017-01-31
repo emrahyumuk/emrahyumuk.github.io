@@ -1,23 +1,25 @@
 ---
 title: Cebit Eurasia Bilişim Fuarı / 6-10 Ekim 2010
+date: 2010-09-14 00:00:00 +03:00
+permalink: "/cebit-eurasia-bilisim-fuari-6-10-ekim-2010/"
+categories:
+- Teknoloji
+tags:
+- bilişim fuarı
+- cebit
+- cebit eurasia 2010
+- fuar
+- fuar haritası
+- salon planı
+- tüyap
 author: emrahyumuk
 layout: post
-permalink: /cebit-eurasia-bilisim-fuari-6-10-ekim-2010/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cebit.png
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/cebit.png
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"995";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364918267";}'
-categories:
-  - Teknoloji
-tags:
-  - bilişim fuarı
-  - cebit
-  - cebit eurasia 2010
-  - fuar
-  - fuar haritası
-  - salon planı
-  - tüyap
+- a:3:{s:12:"sayac_toplam";s:3:"995";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364918267";}
 ---
+
 Bu sene Cebit Bilişim Fuarı 6-10 Ekim tarihleri arasında yine aynı yerde Tüyap Fuar ve Kongre Merkezi&#8217;nde&#8230; Biletler 20 TL, biletleri fuar alanından temin edebilirsiniz.
 
 Fuara gideceklere tavsiyem yanınızda bir haritayla gezin, neyin nerde olduğunu bilin. Fuar günü gazeteler salon planı, fuar haritası veriyor.

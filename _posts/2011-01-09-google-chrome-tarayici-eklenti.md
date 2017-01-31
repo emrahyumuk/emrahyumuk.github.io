@@ -1,15 +1,17 @@
 ---
-title: 'Google Chrome&#8217;a geçerken&#8230;'
+title: Google Chrome&#8217;a geçerken&#8230;
+date: 2011-01-09 00:00:00 +02:00
+permalink: "/google-chrome-tarayici-eklenti/"
+categories:
+- İnternet
 author: emrahyumuk
 layout: post
-permalink: /google-chrome-tarayici-eklenti/
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/chrome.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/chrome.jpg
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:3:"868";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364763206";}'
-categories:
-  - İnternet
+- a:3:{s:12:"sayac_toplam";s:3:"868";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364763206";}
 ---
+
 Firefox&#8217;un yavaşlığı ve sürekli kasılıp kalmasından dolayı Chrome, Opera ve Safari gibi tarayıcıları takip ediyordum. Arada Google Chrome&#8217;u kullansam da  işimi çok kolaylaştıran eklentileri yüzünden Firefox&#8217;u bir türlü bırakamıyordum. Benim gibi tek pencerede onlarca sekme açan biri için Firefox&#8217;un suyu ısınıyordu.
 
 Firefox&#8217;u tamamen bırakabilmem için geçeceğim tarayıcının firefox&#8217;taki eklentileri bana sağlaması gerekiyordu. Ben de Google Chrome&#8217;un Uzantılar adıyla sunduğu eklentilere göz attım. Ve kullandığım eklentilerin hepsinin ya aynısını ya da benzerlerini buldum, hatta daha fazlasını da&#8230;

@@ -1,20 +1,22 @@
 ---
-title: '3 Boyutlu Televizyonlar -3D TV- Hakkında Her Şey'
+title: 3 Boyutlu Televizyonlar -3D TV- Hakkında Her Şey
+date: 2010-08-20 00:00:00 +03:00
+permalink: "/3-boyutlu-televizyonlar-3d-tv-hakkinda/"
+categories:
+- Teknoloji
+tags:
+- 3 boyutlu
+- 3d
+- 3d tv
+- hd tv
+- Teknoloji
+- televizyon
 author: emrahyumuk
 layout: post
-permalink: /3-boyutlu-televizyonlar-3d-tv-hakkinda/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4592";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364918478";}'
-categories:
-  - Teknoloji
-tags:
-  - 3 boyutlu
-  - 3d
-  - 3d tv
-  - hd tv
-  - Teknoloji
-  - televizyon
+- a:3:{s:12:"sayac_toplam";s:4:"4592";s:11:"sayac_bugun";s:1:"3";s:9:"son_okuma";s:10:"1364918478";}
 ---
+
 <p style="text-align: center;">
   <img class="aligncenter" title="3d tv 3 boyutlu televizyonlar" src="http://a.imageshack.us/img823/132/3dtvq.jpg" alt="" width="280" height="168" />
 </p>

@@ -1,32 +1,34 @@
 ---
 title: Pardus 2011′i USB Belleklere Yazdırmak
+date: 2011-01-25 00:00:00 +02:00
+permalink: "/pardus-2011-usb-flash-bellek-yazdirmak/"
+categories:
+- Linux
+tags:
+- bootable usb
+- dd
+- dd uygulaması
+- flash bellek
+- flash bellek kurulum
+- işletim sistemi
+- linux
+- pardus
+- pardus 2011
+- pardus 2011 flash bellek yazdırma
+- usb bellek
+- usb bellek kurulum
 author: emrahyumuk
 layout: post
-permalink: /pardus-2011-usb-flash-bellek-yazdirmak/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:10557;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366294204;}'
+- a:3:{s:12:"sayac_toplam";i:10557;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366294204;}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/pardus2011.jpg
 Hide SexyBookmarks:
-  - 0
+- 0
 Hide OgTags:
-  - 0
-categories:
-  - Linux
-tags:
-  - bootable usb
-  - dd
-  - dd uygulaması
-  - flash bellek
-  - flash bellek kurulum
-  - işletim sistemi
-  - linux
-  - pardus
-  - pardus 2011
-  - pardus 2011 flash bellek yazdırma
-  - usb bellek
-  - usb bellek kurulum
+- 0
 ---
+
 Dvd kopyalamak yerine usb belleklere pardus 2011&#8242;i kolay bir şekilde yazdırabilirsiniz. Özellikle netbooklara Pardus kuracaksanız usb belleğe yazdırmanız gerekmektedir.
 
 Pardus 2011&#8242;i indirmediyseniz **[buradan][1]** indiriniz.

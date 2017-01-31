@@ -1,33 +1,35 @@
 ---
-title: '2008 Blog Ödülleri &#8211; Oylama Başladı'
+title: 2008 Blog Ödülleri &#8211; Oylama Başladı
+date: 2008-04-21 00:00:00 +03:00
+permalink: "/2008-blog-odulleri-oylama-basladi/"
+categories:
+- İnternet
+tags:
+- 2008
+- blog ödülleri
+- bloglar
+- Eğlence
+- Haber Gündem
+- Hobi
+- İnternet
+- İş Dünyası
+- kategori
+- Kişisel
+- Komünite
+- Kültür Sanat
+- oy
+- oylama
+- Pazarlama
+- reklam
+- Spor
+- Teknoloji
+- Topluluk
 author: emrahyumuk
 layout: post
-permalink: /2008-blog-odulleri-oylama-basladi/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3042";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288581";}'
-categories:
-  - İnternet
-tags:
-  - 2008
-  - blog ödülleri
-  - bloglar
-  - Eğlence
-  - Haber Gündem
-  - Hobi
-  - İnternet
-  - İş Dünyası
-  - kategori
-  - Kişisel
-  - Komünite
-  - Kültür Sanat
-  - oy
-  - oylama
-  - Pazarlama
-  - reklam
-  - Spor
-  - Teknoloji
-  - Topluluk
+- a:3:{s:12:"sayac_toplam";s:4:"3042";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366288581";}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/blogodullerilogo.jpg" align="left" border="1" height="102" hspace="5" vspace="5" width="177" />2008 Blog Ödülleri için oylama başladı.
 
 Eğlence, Haber Gündem, Hobi, İş Dünyası, Kişisel, Komünite/Topluluk, Kültür Sanat, Reklam/Pazarlama, Spor, Teknoloji olmak üzeri 10 kategoride yapılan oylamaya siz de katılabilirsiniz.

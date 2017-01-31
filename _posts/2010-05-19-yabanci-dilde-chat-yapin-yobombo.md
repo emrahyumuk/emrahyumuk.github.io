@@ -1,24 +1,26 @@
 ---
-title: '50’den fazla yabancı dilde chat yapın &#8211; Yobombo.com'
+title: 50’den fazla yabancı dilde chat yapın &#8211; Yobombo.com
+date: 2010-05-19 00:00:00 +03:00
+permalink: "/yabanci-dilde-chat-yapin-yobombo/"
+categories:
+- İnternet
+tags:
+- almanca
+- arkadaş
+- chat
+- ingilizce
+- rusça
+- sohbet
+- türkçe
+- website
+- yabancı dil
+- yobombo
 author: emrahyumuk
 layout: post
-permalink: /yabanci-dilde-chat-yapin-yobombo/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"1954";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364848960";}'
-categories:
-  - İnternet
-tags:
-  - almanca
-  - arkadaş
-  - chat
-  - ingilizce
-  - rusça
-  - sohbet
-  - türkçe
-  - website
-  - yabancı dil
-  - yobombo
+- a:3:{s:12:"sayac_toplam";s:4:"1954";s:11:"sayac_bugun";s:1:"2";s:9:"son_okuma";s:10:"1364848960";}
 ---
+
 <p style="text-align: center;">
   <p style="text-align: center;">
     <img class="  aligncenter" title="yobombo.com - 50'den fazla yabancı dilde chat yapın" src="http://img203.imageshack.us/img203/4489/yobombo.jpg" alt="yobombo.com - 50'den fazla yabancı dilde chat yapın" width="368" height="89" />

@@ -1,24 +1,26 @@
 ---
 title: Gitar Dersleri (yeni başlayanlar için)
+date: 2008-04-24 00:00:00 +03:00
+permalink: "/gitar-dersleri-yeni-baslayanlar-icin/"
+categories:
+- Müzik
+tags:
+- Akor
+- Arpej
+- Bare
+- Genel Bilgi
+- gitar
+- Gitar Dersleri
+- gitarın akordu
+- Gitarın Bölümleri
+- Müzik
+- tab
 author: emrahyumuk
 layout: post
-permalink: /gitar-dersleri-yeni-baslayanlar-icin/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:87990;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366294902;}'
-categories:
-  - Müzik
-tags:
-  - Akor
-  - Arpej
-  - Bare
-  - Genel Bilgi
-  - gitar
-  - Gitar Dersleri
-  - gitarın akordu
-  - Gitarın Bölümleri
-  - Müzik
-  - tab
+- a:3:{s:12:"sayac_toplam";i:87990;s:11:"sayac_bugun";i:2;s:9:"son_okuma";i:1366294902;}
 ---
+
 <img src="http://www.emrahyumuk.com/blog/wp-content/uploads/gitarci.jpg" border="1" alt="gitarci.jpg" hspace="5" vspace="5" align="left" /><a href="http://www.emrahyumuk.com" target="_blank">Websitem</a>de daha önce gitar dersleri bölümü vardı. Yeni tasarımda bu bölümü kaldırdım. Oradaki gitar derslerini bu yazıda vereceğim.
 
 **İçerik:** Genel Bilgi, Gitarın Bölümleri, Gitarın Akordu, Tab Nasıl Okunur?, Akor ve Akorların Çalınması, Bare, Arpej ve Diğer&#8230;

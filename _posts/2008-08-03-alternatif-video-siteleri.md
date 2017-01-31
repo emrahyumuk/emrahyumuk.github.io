@@ -1,27 +1,29 @@
 ---
 title: Alternatif Video Siteleri
+date: 2008-08-03 00:00:00 +03:00
+permalink: "/alternatif-video-siteleri/"
+categories:
+- İnternet
+tags:
+- alternatif
+- blip
+- dailymotion
+- google
+- İnternet
+- izlesene
+- jumpcut
+- metacafe
+- myvideo
+- revver
+- timsah
+- video
+- youtube
 author: emrahyumuk
 layout: post
-permalink: /alternatif-video-siteleri/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"3593";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364909208";}'
-categories:
-  - İnternet
-tags:
-  - alternatif
-  - blip
-  - dailymotion
-  - google
-  - İnternet
-  - izlesene
-  - jumpcut
-  - metacafe
-  - myvideo
-  - revver
-  - timsah
-  - video
-  - youtube
+- a:3:{s:12:"sayac_toplam";s:4:"3593";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1364909208";}
 ---
+
 <img class="alignleft" style="margin: 5px; float: left;"  title="video siteleri" src="http://img392.imageshack.us/img392/5596/videouf9.gif" alt="" width="215" height="151" />Youtube&#8217; tan sonra Dailymotion&#8217;un da kapanması nereye el atsak kuruyacağının göstergesi oldu. Daha önce bir yazımda youtube&#8217;un alternatifi olarak dailymotion&#8217;ı göstermiştim ama onun da kapanması çok fazla gecikmedi. Meğer başında sopayla bekliyorlarmış zaten.
 
 Bu sefer birden fazla video sitesi seçeneği sunacağım. Biri kapanırsa diğerine, o da kapanırsa bir başkasına videolarımızı yükleyeceğiz artık. Ama website sahipleri için artık kabak tadı vermeye başladı bu kapanma hikayeleri. o yüzden ücra köşelerdeki herkesin kullanmayacağı birkaç site ismi de vereceğim.

@@ -1,25 +1,27 @@
 ---
 title: Nvidia ve Ati Ekran Kartları Performans Karşılaştırma Tablosu
+date: 2009-01-25 00:00:00 +02:00
+permalink: "/nvidia-ve-ati-ekran-kartlari-performans-karsilastirma-tablosu/"
+categories:
+- Bilgisayar
+tags:
+- ati
+- ati radeon
+- Bilgisayar
+- ekran kartı
+- geforce
+- karşılaştırma
+- nvidia
+- performans
+- radeon
 author: emrahyumuk
 layout: post
-permalink: /nvidia-ve-ati-ekran-kartlari-performans-karsilastirma-tablosu/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"7046";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364921815";}'
+- a:3:{s:12:"sayac_toplam";s:4:"7046";s:11:"sayac_bugun";s:1:"1";s:9:"son_okuma";s:10:"1364921815";}
 yazi_resmi:
-  - http://img525.imageshack.us/img525/6303/nvidiavsatiby2.jpg
-categories:
-  - Bilgisayar
-tags:
-  - ati
-  - ati radeon
-  - Bilgisayar
-  - ekran kartı
-  - geforce
-  - karşılaştırma
-  - nvidia
-  - performans
-  - radeon
+- http://img525.imageshack.us/img525/6303/nvidiavsatiby2.jpg
 ---
+
 <span style="color: #ffffff;">.</span>
 
 Uzun zamandır nvidia chipsetli ekran kartı modellerinin hangi ati chipsetli ekran kartı modellerine karşılık geldiğini merak ediyordum. Bir karşılaştırma tablosu arıyordum. Tom&#8217;s Hardware sitesinde bir karşılaştırma tablosu yayımlamışlar. işte karşılaştırma tablosu:

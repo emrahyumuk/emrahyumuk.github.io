@@ -1,18 +1,20 @@
 ---
-title: 'Türkiye&#8217;nin Hatıra Defteri'
+title: Türkiye&#8217;nin Hatıra Defteri
+date: 2008-03-10 00:00:00 +02:00
+permalink: "/turkiyenin-hatira-defteri/"
+categories:
+- Diğer
+tags:
+- belgesel
+- kısa film
+- tarih
+- türkiye
 author: emrahyumuk
 layout: post
-permalink: /turkiyenin-hatira-defteri/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";i:4736;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366291359;}'
-categories:
-  - Diğer
-tags:
-  - belgesel
-  - kısa film
-  - tarih
-  - türkiye
+- a:3:{s:12:"sayac_toplam";i:4736;s:11:"sayac_bugun";i:0;s:9:"son_okuma";i:1366291359;}
 ---
+
 <img class="alignleft" style="border: 0pt none; margin: 5px;" src="http://img383.imageshack.us/img383/2001/thdjd6.jpg" border="7" alt="türkiye'nin hatıra defteri" hspace="5" vspace="5" width="162" height="100" align="left" />Nebil Özgentürk&#8217;ün hazırladığı, 85 yıllık cumhuriyetin dönüm noktalarının insan öyküleriyle aktarıldığı &#8220;Türkiye&#8217;nin Hatıra Defteri&#8221; belgeseli her Cuma 20:30&#8242;da CNNTürk&#8217;te. Tekrarları Pazar 17.05 ve 01.10&#8242; da.
 
 13 bölüm olarak çekilen &#8220;Türkiye&#8217;nin Hatıra Defteri&#8221;, ansiklopedik tarih yerine seyredilebilir bir akışla Türkiye&#8217;nin 85 yılını anlatıyor. Herkesin izlemesi gereken büyük bir özveriyle hazırlanmış kaliteli bir belgesel &#8220;Türkiye&#8217;nin Hatıra Defteri&#8221;.

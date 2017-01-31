@@ -1,28 +1,30 @@
 ---
 title: 'Babylon Alternatifi Ücretsiz Sözlük: Lingoes'
+date: 2011-01-09 00:00:00 +02:00
+permalink: "/babylon-alternatifi-ucretsiz-sozluk-lingoes/"
+categories:
+- Program
+tags:
+- babylon
+- babylon alternatifi
+- dictionary
+- download
+- indir
+- ingilizce türkçe sözlük
+- lingoes
+- lingoes sözlük
+- lingoes sözlük eklenti
+- Program
+- sözlük
+- türkçe ingilizce sözlük
 author: emrahyumuk
 layout: post
-permalink: /babylon-alternatifi-ucretsiz-sozluk-lingoes/
 sayfa_sayac_bilgi:
-  - 'a:3:{s:12:"sayac_toplam";s:4:"4944";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366287590";}'
+- a:3:{s:12:"sayac_toplam";s:4:"4944";s:11:"sayac_bugun";s:1:"0";s:9:"son_okuma";s:10:"1366287590";}
 yazi_resmi:
-  - http://dl.dropbox.com/u/21850338/EmrahYumuk.com/lingoes.png
-categories:
-  - Program
-tags:
-  - babylon
-  - babylon alternatifi
-  - dictionary
-  - download
-  - indir
-  - ingilizce türkçe sözlük
-  - lingoes
-  - lingoes sözlük
-  - lingoes sözlük eklenti
-  - Program
-  - sözlük
-  - türkçe ingilizce sözlük
+- http://dl.dropbox.com/u/21850338/EmrahYumuk.com/lingoes.png
 ---
+
 En çok kullanılan sözlüklerden biri olan **Babylon**&#8216;un en çok can sıkan tarafı şüphesiz ki ücretli olması. Çok kullanışlı bir sözlük olan Babylon&#8217;a güçlü bir alternatif var: **Lingoes**. Hem de ücretsiz.
 
 Babylon&#8217;da olduğu gibi istediğimiz sözlüğü ekleyebileceğimiz Lingoes diğer bütün özellikleriyle Babylon&#8217;u aratmıyor. Dil seçenekleri arasında **Türkçe**&#8216;nin de olması sevindirici.
