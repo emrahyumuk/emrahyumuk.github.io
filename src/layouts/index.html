@@ -1,16 +1,19 @@
 <!doctype html>
 <html>
+
 <head>
-    {{@head.html}}
+    {{> head }}
 </head>
+
 <body class="fixed-header">
     <div class="page-box">
         <div class="page-box-content">
-            {{@navigation.html}}
-            {{content}}
+            {{> navigation }} 
+            {{{ contents }}}
         </div>
     </div>
-    {{@footer.html}}
-    {{@scripts.html}}
+    {{> footer }} 
+    {{> scripts }}
 </body>
+
 </html>
