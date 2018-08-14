@@ -1,6 +1,0 @@
-
-http://ardalis.com/sql-server-prevent-saving-changes-that-require-table-to-be-re-created
-
-http://www.muammerbenzes.com/post/SQL-Server-2008-tablo-degistirme-hatasini-giderme-Saving-changes-is-not-permitted-Prevent-saving-changes-that-require-table-re-creation.aspx
-
-http://ykare.net/sql-server-2008-saving-changes-not-permitted/
